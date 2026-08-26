@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T17:27:39",
+  "last_updated": "2026-08-26T18:46:17",
   "html": {
     "https://web.archive.org/web/20260823050337if_/https://twitter.com/AIAIFOREVER/status/2091390883015090528": {
       "status": "done",
@@ -32,9 +32,9 @@
     },
     "https://web.archive.org/web/20260823043844if_/https://twitter.com/AIAIFOREVER/status/2091384619765772412": {
       "status": "failed",
-      "last_updated": "2026-08-26T17:26:10",
+      "last_updated": "2026-08-26T18:46:17",
       "last_reason": "HTML 下载失败：ConnectionError: HTTPSConnectionPool(host='web.archive.org', port=443): Max retries exceeded with url: /web/20260823043844if_/https://twitter.com/AIAIFOREVER/status/2091384619765772412 (Caus",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://web.archive.org/web/20260823035918if_/https://twitter.com/AIAIFOREVER/status/2091374696000589903": {
       "status": "done",
