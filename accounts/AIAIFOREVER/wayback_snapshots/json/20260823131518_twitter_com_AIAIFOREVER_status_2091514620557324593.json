@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091478812597031202",
+    "created_at": "2026-08-23T13:15:18.000Z",
+    "display_text_range": [
+      16,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:15:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091514620557324593"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "865262293717729280",
+          "start": 0,
+          "username": "Kochiya_hikali"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091514620557324593",
+    "in_reply_to_user_id": "865262293717729280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091478812597031202",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kochiya_hikali 大悦城吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2091478806515404800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZs5LWb0AA31LJ.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091478812597031202",
+        "created_at": "2026-08-23T13:15:18.000Z",
+        "display_text_range": [
+          16,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:15:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091514620557324593"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "865262293717729280",
+              "start": 0,
+              "username": "Kochiya_hikali"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091514620557324593",
+        "in_reply_to_user_id": "865262293717729280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091478812597031202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kochiya_hikali 大悦城吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091478806515404800"
+          ]
+        },
+        "author_id": "865262293717729280",
+        "conversation_id": "2091478812597031202",
+        "created_at": "2026-08-23T10:53:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T11:53:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091478812597031202"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cPPf9yQpUE",
+              "end": 35,
+              "expanded_url": "https://x.com/Kochiya_hikali/status/2091478812597031202/photo/1",
+              "media_key": "3_2091478806515404800",
+              "start": 12,
+              "url": "https://t.co/cPPf9yQpUE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091478812597031202",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091478806515404800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 36,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天也是拓麻歌子的一天 https://t.co/cPPf9yQpUE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091514620557324593",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 406,
+          "like_count": 5909,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1785
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-05-18T17:46:21.000Z",
+        "description": "可以叫东风也可以叫苦瓜/ff14gpose初心者/鸟区忠诚的猫男/也是忠诚的龙娘爱好者/nsfw+少量sfw/欢迎DM/平时会有模型摄影和奇怪的xp发言/play for own/内人@dew_snowy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 102,
+                "start": 92,
+                "username": "dew_snowy"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kochiya-hikali.bsky.social",
+                "end": 23,
+                "expanded_url": "http://kochiya-hikali.bsky.social",
+                "start": 0,
+                "url": "https://t.co/BG6F2nhxsL"
+              }
+            ]
+          }
+        },
+        "id": "865262293717729280",
+        "is_identity_verified": false,
+        "location": "距离 因你而定",
+        "most_recent_tweet_id": "2091478812597031202",
+        "name": "Kochiya",
+        "pinned_tweet_id": "1553032109291253761",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/865262293717729280/1744831188",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1912586732731789312/cjjGjC7X_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 887,
+          "like_count": 7480,
+          "listed_count": 5,
+          "media_count": 275,
+          "tweet_count": 6121
+        },
+        "url": "https://t.co/BG6F2nhxsL",
+        "username": "Kochiya_hikali",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

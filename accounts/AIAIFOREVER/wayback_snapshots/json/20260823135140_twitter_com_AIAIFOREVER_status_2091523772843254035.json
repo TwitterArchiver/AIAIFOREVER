@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091523772843254035",
+    "created_at": "2026-08-23T13:51:40.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T14:51:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091523772843254035"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1866397860746686464",
+          "start": 3,
+          "username": "qc6xa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091523772843254035",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 619
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091447817558716427",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "mentionedUsers",
+    "text": "RT @qc6xa: どれだけ金欠でも本屋や映画館や美術館にお金を落とす自分が少し好きだったりする"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091523772843254035",
+        "created_at": "2026-08-23T13:51:40.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T14:51:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091523772843254035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1866397860746686464",
+              "start": 3,
+              "username": "qc6xa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091523772843254035",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 619
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091447817558716427",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "mentionedUsers",
+        "text": "RT @qc6xa: どれだけ金欠でも本屋や映画館や美術館にお金を落とす自分が少し好きだったりする"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866397860746686464",
+        "conversation_id": "2091447817558716427",
+        "created_at": "2026-08-23T08:49:51.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:49:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091447817558716427"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091447817558716427",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 470,
+          "impression_count": 280143,
+          "like_count": 13564,
+          "quote_count": 75,
+          "reply_count": 1,
+          "retweet_count": 619
+        },
+        "reply_settings": "mentionedUsers",
+        "text": "どれだけ金欠でも本屋や映画館や美術館にお金を落とす自分が少し好きだったりする"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091523772843254035",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 410,
+          "like_count": 5943,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1790
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-10T08:21:48.000Z",
+        "description": "@2cnqa0\nエッセイ予約受付中↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "2cnqa0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amzn.to/462hl2F",
+                "end": 23,
+                "expanded_url": "https://amzn.to/462hl2F",
+                "start": 0,
+                "url": "https://t.co/dTBw8oxvwS"
+              }
+            ]
+          }
+        },
+        "id": "1866397860746686464",
+        "is_identity_verified": false,
+        "location": "instagram：2cnqa0",
+        "most_recent_tweet_id": "2091456725010522506",
+        "name": "‎ْ",
+        "pinned_tweet_id": "2089012156155175254",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081319687988854784/pzmuTbK8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 308,
+          "following_count": 15,
+          "like_count": 225,
+          "listed_count": 2,
+          "media_count": 0,
+          "tweet_count": 20
+        },
+        "url": "https://t.co/dTBw8oxvwS",
+        "username": "qc6xa",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

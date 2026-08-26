@@ -1,0 +1,263 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091531260279799817",
+    "created_at": "2026-08-23T16:16:48.000Z",
+    "display_text_range": [
+      14,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T17:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091560294376214796"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2071048854594891776",
+          "start": 0,
+          "username": "yoshiakira24"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091560294376214796",
+    "in_reply_to_user_id": "2071048854594891776",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091559953979117777",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yoshiakira24 送我一根，bushi，我好難過啊自己在演唱會拿到的被前朋友弄丟了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 960,
+        "media_key": "3_2091559946303451136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQa2sInaMAAhQxJ.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091531260279799817",
+        "created_at": "2026-08-23T16:16:48.000Z",
+        "display_text_range": [
+          14,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091560294376214796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2071048854594891776",
+              "start": 0,
+              "username": "yoshiakira24"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091560294376214796",
+        "in_reply_to_user_id": "2071048854594891776",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091559953979117777",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yoshiakira24 送我一根，bushi，我好難過啊自己在演唱會拿到的被前朋友弄丟了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091559946303451136"
+          ]
+        },
+        "author_id": "2071048854594891776",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091531260279799817",
+        "created_at": "2026-08-23T16:15:26.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:15:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091559953979117777"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRAjxny3jG",
+              "end": 42,
+              "expanded_url": "https://x.com/yoshiakira24/status/2091559953979117777/photo/1",
+              "media_key": "3_2091559946303451136",
+              "start": 19,
+              "url": "https://t.co/zRAjxny3jG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091559953979117777",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091559946303451136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091531260279799817",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 刚入了2根 https://t.co/zRAjxny3jG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091560294376214796",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 345,
+          "following_count": 413,
+          "like_count": 5999,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1796
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T01:52:55.000Z",
+        "description": "この世をば 我が世とぞ思ふ\n 望月の 欠けたることも 無しと思へば\n飞舞教师躺平中 求互fo带我玩\n主推Lovelive！全系列 \n赛马娘/fgo有在玩",
+        "id": "2071048854594891776",
+        "is_identity_verified": false,
+        "location": "伊谢尔伦共和政府",
+        "most_recent_tweet_id": "2091559953979117777",
+        "name": "義詮Kanan",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071048854594891776/1785733663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084144156000366592/KSFv4Ylo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 555,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 249
+        },
+        "url": "",
+        "username": "yoshiakira24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

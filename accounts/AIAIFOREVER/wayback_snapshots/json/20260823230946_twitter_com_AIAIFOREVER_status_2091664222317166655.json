@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091590650865303938",
+    "created_at": "2026-08-23T23:09:46.000Z",
+    "display_text_range": [
+      15,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T00:09:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091664222317166655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2044867766931607552",
+          "start": 0,
+          "username": "RebeIliousBoY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091664222317166655",
+    "in_reply_to_user_id": "2044867766931607552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091590650865303938",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RebeIliousBoY 兄弟這裡只有晚自習和做不完的試卷和批不下來的頭髮和被犧牲的睡眠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091590650865303938",
+        "created_at": "2026-08-23T23:09:46.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T00:09:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091664222317166655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2044867766931607552",
+              "start": 0,
+              "username": "RebeIliousBoY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091664222317166655",
+        "in_reply_to_user_id": "2044867766931607552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091590650865303938",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RebeIliousBoY 兄弟這裡只有晚自習和做不完的試卷和批不下來的頭髮和被犧牲的睡眠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2044867766931607552",
+        "conversation_id": "2091590650865303938",
+        "created_at": "2026-08-23T18:17:25.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T19:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091590650865303938"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091590650865303938",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "兄弟我懂你 你再怎么烟头和脏匡威 美国的风都只存在于耳机里的中西部 这里没有那样的玫瑰色人生 没有伙伴和滑板 没有帽子下的创可贴和雀斑 金发或是自由不羁 更没有青春期情绪里的浪漫淡香"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091664222317166655",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 414,
+          "like_count": 5999,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1799
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-04-16T19:57:43.000Z",
+        "description": "只希望生活可以充实一点 \n互fo",
+        "id": "2044867766931607552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091608059219185768",
+        "name": "Sonic",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2044867766931607552/1787387201",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091079621500657664/5B6t68lb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 13,
+          "like_count": 244,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 77
+        },
+        "url": "",
+        "username": "RebeIliousBoY",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

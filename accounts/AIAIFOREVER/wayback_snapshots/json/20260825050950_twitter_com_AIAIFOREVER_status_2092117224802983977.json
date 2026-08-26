@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092117224802983977",
+    "created_at": "2026-08-25T05:09:50.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T06:09:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092117224802983977"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/type3962/statu…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/type3962/status/2091562565960880572",
+          "start": 9,
+          "url": "https://t.co/yQdCxYUCb7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092117224802983977",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091562565960880572",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "骗你的不在学校也 https://t.co/yQdCxYUCb7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 14535,
+        "height": 720,
+        "media_key": "13_2091562529260785664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091562529260785664/img/jJ56W6otNeiBt5y6.jpg",
+        "public_metrics": {
+          "view_count": 332109
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091562529260785664/vid/avc1/272x270/Wrz4Gv6oDEnfZ9fi.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091562529260785664/vid/avc1/364x360/CnhKBDEZEOUDz8m8.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091562529260785664/vid/avc1/728x720/0nDKtWU40UKfTFJp.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091562529260785664/pl/dto2w4PcsBpSk6Qs.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 728
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092117224802983977",
+        "created_at": "2026-08-25T05:09:50.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:09:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092117224802983977"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/type3962/statu…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/type3962/status/2091562565960880572",
+              "start": 9,
+              "url": "https://t.co/yQdCxYUCb7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092117224802983977",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091562565960880572",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "骗你的不在学校也 https://t.co/yQdCxYUCb7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091562529260785664"
+          ]
+        },
+        "author_id": "1950909985833283584",
+        "conversation_id": "2091562565960880572",
+        "created_at": "2026-08-23T16:25:49.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T17:25:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091562565960880572"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xArFptizNO",
+              "end": 32,
+              "expanded_url": "https://x.com/type3962/status/2091562565960880572/video/1",
+              "media_key": "13_2091562529260785664",
+              "start": 9,
+              "url": "https://t.co/xArFptizNO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091562565960880572",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2091562529260785664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2733,
+          "impression_count": 777218,
+          "like_count": 31436,
+          "quote_count": 216,
+          "reply_count": 66,
+          "retweet_count": 4583
+        },
+        "reply_settings": "everyone",
+        "text": "明日学校で今これ https://t.co/xArFptizNO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092117224802983977",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 414,
+          "like_count": 6198,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1840
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-31T13:22:53.000Z",
+        "description": "@type3964←サブ\n@type3965←鍵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 9,
+                "start": 0,
+                "username": "type3964"
+              },
+              {
+                "end": 22,
+                "start": 13,
+                "username": "type3965"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "querie.me/user/type3962",
+                "end": 23,
+                "expanded_url": "https://querie.me/user/type3962",
+                "start": 0,
+                "url": "https://t.co/6TePnM7j0S"
+              }
+            ]
+          }
+        },
+        "id": "1950909985833283584",
+        "is_identity_verified": false,
+        "location": "おお",
+        "most_recent_tweet_id": "2091924758036426765",
+        "name": "グラナード",
+        "pinned_tweet_id": "2069796964494143663",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1950909985833283584/1757170500",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078459231855063040/hs4Y9ryB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1042,
+          "following_count": 1073,
+          "like_count": 59935,
+          "listed_count": 4,
+          "media_count": 1336,
+          "tweet_count": 7402
+        },
+        "url": "https://t.co/6TePnM7j0S",
+        "username": "type3962",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

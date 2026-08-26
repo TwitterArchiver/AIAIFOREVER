@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091727397955760128"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091727662012408141",
+    "created_at": "2026-08-24T03:21:51.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T04:21:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091727662012408141"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uKzo2bO4eh",
+          "end": 62,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2091727662012408141/photo/1",
+          "media_key": "3_2091727397955760128",
+          "start": 39,
+          "url": "https://t.co/uKzo2bO4eh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091727662012408141",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091727397955760128"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "像一條蛆窺探別人的人生，我也好想有才華，有錢去留學，圖上是我馬上回美國的朋友 https://t.co/uKzo2bO4eh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091727397955760128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdO_Goa8AAgMnb.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091727397955760128"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091727662012408141",
+        "created_at": "2026-08-24T03:21:51.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:21:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091727662012408141"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uKzo2bO4eh",
+              "end": 62,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2091727662012408141/photo/1",
+              "media_key": "3_2091727397955760128",
+              "start": 39,
+              "url": "https://t.co/uKzo2bO4eh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091727662012408141",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091727397955760128"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "像一條蛆窺探別人的人生，我也好想有才華，有錢去留學，圖上是我馬上回美國的朋友 https://t.co/uKzo2bO4eh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091727662012408141",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 414,
+          "like_count": 6043,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1809
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091390883015090528",
+    "created_at": "2026-08-23T05:03:37.000Z",
+    "display_text_range": [
+      0,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:03:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091390883015090528"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rlxodh/status/…",
+          "end": 52,
+          "expanded_url": "https://twitter.com/rlxodh/status/2091227054276747266",
+          "start": 29,
+          "url": "https://t.co/IUaUvwf6X7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091390883015090528",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091227054276747266",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "棒子人死了，，看不懂正统偶像就回你棒子国看工业流水线爱豆 https://t.co/IUaUvwf6X7"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 42708,
+        "height": 1280,
+        "media_key": "13_2091226974702448640",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2091226974702448640/img/oMzh2vk7u1FsDDJT.jpg",
+        "public_metrics": {
+          "view_count": 42276
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091226974702448640/vid/avc1/320x578/KLQUzSR9rH4uDv7_.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091226974702448640/vid/avc1/480x866/SJ9Q9QDgA9tp8o1E.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2091226974702448640/vid/avc1/708x1280/HI1mE_4-w7npszQR.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2091226974702448640/pl/UULbFZqkRiMJefJ1.m3u8?v=cdc"
+          }
+        ],
+        "width": 708
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091390883015090528",
+        "created_at": "2026-08-23T05:03:37.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:03:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091390883015090528"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rlxodh/status/…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/rlxodh/status/2091227054276747266",
+              "start": 29,
+              "url": "https://t.co/IUaUvwf6X7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091390883015090528",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091227054276747266",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "棒子人死了，，看不懂正统偶像就回你棒子国看工业流水线爱豆 https://t.co/IUaUvwf6X7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2091226974702448640"
+          ]
+        },
+        "author_id": "1952674476719771648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Seoul Broadcasting System. This entity includes all channels that belong to the SBS umbrella organization.",
+              "id": "1063507367373889536",
+              "name": "SBS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Seoul Broadcasting System. This entity includes all channels that belong to the SBS umbrella organization.",
+              "id": "1063507367373889536",
+              "name": "SBS"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447585004736512",
+              "name": "Entertainment industry"
+            }
+          }
+        ],
+        "conversation_id": "2091227054276747266",
+        "created_at": "2026-08-22T18:12:37.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T19:12:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091227054276747266"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uNjb7ce94M",
+              "end": 58,
+              "expanded_url": "https://x.com/rlxodh/status/2091227054276747266/video/1",
+              "media_key": "13_2091226974702448640",
+              "start": 35,
+              "url": "https://t.co/uNjb7ce94M"
+            },
+            {
+              "display_url": "x.com/shxosg/status/…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/shxosg/status/2091106240369926596",
+              "start": 59,
+              "url": "https://t.co/XYbqHF3DU3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091227054276747266",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2091226974702448640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 157,
+          "impression_count": 106724,
+          "like_count": 773,
+          "quote_count": 126,
+          "reply_count": 2,
+          "retweet_count": 169
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091106240369926596",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "뭔솔 럽라 콘서트를 봐 비주얼도 노래도 엥간한 아이돌 발라버림 https://t.co/uNjb7ce94M https://t.co/XYbqHF3DU3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091390883015090528",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 399,
+          "like_count": 5806,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1768
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-05T10:14:22.000Z",
+        "description": "정신병 발산소",
+        "id": "1952674476719771648",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091383515648868781",
+        "name": "치토",
+        "pinned_tweet_id": "2042450763570696203",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1952674476719771648/1754389955",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952681200767873024/7vq0w3ux_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 0,
+          "like_count": 8863,
+          "listed_count": 1,
+          "media_count": 55,
+          "tweet_count": 680
+        },
+        "url": "",
+        "username": "rlxodh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

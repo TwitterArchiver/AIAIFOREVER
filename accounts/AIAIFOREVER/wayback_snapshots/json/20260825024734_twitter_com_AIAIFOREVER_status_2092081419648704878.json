@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092081419648704878",
+    "created_at": "2026-08-25T02:47:34.000Z",
+    "display_text_range": [
+      0,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T03:47:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092081419648704878"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/TomoriNao2022/…",
+          "end": 36,
+          "expanded_url": "https://twitter.com/TomoriNao2022/status/2091901154326442098",
+          "start": 13,
+          "url": "https://t.co/FgmZBdngOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092081419648704878",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091901154326442098",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别骂了我家就住这种鸽子笼 https://t.co/FgmZBdngOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1439,
+        "media_key": "3_2091900466330468352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQfsZAkaAAAAjzP.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092081419648704878",
+        "created_at": "2026-08-25T02:47:34.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T03:47:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092081419648704878"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/TomoriNao2022/…",
+              "end": 36,
+              "expanded_url": "https://twitter.com/TomoriNao2022/status/2091901154326442098",
+              "start": 13,
+              "url": "https://t.co/FgmZBdngOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092081419648704878",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091901154326442098",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别骂了我家就住这种鸽子笼 https://t.co/FgmZBdngOT"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091900466330468352"
+          ]
+        },
+        "author_id": "1528798633168347137",
+        "conversation_id": "2091901154326442098",
+        "created_at": "2026-08-24T14:51:15.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:51:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091901154326442098"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zNah5Vueo2",
+              "end": 77,
+              "expanded_url": "https://x.com/TomoriNao2022/status/2091901154326442098/photo/1",
+              "media_key": "3_2091900466330468352",
+              "start": 54,
+              "url": "https://t.co/zNah5Vueo2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091901154326442098",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091900466330468352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 22165,
+          "like_count": 382,
+          "quote_count": 13,
+          "reply_count": 53,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "人类诞生以来最丑的建筑就是大黄楼。\n\n灰蒙蒙的天，聊胜于无的绿化加高耸难看的大黄楼，像某种昆虫的巢穴一样。 https://t.co/zNah5Vueo2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092081419648704878",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 414,
+          "like_count": 6181,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1837
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！\ntelegram：https://t.co/K8jioEkL4s\ndiscord：https://t.co/ZFHCRnHUMK",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 48,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 25,
+                "url": "https://t.co/K8jioEkL4s"
+              },
+              {
+                "display_url": "discord.gg/RXmHUMUdGN",
+                "end": 80,
+                "expanded_url": "https://discord.gg/RXmHUMUdGN",
+                "start": 57,
+                "url": "https://t.co/ZFHCRnHUMK"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+wVgo88kx8FphN…",
+                "end": 23,
+                "expanded_url": "https://t.me/+wVgo88kx8FphNjdl",
+                "start": 0,
+                "url": "https://t.co/K8jioEkL4s"
+              }
+            ]
+          }
+        },
+        "id": "1528798633168347137",
+        "is_identity_verified": false,
+        "location": "神奈川県",
+        "most_recent_tweet_id": "2092081055696351327",
+        "name": "なおNaO",
+        "pinned_tweet_id": "2073983646399365630",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1528798633168347137/1653500269",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19909,
+          "following_count": 2842,
+          "like_count": 12531,
+          "listed_count": 67,
+          "media_count": 3240,
+          "tweet_count": 11844
+        },
+        "url": "https://t.co/K8jioEkL4s",
+        "username": "TomoriNao2022",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

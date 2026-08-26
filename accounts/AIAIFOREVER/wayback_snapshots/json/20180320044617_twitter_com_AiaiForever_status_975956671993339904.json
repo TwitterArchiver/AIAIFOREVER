@@ -1,0 +1,138 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Tue Mar 20 04:46:17 +0000 2018",
+  "entities": {
+    "hashtags": [
+      {
+        "indices": [
+          15,
+          27
+        ],
+        "text": "ココナッツサブレ320"
+      },
+      {
+        "indices": [
+          28,
+          34
+        ],
+        "text": "日清シスコ"
+      },
+      {
+        "indices": [
+          35,
+          43
+        ],
+        "text": "私立恵比寿中学"
+      },
+      {
+        "indices": [
+          44,
+          49
+        ],
+        "text": "真山りか"
+      },
+      {
+        "indices": [
+          50,
+          55
+        ],
+        "text": "安本彩花"
+      },
+      {
+        "indices": [
+          56,
+          61
+        ],
+        "text": "星名美怜"
+      },
+      {
+        "indices": [
+          63,
+          69
+        ],
+        "text": "柏木ひなた"
+      },
+      {
+        "indices": [
+          70,
+          75
+        ],
+        "text": "小林歌穂"
+      },
+      {
+        "indices": [
+          76,
+          81
+        ],
+        "text": "中山莉子"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 975956671993339904,
+  "id_str": "975956671993339904",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "ja",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+  "text": "こういうのは当たらない人…\n\n#ココナッツサブレ320\n#日清シスコ\n#私立恵比寿中学\n#真山りか\n#安本彩花\n#星名美怜 \n#柏木ひなた\n#小林歌穂\n#中山莉子",
+  "timestamp_ms": "1521521177658",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Tue Oct 17 10:54:57 +0000 2017",
+    "default_profile": true,
+    "default_profile_image": false,
+    "description": "forever aiaiで卒業する予定がebichu prideで卒業を選ばず留年を選んだおじさん…エビマニ、エビアゲ、ひなた生誕、莉子自習、春ツ大宮からの参戦。合間を縫ってperfume、EdSheeranのライヴ、時間あればJAZZのライヴハウスに顔出す音漬けな日々…",
+    "favourites_count": 1251,
+    "follow_request_sent": null,
+    "followers_count": 44,
+    "following": null,
+    "friends_count": 39,
+    "geo_enabled": false,
+    "id": 920241716103229442,
+    "id_str": "920241716103229442",
+    "is_translator": false,
+    "lang": "ja",
+    "listed_count": 0,
+    "location": null,
+    "name": "推し悩みな留年生（笑）",
+    "notifications": null,
+    "profile_background_color": "F5F8FA",
+    "profile_background_image_url": "",
+    "profile_background_image_url_https": "",
+    "profile_background_tile": false,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/920241716103229442/1508238600",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/930945290848256000/JET8ei3a_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/930945290848256000/JET8ei3a_normal.jpg",
+    "profile_link_color": "1DA1F2",
+    "profile_sidebar_border_color": "C0DEED",
+    "profile_sidebar_fill_color": "DDEEF6",
+    "profile_text_color": "333333",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "AiaiForever",
+    "statuses_count": 514,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

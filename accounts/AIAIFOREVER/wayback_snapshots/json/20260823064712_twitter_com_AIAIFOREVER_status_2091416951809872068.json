@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091416951809872068",
+    "created_at": "2026-08-23T06:47:12.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:47:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091416951809872068"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yukiF007/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/yukiF007/status/2091272080998424900",
+          "start": 4,
+          "url": "https://t.co/S4odwPaby3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091416951809872068",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091272080998424900",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我也想 https://t.co/S4odwPaby3"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091416951809872068",
+        "created_at": "2026-08-23T06:47:12.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:47:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091416951809872068"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yukiF007/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/yukiF007/status/2091272080998424900",
+              "start": 4,
+              "url": "https://t.co/S4odwPaby3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091416951809872068",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091272080998424900",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我也想 https://t.co/S4odwPaby3"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901301737065205760",
+        "conversation_id": "2091272080998424900",
+        "created_at": "2026-08-22T21:11:32.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T22:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091272080998424900"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091272080998424900",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 12,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "想死前把自己拆了卖掉 钱都给妈妈 我真的好心疼她"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091416951809872068",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 400,
+          "like_count": 5843,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1780
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-16T15:57:27.000Z",
+        "description": "爱我的宝宝会在醒来发现美羊羊放在床头的青草蛋糕 \n全国可飞 私信除妹子和口令不回ㅎㅅㅎ\n小宝宝@hatsunya6 @MARETUxx",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "hatsunya6"
+              },
+              {
+                "end": 67,
+                "start": 58,
+                "username": "MARETUxx"
+              }
+            ]
+          }
+        },
+        "id": "1901301737065205760",
+        "is_identity_verified": false,
+        "location": "羊村",
+        "most_recent_tweet_id": "2091272080998424900",
+        "name": "美羊羊",
+        "pinned_tweet_id": "1999883189700235495",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1901301737065205760/1773721598",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901302085376933888/9IGwbsDU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1063,
+          "following_count": 25,
+          "like_count": 218,
+          "listed_count": 4,
+          "media_count": 96,
+          "tweet_count": 352
+        },
+        "url": "",
+        "username": "yukiF007",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

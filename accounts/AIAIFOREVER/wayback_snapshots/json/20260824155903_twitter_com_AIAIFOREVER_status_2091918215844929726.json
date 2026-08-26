@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091727662012408141",
+    "created_at": "2026-08-24T15:59:03.000Z",
+    "display_text_range": [
+      7,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T16:59:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091918215844929726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "1799439179992158209",
+          "start": 0,
+          "username": "N08T4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091918215844929726",
+    "in_reply_to_user_id": "1799439179992158209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091913404655309205",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@N08T4 我也羡慕，羡慕到要跳楼了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091727662012408141",
+        "created_at": "2026-08-24T15:59:03.000Z",
+        "display_text_range": [
+          7,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:59:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091918215844929726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "1799439179992158209",
+              "start": 0,
+              "username": "N08T4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091918215844929726",
+        "in_reply_to_user_id": "1799439179992158209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091913404655309205",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@N08T4 我也羡慕，羡慕到要跳楼了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799439179992158209",
+        "conversation_id": "2091727662012408141",
+        "created_at": "2026-08-24T15:39:56.000Z",
+        "display_text_range": [
+          13,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T16:39:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091913404655309205"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091913404655309205",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091727662012408141",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 好羡慕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091918215844929726",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 415,
+          "like_count": 6129,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1825
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-08T13:51:57.000Z",
+        "description": "美国人的时候@sipsick0\ndemiboy",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 6,
+                "username": "sipsick0"
+              }
+            ]
+          }
+        },
+        "id": "1799439179992158209",
+        "is_identity_verified": false,
+        "location": "你的床下",
+        "most_recent_tweet_id": "2091913714387837300",
+        "name": "呃",
+        "pinned_tweet_id": "1980359410779320339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1799439179992158209/1738842418",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008855223159398400/ARjl8tJL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 108,
+          "like_count": 10319,
+          "listed_count": 0,
+          "media_count": 168,
+          "tweet_count": 1738
+        },
+        "url": "",
+        "username": "N08T4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

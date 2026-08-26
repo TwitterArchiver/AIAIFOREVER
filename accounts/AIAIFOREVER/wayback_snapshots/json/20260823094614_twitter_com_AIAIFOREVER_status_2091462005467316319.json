@@ -1,0 +1,470 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091400229497274368",
+        "3_2091400229534969856",
+        "3_2091400229530796032",
+        "3_2091400229564338176"
+      ],
+      "media_source_tweet_id": [
+        "2091400234555646094",
+        "2091400234555646094",
+        "2091400234555646094",
+        "2091400234555646094"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2091462005467316319",
+    "created_at": "2026-08-23T09:46:14.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T10:46:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091462005467316319"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1495003973245628419",
+          "start": 3,
+          "username": "Kiin_00"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/8KNEHvCNFw",
+          "end": 46,
+          "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+          "media_key": "3_2091400229497274368",
+          "start": 23,
+          "url": "https://t.co/8KNEHvCNFw"
+        },
+        {
+          "display_url": "pic.x.com/8KNEHvCNFw",
+          "end": 46,
+          "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+          "media_key": "3_2091400229534969856",
+          "start": 23,
+          "url": "https://t.co/8KNEHvCNFw"
+        },
+        {
+          "display_url": "pic.x.com/8KNEHvCNFw",
+          "end": 46,
+          "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+          "media_key": "3_2091400229530796032",
+          "start": 23,
+          "url": "https://t.co/8KNEHvCNFw"
+        },
+        {
+          "display_url": "pic.x.com/8KNEHvCNFw",
+          "end": 46,
+          "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+          "media_key": "3_2091400229564338176",
+          "start": 23,
+          "url": "https://t.co/8KNEHvCNFw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091462005467316319",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091400229497274368"
+      },
+      {
+        "media_key": "3_2091400229534969856"
+      },
+      {
+        "media_key": "3_2091400229530796032"
+      },
+      {
+        "media_key": "3_2091400229564338176"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 322
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091400234555646094",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Kiin_00: 🟧水しぶきのサイン https://t.co/8KNEHvCNFw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2091400229497274368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYlbZJbAAA-3SV.jpg",
+        "width": 883
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091400229534969856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYlbZSaMAAGsug.jpg",
+        "width": 881
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091400229530796032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYlbZRagAAvU5S.jpg",
+        "width": 881
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2091400229564338176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQYlbZZaUAAwoRa.jpg",
+        "width": 882
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091400229497274368",
+            "3_2091400229534969856",
+            "3_2091400229530796032",
+            "3_2091400229564338176"
+          ],
+          "media_source_tweet_id": [
+            "2091400234555646094",
+            "2091400234555646094",
+            "2091400234555646094",
+            "2091400234555646094"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091462005467316319",
+        "created_at": "2026-08-23T09:46:14.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:46:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091462005467316319"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1495003973245628419",
+              "start": 3,
+              "username": "Kiin_00"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 46,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229497274368",
+              "start": 23,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 46,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229534969856",
+              "start": 23,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 46,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229530796032",
+              "start": 23,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 46,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229564338176",
+              "start": 23,
+              "url": "https://t.co/8KNEHvCNFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091462005467316319",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091400229497274368"
+          },
+          {
+            "media_key": "3_2091400229534969856"
+          },
+          {
+            "media_key": "3_2091400229530796032"
+          },
+          {
+            "media_key": "3_2091400229564338176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091400234555646094",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Kiin_00: 🟧水しぶきのサイン https://t.co/8KNEHvCNFw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091400229497274368",
+            "3_2091400229534969856",
+            "3_2091400229530796032",
+            "3_2091400229564338176"
+          ]
+        },
+        "author_id": "1495003973245628419",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2091400234555646094",
+        "created_at": "2026-08-23T05:40:46.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:40:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091400234555646094"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 33,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229497274368",
+              "start": 10,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 33,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229534969856",
+              "start": 10,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 33,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229530796032",
+              "start": 10,
+              "url": "https://t.co/8KNEHvCNFw"
+            },
+            {
+              "display_url": "pic.x.com/8KNEHvCNFw",
+              "end": 33,
+              "expanded_url": "https://x.com/Kiin_00/status/2091400234555646094/photo/1",
+              "media_key": "3_2091400229564338176",
+              "start": 10,
+              "url": "https://t.co/8KNEHvCNFw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091400234555646094",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091400229497274368"
+          },
+          {
+            "media_key": "3_2091400229534969856"
+          },
+          {
+            "media_key": "3_2091400229530796032"
+          },
+          {
+            "media_key": "3_2091400229564338176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 20153,
+          "like_count": 1024,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 322
+        },
+        "reply_settings": "everyone",
+        "text": "🟧水しぶきのサイン https://t.co/8KNEHvCNFw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091462005467316319",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 342,
+          "following_count": 405,
+          "like_count": 5900,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1782
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-19T11:55:10.000Z",
+        "description": "🦊🔔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/kiin_0000?igsh…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/kiin_0000?igsh=MXg2aGxoM3ZjMGJ4ZA%3D%3D&utm_source=qr",
+                "start": 0,
+                "url": "https://t.co/xC3di2RmFA"
+              }
+            ]
+          }
+        },
+        "id": "1495003973245628419",
+        "is_identity_verified": false,
+        "location": "宮城/絵のご依頼•ご相談はDMまで",
+        "most_recent_tweet_id": "2091407203706236949",
+        "name": "きぃん",
+        "pinned_tweet_id": "2042256231272996925",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495003973245628419/1786170782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031383086735462401/TOxrCRaq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2926,
+          "following_count": 772,
+          "like_count": 21463,
+          "listed_count": 37,
+          "media_count": 523,
+          "tweet_count": 13298
+        },
+        "url": "https://t.co/xC3di2RmFA",
+        "username": "Kiin_00",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

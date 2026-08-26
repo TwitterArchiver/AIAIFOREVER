@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091385211389112353",
+    "created_at": "2026-08-23T04:41:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T05:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091385211389112353"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2069804235248762880",
+          "start": 3,
+          "username": "Jiaiii2w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091385211389112353",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 87
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090951026262286673",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Jiaiii2w: 基实男的都很聪明，他知道不回复消息你会失落  他知道和暧昧的女生撇清关系会让你安心，其实他根本没有你想象中的那么笨 他都懂，他就是要冷落你 他就是要让你难受 就是不回你信息，就是要让你胡思乱想他就是揣着明白装糊涂，还要把你每天变得内耗焦虑，你说其实他…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091385211389112353",
+        "created_at": "2026-08-23T04:41:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T05:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091385211389112353"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2069804235248762880",
+              "start": 3,
+              "username": "Jiaiii2w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091385211389112353",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 87
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090951026262286673",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Jiaiii2w: 基实男的都很聪明，他知道不回复消息你会失落  他知道和暧昧的女生撇清关系会让你安心，其实他根本没有你想象中的那么笨 他都懂，他就是要冷落你 他就是要让你难受 就是不回你信息，就是要让你胡思乱想他就是揣着明白装糊涂，还要把你每天变得内耗焦虑，你说其实他…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2069804235248762880",
+        "conversation_id": "2090951026262286673",
+        "created_at": "2026-08-21T23:55:47.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T00:55:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090951026262286673"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2090951026262286673",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 91,
+          "impression_count": 47390,
+          "like_count": 1183,
+          "quote_count": 11,
+          "reply_count": 146,
+          "retweet_count": 87
+        },
+        "reply_settings": "everyone",
+        "text": "基实男的都很聪明，他知道不回复消息你会失落  他知道和暧昧的女生撇清关系会让你安心，其实他根本没有你想象中的那么笨 他都懂，他就是要冷落你 他就是要让你难受 就是不回你信息，就是要让你胡思乱想他就是揣着明白装糊涂，还要把你每天变得内耗焦虑，你说其实他对你挺好的后来你怎么又哭了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091385211389112353",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 338,
+          "following_count": 398,
+          "like_count": 5793,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1765
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-24T15:28:22.000Z",
+        "description": "",
+        "id": "2069804235248762880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091380676558041409",
+        "name": "yanxzweile",
+        "pinned_tweet_id": "2090951026262286673",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2069804235248762880/1787022496",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089549867224096768/zGAkJKde_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9,
+          "following_count": 59,
+          "like_count": 49,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 7
+        },
+        "url": "",
+        "username": "Jiaiii2w",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

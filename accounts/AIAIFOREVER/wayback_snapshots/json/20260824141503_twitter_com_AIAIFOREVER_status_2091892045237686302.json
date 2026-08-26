@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091892045237686302",
+    "created_at": "2026-08-24T14:15:03.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091892045237686302"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2008390583698812929",
+          "start": 3,
+          "username": "Niniouo__"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091892045237686302",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 17
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091736954484519355",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Niniouo__: 其实爱上你的时候我压根没反应过来 只是一直在说你好可爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091892045237686302",
+        "created_at": "2026-08-24T14:15:03.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091892045237686302"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2008390583698812929",
+              "start": 3,
+              "username": "Niniouo__"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091892045237686302",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091736954484519355",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Niniouo__: 其实爱上你的时候我压根没反应过来 只是一直在说你好可爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008390583698812929",
+        "conversation_id": "2091736954484519355",
+        "created_at": "2026-08-24T03:58:47.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T04:58:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091736954484519355"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091736954484519355",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 4239,
+          "like_count": 137,
+          "quote_count": 1,
+          "reply_count": 27,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "其实爱上你的时候我压根没反应过来 只是一直在说你好可爱"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091892045237686302",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 414,
+          "like_count": 6116,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 1820
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-06T04:10:14.000Z",
+        "description": "这个人很懒，什么也没留下- ⩊ - I ♥︎ .....",
+        "id": "2008390583698812929",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091856026970796414",
+        "name": "oooo",
+        "pinned_tweet_id": "2078666790411149352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008390583698812929/1783575562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090311429199130624/vh9u8dcQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 910,
+          "following_count": 39,
+          "like_count": 978,
+          "listed_count": 2,
+          "media_count": 146,
+          "tweet_count": 823
+        },
+        "url": "",
+        "username": "Niniouo__",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

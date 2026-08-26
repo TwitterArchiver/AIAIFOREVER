@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091258398218067969"
+      ],
+      "media_source_tweet_id": [
+        "2091258401837797788"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2091419571555377282",
+    "created_at": "2026-08-23T06:57:37.000Z",
+    "display_text_range": [
+      0,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T07:57:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091419571555377282"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1914113040515215360",
+          "start": 3,
+          "username": "purem1santhropy"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/HHEoZpMM1o",
+          "end": 44,
+          "expanded_url": "https://x.com/purem1santhropy/status/2091258401837797788/photo/1",
+          "media_key": "3_2091258398218067969",
+          "start": 21,
+          "url": "https://t.co/HHEoZpMM1o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091419571555377282",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2091258398218067969"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 62
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091258401837797788",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @purem1santhropy: https://t.co/HHEoZpMM1o"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2091258398218067969",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQWkbudXIAEYBqS.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091258398218067969"
+          ],
+          "media_source_tweet_id": [
+            "2091258401837797788"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2091419571555377282",
+        "created_at": "2026-08-23T06:57:37.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T07:57:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091419571555377282"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1914113040515215360",
+              "start": 3,
+              "username": "purem1santhropy"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHEoZpMM1o",
+              "end": 44,
+              "expanded_url": "https://x.com/purem1santhropy/status/2091258401837797788/photo/1",
+              "media_key": "3_2091258398218067969",
+              "start": 21,
+              "url": "https://t.co/HHEoZpMM1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091419571555377282",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091258398218067969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 62
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091258401837797788",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @purem1santhropy: https://t.co/HHEoZpMM1o"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091258398218067969"
+          ]
+        },
+        "author_id": "1914113040515215360",
+        "conversation_id": "2091258401837797788",
+        "created_at": "2026-08-22T20:17:11.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T21:17:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091258401837797788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHEoZpMM1o",
+              "end": 23,
+              "expanded_url": "https://x.com/purem1santhropy/status/2091258401837797788/photo/1",
+              "media_key": "3_2091258398218067969",
+              "start": 0,
+              "url": "https://t.co/HHEoZpMM1o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091258401837797788",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2091258398218067969"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 2437,
+          "like_count": 398,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 62
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/HHEoZpMM1o"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091419571555377282",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 339,
+          "following_count": 400,
+          "like_count": 5858,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 1781
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-21T00:25:21.000Z",
+        "description": "",
+        "id": "1914113040515215360",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091346571317112928",
+        "name": "puremisanthropy",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1914113040515215360/1786324229",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071659850681946112/gXnAbwJf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5071,
+          "following_count": 56,
+          "like_count": 13983,
+          "listed_count": 5,
+          "media_count": 1325,
+          "tweet_count": 1660
+        },
+        "url": "",
+        "username": "purem1santhropy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
