@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092185712091357430",
+    "created_at": "2026-08-25T09:41:59.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:41:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092185712091357430"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1472412813067169793",
+          "start": 3,
+          "username": "831762bai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092185712091357430",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091940541315588296",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @831762bai: 太好笑了 真心居然是有时差的 爱也是有时差的 你爱我最热烈的时候我在干嘛 我爱你最热烈的时候你也在干嘛？信任对方的时候都让彼此失望了。太好笑了从此两个人再也不能放下戒备，一个人陷入无尽的猜疑与焦虑，每天不停运作高敏感，另一个人再也不想生出任何感情，…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092185712091357430",
+        "created_at": "2026-08-25T09:41:59.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:41:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092185712091357430"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1472412813067169793",
+              "start": 3,
+              "username": "831762bai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092185712091357430",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091940541315588296",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @831762bai: 太好笑了 真心居然是有时差的 爱也是有时差的 你爱我最热烈的时候我在干嘛 我爱你最热烈的时候你也在干嘛？信任对方的时候都让彼此失望了。太好笑了从此两个人再也不能放下戒备，一个人陷入无尽的猜疑与焦虑，每天不停运作高敏感，另一个人再也不想生出任何感情，…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1472412813067169793",
+        "conversation_id": "2091940541315588296",
+        "created_at": "2026-08-24T17:27:46.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:27:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091940541315588296"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091940541315588296",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1907,
+          "like_count": 76,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "太好笑了 真心居然是有时差的 爱也是有时差的 你爱我最热烈的时候我在干嘛 我爱你最热烈的时候你也在干嘛？信任对方的时候都让彼此失望了。太好笑了从此两个人再也不能放下戒备，一个人陷入无尽的猜疑与焦虑，每天不停运作高敏感，另一个人再也不想生出任何感情，麻木的继续原来的生活。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092185712091357430",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 415,
+          "like_count": 6218,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1842
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-19T03:45:57.000Z",
+        "description": "▋Brat  ▋异性恋‖可以叫我小兔‖喜欢年上‖爱画画‖另外的号@Biexihuanwo74‖",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 32,
+                "username": "Biexihuanwo74"
+              }
+            ]
+          }
+        },
+        "id": "1472412813067169793",
+        "is_identity_verified": false,
+        "location": "我 不 乖",
+        "most_recent_tweet_id": "2092115835502403681",
+        "name": "白骨小兔",
+        "pinned_tweet_id": "1652701292597481474",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1472412813067169793/1691147330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1730540685546151936/WxxZjUiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 336,
+          "like_count": 14555,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 511
+        },
+        "url": "",
+        "username": "831762bai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

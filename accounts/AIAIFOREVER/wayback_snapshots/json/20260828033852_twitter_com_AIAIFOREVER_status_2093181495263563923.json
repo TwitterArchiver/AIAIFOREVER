@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2093181495263563923",
+    "created_at": "2026-08-28T03:38:52.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:38:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093181495263563923"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "153415289",
+          "start": 3,
+          "username": "gs_magazine"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093181495263563923",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 110
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093146546858607077",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @gs_magazine: 💙キャスト考案の\"告白プラン\"も特別掲載🧡\nLoveLive!Daysでは、第2回ユニット組み分け企画から生まれたイキヅライブ！のユニット3組のグラビア＆座談会を掲載！\n\n10月号をGETして、第2回「既読待ちLovers」の3人のトークをぜひ…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 867,
+        "media_key": "3_2092583220298788864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZWhTaMAAHNxU.jpg",
+        "width": 613
+      },
+      {
+        "height": 3509,
+        "media_key": "3_2092583215697707008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpZWQKbQAAxIao.jpg",
+        "width": 2480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093181495263563923",
+        "created_at": "2026-08-28T03:38:52.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:38:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093181495263563923"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "153415289",
+              "start": 3,
+              "username": "gs_magazine"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093181495263563923",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093146546858607077",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @gs_magazine: 💙キャスト考案の\"告白プラン\"も特別掲載🧡\nLoveLive!Daysでは、第2回ユニット組み分け企画から生まれたイキヅライブ！のユニット3組のグラビア＆座談会を掲載！\n\n10月号をGETして、第2回「既読待ちLovers」の3人のトークをぜひ…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092583220298788864",
+            "3_2092583215697707008"
+          ]
+        },
+        "author_id": "153415289",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2093146546858607077",
+        "created_at": "2026-08-28T01:20:00.000Z",
+        "display_text_range": [
+          0,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093146546858607077"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 162,
+              "start": 155,
+              "tag": "イキヅライブ"
+            },
+            {
+              "end": 170,
+              "start": 163,
+              "tag": "いきづらい部"
+            }
+          ],
+          "urls": [
+            {
+              "description": "雑誌・ムック「LoveLive!Days　２０２６年10月号」のあらすじ、最新情報をKADOKAWA公式サイトより。",
+              "display_url": "kadokawa.co.jp/product/322512…",
+              "end": 153,
+              "expanded_url": "https://www.kadokawa.co.jp/product/322512000620/",
+              "start": 130,
+              "status": 200,
+              "title": "LoveLive!Days　２０２６年10月号",
+              "unwound_url": "https://www.kadokawa.co.jp/product/322512000620/",
+              "url": "https://t.co/lMg6bnoMaI"
+            },
+            {
+              "display_url": "pic.x.com/q9EVqhcddc",
+              "end": 194,
+              "expanded_url": "https://x.com/gs_magazine/status/2093146546858607077/photo/1",
+              "media_key": "3_2092583220298788864",
+              "start": 171,
+              "url": "https://t.co/q9EVqhcddc"
+            },
+            {
+              "display_url": "pic.x.com/q9EVqhcddc",
+              "end": 194,
+              "expanded_url": "https://x.com/gs_magazine/status/2093146546858607077/photo/1",
+              "media_key": "3_2092583215697707008",
+              "start": 171,
+              "url": "https://t.co/q9EVqhcddc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093146546858607077",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092583220298788864"
+          },
+          {
+            "media_key": "3_2092583215697707008"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 62,
+          "impression_count": 16903,
+          "like_count": 471,
+          "quote_count": 7,
+          "reply_count": 0,
+          "retweet_count": 110
+        },
+        "reply_settings": "everyone",
+        "text": "💙キャスト考案の\"告白プラン\"も特別掲載🧡\nLoveLive!Daysでは、第2回ユニット組み分け企画から生まれたイキヅライブ！のユニット3組のグラビア＆座談会を掲載！\n\n10月号をGETして、第2回「既読待ちLovers」の3人のトークをぜひチェックして♪\nhttps://t.co/lMg6bnoMaI\n\n#イキヅライブ #いきづらい部 https://t.co/q9EVqhcddc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093181495263563923",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 426,
+          "like_count": 6650,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1958
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-08T13:56:43.000Z",
+        "description": "G'sチャンネル、LoveLive!Daysの情報を発信するアカウントです。代表作：ラブライブ！シリーズ、『結城友奈は勇者である』『天華百剣』ほか。G's関連情報を編集部員がポストしていきます。〔注意〕直接のお問い合わせはこちらへお願いします https://t.co/8bYmwQEpYa",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "kdq.jp/support/",
+                "end": 145,
+                "expanded_url": "http://kdq.jp/support/",
+                "start": 122,
+                "url": "https://t.co/8bYmwQEpYa"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "gs-ch.com",
+                "end": 23,
+                "expanded_url": "https://gs-ch.com/",
+                "start": 0,
+                "url": "https://t.co/dDDFshm8hN"
+              }
+            ]
+          }
+        },
+        "id": "153415289",
+        "is_identity_verified": false,
+        "location": "東京都 千代田区",
+        "most_recent_tweet_id": "2093179424263065960",
+        "name": "電撃G's magazine編集部",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/153415289/1681183550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885609095891451904/rIyiO6P-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211608,
+          "following_count": 426,
+          "like_count": 456,
+          "listed_count": 1485,
+          "media_count": 19757,
+          "tweet_count": 37750
+        },
+        "url": "https://t.co/dDDFshm8hN",
+        "username": "gs_magazine",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

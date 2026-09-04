@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092121473985175701",
+    "created_at": "2026-08-25T09:27:38.000Z",
+    "display_text_range": [
+      15,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T10:27:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092182103517712585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1842892851958681600",
+          "start": 0,
+          "username": "pharaoh420_sq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092182103517712585",
+    "in_reply_to_user_id": "1842892851958681600",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092121473985175701",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pharaoh420_sq 厂里就是很累，，我根本坚持不下去"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092121473985175701",
+        "created_at": "2026-08-25T09:27:38.000Z",
+        "display_text_range": [
+          15,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:27:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092182103517712585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1842892851958681600",
+              "start": 0,
+              "username": "pharaoh420_sq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092182103517712585",
+        "in_reply_to_user_id": "1842892851958681600",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092121473985175701",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pharaoh420_sq 厂里就是很累，，我根本坚持不下去"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1842892851958681600",
+        "conversation_id": "2092121473985175701",
+        "created_at": "2026-08-25T05:26:43.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T06:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092121473985175701"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092121473985175701",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天去做工厂临时工累死我了 上午干了4个小时 现在午休快结束了 下午还要干到8点🫡"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092182103517712585",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 415,
+          "like_count": 6215,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1841
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-06T11:41:19.000Z",
+        "description": "♂/生活自理的弱智/黄色废料/视奸万物/贱丑穷傻及一身/炫压抑的肥蛆/二代目@SQ100722",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 38,
+                "username": "SQ100722"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/pharaoh420_aq",
+                "end": 23,
+                "expanded_url": "https://ngl.link/pharaoh420_aq",
+                "start": 0,
+                "url": "https://t.co/tbDhZufo8o"
+              }
+            ]
+          }
+        },
+        "id": "1842892851958681600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092121473985175701",
+        "name": "2727",
+        "pinned_tweet_id": "2089778984615891282",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1842892851958681600/1785346440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986515715529310208/Y06OqfkR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 50,
+          "like_count": 221,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 196
+        },
+        "url": "https://t.co/tbDhZufo8o",
+        "username": "pharaoh420_sq",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

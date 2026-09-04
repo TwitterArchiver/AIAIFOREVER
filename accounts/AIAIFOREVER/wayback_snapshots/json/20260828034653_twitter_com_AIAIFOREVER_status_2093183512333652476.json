@@ -1,0 +1,567 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2093183512333652476",
+    "created_at": "2026-08-28T03:46:53.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T04:46:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093183512333652476"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/LoveLive_staff…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/LoveLive_staff/status/2093148666123129169",
+          "start": 7,
+          "url": "https://t.co/TExXCtIhNS"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093183512333652476",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093148666123129169",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我想去秋叶原 https://t.co/TExXCtIhNS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2093146272534511616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxZceVaQAAHXhj.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2093146290658123776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxZdh2aoAAJ9XO.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2093146302947463168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxZePobEAAmXB7.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2093146312380436480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQxZeyxa0AAY9wu.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2093183512333652476",
+        "created_at": "2026-08-28T03:46:53.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T04:46:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093183512333652476"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/LoveLive_staff…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/LoveLive_staff/status/2093148666123129169",
+              "start": 7,
+              "url": "https://t.co/TExXCtIhNS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093183512333652476",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093148666123129169",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我想去秋叶原 https://t.co/TExXCtIhNS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093146272534511616",
+            "3_2093146290658123776",
+            "3_2093146302947463168",
+            "3_2093146312380436480"
+          ]
+        },
+        "author_id": "347849994",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2093148666123129169",
+        "created_at": "2026-08-28T01:28:25.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T02:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093148666123129169"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jjnc4454Jx",
+              "end": 151,
+              "expanded_url": "https://x.com/LoveLive_staff/status/2093148666123129169/photo/1",
+              "media_key": "3_2093146272534511616",
+              "start": 128,
+              "url": "https://t.co/jjnc4454Jx"
+            },
+            {
+              "display_url": "pic.x.com/jjnc4454Jx",
+              "end": 151,
+              "expanded_url": "https://x.com/LoveLive_staff/status/2093148666123129169/photo/1",
+              "media_key": "3_2093146290658123776",
+              "start": 128,
+              "url": "https://t.co/jjnc4454Jx"
+            },
+            {
+              "display_url": "pic.x.com/jjnc4454Jx",
+              "end": 151,
+              "expanded_url": "https://x.com/LoveLive_staff/status/2093148666123129169/photo/1",
+              "media_key": "3_2093146302947463168",
+              "start": 128,
+              "url": "https://t.co/jjnc4454Jx"
+            },
+            {
+              "display_url": "pic.x.com/jjnc4454Jx",
+              "end": 151,
+              "expanded_url": "https://x.com/LoveLive_staff/status/2093148666123129169/photo/1",
+              "media_key": "3_2093146312380436480",
+              "start": 128,
+              "url": "https://t.co/jjnc4454Jx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093148666123129169",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093146272534511616"
+          },
+          {
+            "media_key": "3_2093146290658123776"
+          },
+          {
+            "media_key": "3_2093146302947463168"
+          },
+          {
+            "media_key": "3_2093146312380436480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 270,
+                "start": 261,
+                "tag": "lovelive"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp/news/01_6488.h…",
+                "end": 259,
+                "expanded_url": "https://www.lovelive-anime.jp/news/01_6488.html",
+                "start": 236,
+                "url": "https://t.co/pw6V9u6BsW"
+              }
+            ]
+          },
+          "text": "💖本日START💖\n🫧ラブライブ！ POP UP STORE ～マリンコレクション～🫧\n本日よりグランエンタス（秋葉原 オノデンビル1F）にてスタートです🎉\n\n期間：8月28日(金)～9月13日(日)\n※本日POP UP STOREは整理券での入場です。\n\nさらに秋葉原/オノデンMXビジョンにて8/28(金)～8/30(日)と9/11(金)～9/13(日)に、\n今回のPOP UP STOREと南ことりのバースデー宣伝動画の放映が決定🎉\n\nぜひ遊びに来てくださいね🤳✨\nhttps://t.co/pw6V9u6BsW\n\n#lovelive"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 109,
+          "impression_count": 55820,
+          "like_count": 954,
+          "quote_count": 45,
+          "reply_count": 6,
+          "retweet_count": 230
+        },
+        "reply_settings": "everyone",
+        "text": "💖本日START💖\n🫧ラブライブ！ POP UP STORE ～マリンコレクション～🫧\n本日よりグランエンタス（秋葉原 オノデンビル1F）にてスタートです🎉\n\n期間：8月28日(金)～9月13日(日)\n※本日POP UP STOREは整理券での入場です。 https://t.co/jjnc4454Jx"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093183512333652476",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 426,
+          "like_count": 6665,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1961
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-08-03T13:26:11.000Z",
+        "description": "オールメディア展開するスクールアイドルプロジェクト、ラブライブ！シリーズの公式アカウントです。  ■YouTube https://t.co/B0eGaNZHmf ■TikTok https://t.co/y7F4WUabMb",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/c/lovelive_ser…",
+                "end": 81,
+                "expanded_url": "https://www.youtube.com/c/lovelive_series",
+                "start": 58,
+                "url": "https://t.co/B0eGaNZHmf"
+              },
+              {
+                "display_url": "onl.sc/C8PtrHv",
+                "end": 113,
+                "expanded_url": "http://onl.sc/C8PtrHv",
+                "start": 90,
+                "url": "https://t.co/y7F4WUabMb"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "lovelive-anime.jp",
+                "end": 23,
+                "expanded_url": "http://www.lovelive-anime.jp/",
+                "start": 0,
+                "url": "https://t.co/KK4vP13OlW"
+              }
+            ]
+          }
+        },
+        "id": "347849994",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093174229604917619",
+        "name": "ラブライブ！シリーズ公式",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/347849994/1727924414",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1027440922672259072/sHA_z7wD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1067790,
+          "following_count": 19,
+          "like_count": 545,
+          "listed_count": 13601,
+          "media_count": 36849,
+          "tweet_count": 57734
+        },
+        "url": "https://t.co/KK4vP13OlW",
+        "username": "LoveLive_staff",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

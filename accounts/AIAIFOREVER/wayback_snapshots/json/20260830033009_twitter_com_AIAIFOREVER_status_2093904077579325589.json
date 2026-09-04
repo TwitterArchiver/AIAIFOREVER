@@ -1,0 +1,368 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093846446160363520",
+        "3_2093846446168764416",
+        "3_2093846446160375808"
+      ],
+      "media_source_tweet_id": [
+        "2093846456428097590",
+        "2093846456428097590",
+        "2093846456428097590"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2093904077579325589",
+    "created_at": "2026-08-30T03:30:09.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T04:30:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093904077579325589"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1358422029595070465",
+          "start": 3,
+          "username": "Uyu1023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/aaT9OxEHh2",
+          "end": 42,
+          "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+          "media_key": "3_2093846446160363520",
+          "start": 19,
+          "url": "https://t.co/aaT9OxEHh2"
+        },
+        {
+          "display_url": "pic.x.com/aaT9OxEHh2",
+          "end": 42,
+          "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+          "media_key": "3_2093846446168764416",
+          "start": 19,
+          "url": "https://t.co/aaT9OxEHh2"
+        },
+        {
+          "display_url": "pic.x.com/aaT9OxEHh2",
+          "end": 42,
+          "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+          "media_key": "3_2093846446160375808",
+          "start": 19,
+          "url": "https://t.co/aaT9OxEHh2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093904077579325589",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093846446160363520"
+      },
+      {
+        "media_key": "3_2093846446168764416"
+      },
+      {
+        "media_key": "3_2093846446160375808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 661
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093846456428097590",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Uyu1023: 待ち合わせ https://t.co/aaT9OxEHh2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3480,
+        "media_key": "3_2093846446160363520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7WP8WaQAAR7Ib.jpg",
+        "width": 3480
+      },
+      {
+        "height": 3480,
+        "media_key": "3_2093846446168764416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7WP8YacAAVSCW.jpg",
+        "width": 3480
+      },
+      {
+        "height": 3480,
+        "media_key": "3_2093846446160375808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ7WP8WacAAu1BB.jpg",
+        "width": 3480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093846446160363520",
+            "3_2093846446168764416",
+            "3_2093846446160375808"
+          ],
+          "media_source_tweet_id": [
+            "2093846456428097590",
+            "2093846456428097590",
+            "2093846456428097590"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2093904077579325589",
+        "created_at": "2026-08-30T03:30:09.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T04:30:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093904077579325589"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1358422029595070465",
+              "start": 3,
+              "username": "Uyu1023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 42,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446160363520",
+              "start": 19,
+              "url": "https://t.co/aaT9OxEHh2"
+            },
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 42,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446168764416",
+              "start": 19,
+              "url": "https://t.co/aaT9OxEHh2"
+            },
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 42,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446160375808",
+              "start": 19,
+              "url": "https://t.co/aaT9OxEHh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093904077579325589",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093846446160363520"
+          },
+          {
+            "media_key": "3_2093846446168764416"
+          },
+          {
+            "media_key": "3_2093846446160375808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 661
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093846456428097590",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Uyu1023: 待ち合わせ https://t.co/aaT9OxEHh2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093846446160363520",
+            "3_2093846446168764416",
+            "3_2093846446160375808"
+          ]
+        },
+        "author_id": "1358422029595070465",
+        "conversation_id": "2093846456428097590",
+        "created_at": "2026-08-29T23:41:11.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T00:41:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093846456428097590"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 29,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446160363520",
+              "start": 6,
+              "url": "https://t.co/aaT9OxEHh2"
+            },
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 29,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446168764416",
+              "start": 6,
+              "url": "https://t.co/aaT9OxEHh2"
+            },
+            {
+              "display_url": "pic.x.com/aaT9OxEHh2",
+              "end": 29,
+              "expanded_url": "https://x.com/Uyu1023/status/2093846456428097590/photo/1",
+              "media_key": "3_2093846446160375808",
+              "start": 6,
+              "url": "https://t.co/aaT9OxEHh2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093846456428097590",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093846446160363520"
+          },
+          {
+            "media_key": "3_2093846446168764416"
+          },
+          {
+            "media_key": "3_2093846446160375808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 491,
+          "impression_count": 50326,
+          "like_count": 3392,
+          "quote_count": 10,
+          "reply_count": 5,
+          "retweet_count": 661
+        },
+        "reply_settings": "everyone",
+        "text": "待ち合わせ https://t.co/aaT9OxEHh2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093904077579325589",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 435,
+          "like_count": 6956,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 2031
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-07T14:27:14.000Z",
+        "description": "絵を描いていく",
+        "id": "1358422029595070465",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093856532140331446",
+        "name": "雨湯",
+        "pinned_tweet_id": "2085881153869992232",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1358422029595070465/1767194759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069070425045483520/WWVHz4x5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3670,
+          "following_count": 373,
+          "like_count": 69407,
+          "listed_count": 39,
+          "media_count": 118,
+          "tweet_count": 1818
+        },
+        "url": "",
+        "username": "Uyu1023",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

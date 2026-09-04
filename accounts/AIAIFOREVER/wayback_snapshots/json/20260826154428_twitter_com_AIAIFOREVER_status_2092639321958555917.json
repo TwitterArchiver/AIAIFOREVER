@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2086506192164282509",
+    "created_at": "2026-08-26T15:44:28.000Z",
+    "display_text_range": [
+      14,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T16:44:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092639321958555917"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798356374512164864",
+          "start": 0,
+          "username": "Mini_Ray0824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092639321958555917",
+    "in_reply_to_user_id": "1798356374512164864",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086506192164282509",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_Ray0824 骗你的臭屁小鬼也萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2086506192164282509",
+        "created_at": "2026-08-26T15:44:28.000Z",
+        "display_text_range": [
+          14,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T16:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092639321958555917"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798356374512164864",
+              "start": 0,
+              "username": "Mini_Ray0824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092639321958555917",
+        "in_reply_to_user_id": "1798356374512164864",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086506192164282509",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_Ray0824 骗你的臭屁小鬼也萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798356374512164864",
+        "conversation_id": "2086506192164282509",
+        "created_at": "2026-08-09T17:33:36.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T18:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086506192164282509"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2086506192164282509",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 97,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "其实第一次看瑞克和莫蒂的时候，我是不太喜欢em的，觉得抢了姥爷的高光之类的（好幼稚的想法KKK）现在觉得他非常可爱\n以前的我对em的印象：臭屁的小鬼\n现在的我对em的印象：哦可爱的小男孩\n心态上发生了微妙的变化……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092639321958555917",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 346,
+          "following_count": 419,
+          "like_count": 6466,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1913
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T14:09:20.000Z",
+        "description": "用來發瘋的賬號✨主要是一些日常生活分享和碎碎唸/腦補含量極高/精神狀態美麗/喜歡在叢林中蕩來蕩去/喜歡搶奪路人的香蕉/搶走之後可能會還/混的坑多如兔子洞/爬坑速度快得出殘影/經常有變態發言/只要看見我担我推就會自動變成變態/是個好人",
+        "id": "1798356374512164864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092635543259779485",
+        "name": "Ray",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798356374512164864/1785764101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046885870767394816/8iKuZjwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 170,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 939
+        },
+        "url": "",
+        "username": "Mini_Ray0824",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

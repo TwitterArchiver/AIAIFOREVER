@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2093169708325556224"
+      ],
+      "media_source_tweet_id": [
+        "2093169720220602822"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2093623932649877643",
+    "created_at": "2026-08-29T08:56:57.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T09:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093623932649877643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1616799866730188800",
+          "start": 3,
+          "username": "suelcall"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q8qlCgMcep",
+          "end": 60,
+          "expanded_url": "https://x.com/suelcall/status/2093169720220602822/video/1",
+          "media_key": "13_2093169708325556224",
+          "start": 37,
+          "url": "https://t.co/Q8qlCgMcep"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093623932649877643",
+    "lang": "ko",
+    "media_metadata": [
+      {
+        "media_key": "13_2093169708325556224"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 59
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093169720220602822",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @suelcall: 아니 다시 보니 진심 초딩들같네ㅋㅋㅋㅋㅋ https://t.co/Q8qlCgMcep"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4501,
+        "height": 358,
+        "media_key": "13_2093169708325556224",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093169708325556224/img/c88IlmpMe4a8t665.jpg",
+        "public_metrics": {
+          "view_count": 8254
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093169708325556224/vid/avc1/320x328/zqbySo5rjxYAgfYM.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093169708325556224/vid/avc1/348x358/Ix2tcCo7bnunb4bP.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093169708325556224/pl/Fd29XZxxWCnhsWxQ.m3u8"
+          }
+        ],
+        "width": 348
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093169708325556224"
+          ],
+          "media_source_tweet_id": [
+            "2093169720220602822"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2093623932649877643",
+        "created_at": "2026-08-29T08:56:57.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T09:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093623932649877643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1616799866730188800",
+              "start": 3,
+              "username": "suelcall"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8qlCgMcep",
+              "end": 60,
+              "expanded_url": "https://x.com/suelcall/status/2093169720220602822/video/1",
+              "media_key": "13_2093169708325556224",
+              "start": 37,
+              "url": "https://t.co/Q8qlCgMcep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093623932649877643",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2093169708325556224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 59
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093169720220602822",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @suelcall: 아니 다시 보니 진심 초딩들같네ㅋㅋㅋㅋㅋ https://t.co/Q8qlCgMcep"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093169708325556224"
+          ]
+        },
+        "author_id": "1616799866730188800",
+        "conversation_id": "2093169720220602822",
+        "created_at": "2026-08-28T02:52:05.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093169720220602822"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q8qlCgMcep",
+              "end": 46,
+              "expanded_url": "https://x.com/suelcall/status/2093169720220602822/video/1",
+              "media_key": "13_2093169708325556224",
+              "start": 23,
+              "url": "https://t.co/Q8qlCgMcep"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093169720220602822",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2093169708325556224"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 187,
+          "impression_count": 18052,
+          "like_count": 562,
+          "quote_count": 4,
+          "reply_count": 1,
+          "retweet_count": 59
+        },
+        "reply_settings": "everyone",
+        "text": "아니 다시 보니 진심 초딩들같네ㅋㅋㅋㅋㅋ https://t.co/Q8qlCgMcep"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093623932649877643",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 357,
+          "following_count": 429,
+          "like_count": 6890,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 2007
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-21T14:08:28.000Z",
+        "description": "부산과 센다이 사이 거리 약 1100km",
+        "id": "1616799866730188800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093618853599424925",
+        "name": "나럽멕🌷(ナラブメック)",
+        "pinned_tweet_id": "2042792158592406009",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616799866730188800/1778690392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039358886222909440/rRTWmPEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 443,
+          "following_count": 170,
+          "like_count": 16377,
+          "listed_count": 2,
+          "media_count": 9209,
+          "tweet_count": 73449
+        },
+        "url": "",
+        "username": "suelcall",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

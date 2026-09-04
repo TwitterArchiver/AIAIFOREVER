@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092257189440430081",
+    "created_at": "2026-08-25T14:26:00.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T15:26:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092257189440430081"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ji_ba438/statu…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/ji_ba438/status/2092185472416313817",
+          "start": 5,
+          "url": "https://t.co/TyhRnPv9EJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092257189440430081",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092185472416313817",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "教教我呗 https://t.co/TyhRnPv9EJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092257189440430081",
+        "created_at": "2026-08-25T14:26:00.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:26:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092257189440430081"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ji_ba438/statu…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/ji_ba438/status/2092185472416313817",
+              "start": 5,
+              "url": "https://t.co/TyhRnPv9EJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092257189440430081",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092185472416313817",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "教教我呗 https://t.co/TyhRnPv9EJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1911495718793064449",
+        "conversation_id": "2092185472416313817",
+        "created_at": "2026-08-25T09:41:02.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T10:41:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092185472416313817"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092185472416313817",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3233,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 24,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "赵露思抑郁症咋好的，教教我呗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092257189440430081",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 415,
+          "like_count": 6243,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 1855
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-13T19:04:38.000Z",
+        "description": "不聊骚不互看，我想说啥就说啥",
+        "id": "1911495718793064449",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092256658219286591",
+        "name": "火鸡味锅巴",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2015329584317870080/Vqe4XEjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 247,
+          "following_count": 237,
+          "like_count": 4133,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 1573
+        },
+        "url": "",
+        "username": "ji_ba438",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

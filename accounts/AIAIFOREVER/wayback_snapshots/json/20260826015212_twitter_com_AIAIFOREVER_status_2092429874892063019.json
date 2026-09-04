@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092370750280024243",
+    "created_at": "2026-08-26T01:52:12.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T02:52:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092429874892063019"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851449112652378112",
+          "start": 0,
+          "username": "yuyuankswl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092429874892063019",
+    "in_reply_to_user_id": "1851449112652378112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092370750280024243",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuankswl 求解码，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092370750280024243",
+        "created_at": "2026-08-26T01:52:12.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T02:52:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092429874892063019"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851449112652378112",
+              "start": 0,
+              "username": "yuyuankswl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092429874892063019",
+        "in_reply_to_user_id": "1851449112652378112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092370750280024243",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuankswl 求解码，，，"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851449112652378112",
+        "conversation_id": "2092370750280024243",
+        "created_at": "2026-08-25T21:57:15.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T22:57:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092370750280024243"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092370750280024243",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 18,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好特么崩溃我要把这群做地下偶像的公公亩亩的逼和吊都缝起来，不只是地下偶像地上也一样一想到我我从小到大节衣缩食孝这些人换来这种下场，不认识的人也就罢了认识的人叫我怎么割席，祝福你们吗，祝福我的朋友和我的同担和和美美？我怎么做得到？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092429874892063019",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 419,
+          "like_count": 6308,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1874
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-30T02:20:54.000Z",
+        "description": "哈/滚/乒/直/排/鸢，左右不固定❕杂食，随机支持all向/梦女，爱好冷门拉郎修罗场严重虐角色癖，g向大欢迎",
+        "id": "1851449112652378112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092375200683925888",
+        "name": "随机路过同人女🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851449112652378112/1787428969",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851451089629167618/5Im4la3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 128,
+          "like_count": 1537,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 251
+        },
+        "url": "",
+        "username": "yuyuankswl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

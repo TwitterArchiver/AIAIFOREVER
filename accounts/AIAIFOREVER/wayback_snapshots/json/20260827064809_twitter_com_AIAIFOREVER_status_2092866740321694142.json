@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092829742269706261",
+    "created_at": "2026-08-27T06:48:09.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T07:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092866740321694142"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089740579643269120",
+          "start": 0,
+          "username": "guest0708_02"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092866740321694142",
+    "in_reply_to_user_id": "2089740579643269120",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092855089740513445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@guest0708_02 对的呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092829742269706261",
+        "created_at": "2026-08-27T06:48:09.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092866740321694142"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089740579643269120",
+              "start": 0,
+              "username": "guest0708_02"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092866740321694142",
+        "in_reply_to_user_id": "2089740579643269120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092855089740513445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@guest0708_02 对的呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089740579643269120",
+        "conversation_id": "2092829742269706261",
+        "created_at": "2026-08-27T06:01:51.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T07:01:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092855089740513445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092855089740513445",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092829742269706261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 我去我去我去。。。。这个是寿喜锅吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092866740321694142",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 349,
+          "following_count": 422,
+          "like_count": 6526,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 1932
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T15:50:48.000Z",
+        "description": "@guest07080279的影分身👁🙏👁负面预警⚠\n你好你好，我是Vermilion1.1.0，可以叫我V\n臭画画的温良精神病，目前已经放生了前额叶，万物有灵。🙏\n中文ok  Eng/日本語/한국어…翻译器ok\n\n如果你喜欢我的作品，也可以去关注我的大号。\n不见证不参与争议，谢谢谢谢。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 0,
+                "username": "guest07080279"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/guest0708",
+                "end": 23,
+                "expanded_url": "http://ngl.link/guest0708",
+                "start": 0,
+                "url": "https://t.co/JJ4VZliyMi"
+              }
+            ]
+          }
+        },
+        "id": "2089740579643269120",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2092855089740513445",
+        "name": "Vermilion1.1.0",
+        "pinned_tweet_id": "2089749986506670301",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089740579643269120/1787069159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089742044000583681/WpLkdcGp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 30,
+          "following_count": 25,
+          "like_count": 1246,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 113
+        },
+        "url": "https://t.co/JJ4VZliyMi",
+        "username": "guest0708_02",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

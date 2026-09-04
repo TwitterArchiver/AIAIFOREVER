@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092670122179629152",
+    "created_at": "2026-08-27T15:12:23.000Z",
+    "display_text_range": [
+      9,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:12:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092993634631364876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1495662254544789506",
+          "start": 0,
+          "username": "Aloevce"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092993634631364876",
+    "in_reply_to_user_id": "1495662254544789506",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092670122179629152",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aloevce 针织短袖适合春秋穿，冷了可以再加个外套"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092670112906031105",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqoYVfXMAELA3-.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092670118731915264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQqoYrMXIAAkf7G.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092670122179629152",
+        "created_at": "2026-08-27T15:12:23.000Z",
+        "display_text_range": [
+          9,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:12:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092993634631364876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1495662254544789506",
+              "start": 0,
+              "username": "Aloevce"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092993634631364876",
+        "in_reply_to_user_id": "1495662254544789506",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092670122179629152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aloevce 针织短袖适合春秋穿，冷了可以再加个外套"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092670112906031105",
+            "3_2092670118731915264"
+          ]
+        },
+        "author_id": "1495662254544789506",
+        "conversation_id": "2092670122179629152",
+        "created_at": "2026-08-26T17:46:51.000Z",
+        "display_text_range": [
+          0,
+          86
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T18:46:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092670122179629152"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oWxKEYNov1",
+              "end": 110,
+              "expanded_url": "https://x.com/Aloevce/status/2092670122179629152/photo/1",
+              "media_key": "3_2092670112906031105",
+              "start": 87,
+              "url": "https://t.co/oWxKEYNov1"
+            },
+            {
+              "display_url": "pic.x.com/oWxKEYNov1",
+              "end": 110,
+              "expanded_url": "https://x.com/Aloevce/status/2092670122179629152/photo/1",
+              "media_key": "3_2092670118731915264",
+              "start": 87,
+              "url": "https://t.co/oWxKEYNov1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092670122179629152",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092670112906031105"
+          },
+          {
+            "media_key": "3_2092670118731915264"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1014,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "额。想买一些黑色蕾服结果喜欢的全是针织短袖。请问我什么季节能穿呢。又看上一些还是nekura家的。实在不能接受nekura改行做蕾服。我的记忆还停留在四年前做亚文化的时候。 https://t.co/oWxKEYNov1"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092993634631364876",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 422,
+          "like_count": 6600,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1949
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-21T07:30:52.000Z",
+        "description": "呆呆兽从小就很可爱",
+        "id": "1495662254544789506",
+        "is_identity_verified": false,
+        "location": "闪焰王牌official",
+        "most_recent_tweet_id": "2092977476993520019",
+        "name": "不到一百斥不改名",
+        "pinned_tweet_id": "2058652551415763284",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495662254544789506/1783790926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092940267351429120/saToKITV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17944,
+          "following_count": 1936,
+          "like_count": 57029,
+          "listed_count": 21,
+          "media_count": 7046,
+          "tweet_count": 24620
+        },
+        "url": "",
+        "username": "Aloevce",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

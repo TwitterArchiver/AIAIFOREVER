@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092911064786841663",
+    "created_at": "2026-08-27T09:44:16.000Z",
+    "display_text_range": [
+      0,
+      45
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T10:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092911064786841663"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2078028550704332800",
+          "start": 3,
+          "username": "Wodeyanlei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092911064786841663",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092887169979548142",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Wodeyanlei: 来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092911064786841663",
+        "created_at": "2026-08-27T09:44:16.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T10:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092911064786841663"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2078028550704332800",
+              "start": 3,
+              "username": "Wodeyanlei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092911064786841663",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092887169979548142",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Wodeyanlei: 来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2078028550704332800",
+        "conversation_id": "2092887169979548142",
+        "created_at": "2026-08-27T08:09:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092887169979548142"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092887169979548142",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1844,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "来推特了还要管别人发割腕的干啥。这又不是国内的软件，神经病"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092911064786841663",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 350,
+          "following_count": 423,
+          "like_count": 6531,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 1936
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-17T08:07:37.000Z",
+        "description": "我是高中生呀。什么圈子都沾一点。绿🚪25没有福利我也不会主动聊天。你们推特给我发消息我都会回的呀。我不约",
+        "id": "2078028550704332800",
+        "is_identity_verified": false,
+        "location": "匿名https://ngl.link/death24435",
+        "most_recent_tweet_id": "2092905258536386853",
+        "name": "我的眼泪你负责吗",
+        "pinned_tweet_id": "2092448527305867584",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078028550704332800/1784276561",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092824415239364608/NO3V9Tsn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 193,
+          "following_count": 6,
+          "like_count": 41,
+          "listed_count": 0,
+          "media_count": 14,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "Wodeyanlei",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

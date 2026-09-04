@@ -1,0 +1,275 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2093195360663667026",
+    "created_at": "2026-08-28T05:24:31.000Z",
+    "display_text_range": [
+      15,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093208081991958880"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1946149148878852096",
+          "start": 0,
+          "username": "todorokidoya1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093208081991958880",
+    "in_reply_to_user_id": "1946149148878852096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093195360663667026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@todorokidoya1 看哭了这集我的红贝印钝了"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 5685,
+        "height": 1686,
+        "media_key": "13_2093195338056376320",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093195338056376320/img/RHwfHmygfKVaxdhD.jpg",
+        "public_metrics": {
+          "view_count": 137
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093195338056376320/vid/avc1/320x498/t-ANi1PaTaQZ_fET.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093195338056376320/pl/jiWtOZERdYLuaMwK.m3u8"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093195338056376320/vid/avc1/480x748/M33Z-qHbNVOusvHz.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093195338056376320/vid/avc1/1080x1686/PWHAw9YotxdlPcN5.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093195338056376320/vid/avc1/720x1124/FPZG_821NiBKXyKD.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2093195360663667026",
+        "created_at": "2026-08-28T05:24:31.000Z",
+        "display_text_range": [
+          15,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093208081991958880"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1946149148878852096",
+              "start": 0,
+              "username": "todorokidoya1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093208081991958880",
+        "in_reply_to_user_id": "1946149148878852096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093195360663667026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@todorokidoya1 看哭了这集我的红贝印钝了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093195338056376320"
+          ]
+        },
+        "author_id": "1946149148878852096",
+        "conversation_id": "2093195360663667026",
+        "created_at": "2026-08-28T04:33:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T05:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093195360663667026"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OqwlMQo0Ln",
+              "end": 29,
+              "expanded_url": "https://x.com/todorokidoya1/status/2093195360663667026/video/1",
+              "media_key": "13_2093195338056376320",
+              "start": 6,
+              "url": "https://t.co/OqwlMQo0Ln"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093195360663667026",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2093195338056376320"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 402,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "我去不早说 https://t.co/OqwlMQo0Ln"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093208081991958880",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 354,
+          "following_count": 427,
+          "like_count": 6679,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1964
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T10:05:17.000Z",
+        "description": "我需要一个骗过自己的理由\n小号@o0omftft",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 15,
+                "username": "o0omftft"
+              }
+            ]
+          }
+        },
+        "id": "1946149148878852096",
+        "is_identity_verified": false,
+        "location": "绘画世界",
+        "most_recent_tweet_id": "2093195543082422419",
+        "name": "0o0",
+        "pinned_tweet_id": "2079931487265374536",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946149148878852096/1753153892",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947494571715461120/yN7x2Gqe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 549,
+          "following_count": 598,
+          "like_count": 79448,
+          "listed_count": 0,
+          "media_count": 481,
+          "tweet_count": 5329
+        },
+        "url": "",
+        "username": "todorokidoya1",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

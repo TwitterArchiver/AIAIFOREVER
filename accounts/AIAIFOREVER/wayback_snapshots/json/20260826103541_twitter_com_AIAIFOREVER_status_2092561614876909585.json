@@ -1,0 +1,259 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092548671510614052",
+    "created_at": "2026-08-26T10:35:41.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T11:35:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092561614876909585"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1945464784763457536",
+          "start": 0,
+          "username": "KuriYasuma"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092561614876909585",
+    "in_reply_to_user_id": "1945464784763457536",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092548671510614052",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KuriYasuma 宝贝你素颜也萌"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 2136,
+        "height": 954,
+        "media_key": "13_2092548646718033920",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2092548646718033920/img/Y0_5WkEW45MZLyLQ.jpg",
+        "public_metrics": {
+          "view_count": 9
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092548646718033920/vid/avc1/320x424/XuTAqTFI5W7eD44U.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092548646718033920/vid/avc1/480x636/QhYmFuc5WntX9MX8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092548646718033920/vid/avc1/720x954/pcALE_fxi1kjCL1d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092548646718033920/pl/Bba7maMocP6MwQ4R.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092548671510614052",
+        "created_at": "2026-08-26T10:35:41.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T11:35:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092561614876909585"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1945464784763457536",
+              "start": 0,
+              "username": "KuriYasuma"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092561614876909585",
+        "in_reply_to_user_id": "1945464784763457536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092548671510614052",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KuriYasuma 宝贝你素颜也萌"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092548646718033920"
+          ]
+        },
+        "author_id": "1945464784763457536",
+        "conversation_id": "2092548671510614052",
+        "created_at": "2026-08-26T09:44:15.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:44:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092548671510614052"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/km9u4oAFPK",
+              "end": 57,
+              "expanded_url": "https://x.com/KuriYasuma/status/2092548671510614052/video/1",
+              "media_key": "13_2092548646718033920",
+              "start": 34,
+              "url": "https://t.co/km9u4oAFPK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092548671510614052",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2092548646718033920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 22,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前天躯体化缓了两天才好。\n一次躯体化就够要我命了ε(┬┬﹏┬┬)3 https://t.co/km9u4oAFPK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092561614876909585",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 424,
+          "like_count": 6423,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1902
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-16T12:45:38.000Z",
+        "description": "· .  。· * ◟∗ ˙ . ℜ𝔢𝔱𝔯𝔬 𝔓𝔦𝔠𝔱𝔬𝔯𝔦𝔞𝔩 . ˙ ∗◞🗞* · 。. ·\n小碍/羊尾  我很喜欢jirakei风格\ncptsd+双向|🔪|💊|负能|碎碎念|🚬……\n女孩子互粉互fo大歡迎  看到就会回\n玩推只為發洩情绪 一个纯绿p",
+        "id": "1945464784763457536",
+        "is_identity_verified": false,
+        "location": "ai的失乐园",
+        "most_recent_tweet_id": "2092548671510614052",
+        "name": "ZIA",
+        "pinned_tweet_id": "2079120070878564503",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1945464784763457536/1787118450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089952373653618688/hmpN7zYG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 219,
+          "following_count": 177,
+          "like_count": 689,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 204
+        },
+        "url": "",
+        "username": "KuriYasuma",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

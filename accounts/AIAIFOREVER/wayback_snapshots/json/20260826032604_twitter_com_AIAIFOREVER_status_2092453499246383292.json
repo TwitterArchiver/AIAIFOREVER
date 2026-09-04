@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092453499246383292",
+    "created_at": "2026-08-26T03:26:04.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T04:26:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092453499246383292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1964406951162613760",
+          "start": 3,
+          "username": "zhqdinwhtkwxxf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092453499246383292",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092292716881395940",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @zhqdinwhtkwxxf: 被愛的條件他媽的到底是什麼啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092453499246383292",
+        "created_at": "2026-08-26T03:26:04.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T04:26:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092453499246383292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1964406951162613760",
+              "start": 3,
+              "username": "zhqdinwhtkwxxf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092453499246383292",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092292716881395940",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @zhqdinwhtkwxxf: 被愛的條件他媽的到底是什麼啊"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1964406951162613760",
+        "conversation_id": "2092292716881395940",
+        "created_at": "2026-08-25T16:47:11.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092292716881395940"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092292716881395940",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1314,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "被愛的條件他媽的到底是什麼啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092453499246383292",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 419,
+          "like_count": 6326,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1879
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-06T19:14:59.000Z",
+        "description": "你猜我是谁",
+        "id": "1964406951162613760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092374347214446813",
+        "name": "？",
+        "pinned_tweet_id": "2092283414393377183",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1964406951162613760/1757186205",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092283211690991616/RpDatdio_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 22,
+          "like_count": 561,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "zhqdinwhtkwxxf",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

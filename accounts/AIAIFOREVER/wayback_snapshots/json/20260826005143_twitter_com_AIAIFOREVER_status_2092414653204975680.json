@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092414653204975680",
+    "created_at": "2026-08-26T00:51:43.000Z",
+    "display_text_range": [
+      0,
+      116
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T01:51:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092414653204975680"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1730630325003288576",
+          "start": 3,
+          "username": "lian061907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092414653204975680",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092304518046490953",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lian061907: 我操了我是真烦那种其实家庭好的不得了钱和爱要什么有什么但还要在网上装可怜的人，你明明什么都有了还要怎样啊……到头来伤害的还是普通老百姓甚至是真的家庭不好的人，我真的不知道这群人是怎么想的到底有什么目的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092414653204975680",
+        "created_at": "2026-08-26T00:51:43.000Z",
+        "display_text_range": [
+          0,
+          116
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:51:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092414653204975680"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1730630325003288576",
+              "start": 3,
+              "username": "lian061907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092414653204975680",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092304518046490953",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lian061907: 我操了我是真烦那种其实家庭好的不得了钱和爱要什么有什么但还要在网上装可怜的人，你明明什么都有了还要怎样啊……到头来伤害的还是普通老百姓甚至是真的家庭不好的人，我真的不知道这群人是怎么想的到底有什么目的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1730630325003288576",
+        "conversation_id": "2092304518046490953",
+        "created_at": "2026-08-25T17:34:04.000Z",
+        "display_text_range": [
+          0,
+          100
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T18:34:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092304518046490953"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092304518046490953",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2658,
+          "like_count": 33,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我操了我是真烦那种其实家庭好的不得了钱和爱要什么有什么但还要在网上装可怜的人，你明明什么都有了还要怎样啊……到头来伤害的还是普通老百姓甚至是真的家庭不好的人，我真的不知道这群人是怎么想的到底有什么目的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092414653204975680",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 419,
+          "like_count": 6297,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1873
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-01T16:50:09.000Z",
+        "description": "🚪88/188 zfb口令红包 不过门不要私信我 只回复口令 我没有精力闲聊 不线下",
+        "id": "1730630325003288576",
+        "is_identity_verified": false,
+        "location": "1.0km",
+        "most_recent_tweet_id": "2092304518046490953",
+        "name": "银色盏",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1730630325003288576/1762187971",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942302771010527232/E-mlepdJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2223,
+          "following_count": 280,
+          "like_count": 2092,
+          "listed_count": 7,
+          "media_count": 57,
+          "tweet_count": 121
+        },
+        "url": "",
+        "username": "lian061907",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092643561133211936",
+    "created_at": "2026-08-26T23:03:08.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T00:03:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092749718233481306"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1691273370858401792",
+          "start": 0,
+          "username": "ge_qiang1582"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092749718233481306",
+    "in_reply_to_user_id": "1691273370858401792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092655121868243000",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ge_qiang1582 谢谢你宝贝"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092655121868243000].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092655121868243000",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092655121868243000"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092643561133211936",
+        "created_at": "2026-08-26T23:03:08.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T00:03:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092749718233481306"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1691273370858401792",
+              "start": 0,
+              "username": "ge_qiang1582"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092749718233481306",
+        "in_reply_to_user_id": "1691273370858401792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092655121868243000",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ge_qiang1582 谢谢你宝贝"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092749718233481306",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 347,
+          "following_count": 421,
+          "like_count": 6487,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1920
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T02:19:40.000Z",
+        "description": "我猜有个小可爱正在看鸽鸽的简介♡=•ㅅ＜=)欢迎光临鸽鸽的日记（其实还是更喜欢你们叫我小强），应用心理学在读，没有脑子，想到什么说什么(｡•﹃•｡)私信找我互fo喵，爱你们～❤️ 美好人格@gg45174157",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 105,
+                "start": 94,
+                "username": "gg45174157"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@xiaoqiangxyq?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@xiaoqiangxyq?_r=1&_t=ZT-9658g93CtGY",
+                "start": 0,
+                "url": "https://t.co/ga6Tqj6vlk"
+              }
+            ]
+          }
+        },
+        "id": "1691273370858401792",
+        "is_identity_verified": false,
+        "location": "啊",
+        "most_recent_tweet_id": "2083922848033468560",
+        "name": "鸽鸽（小强邪恶版）",
+        "pinned_tweet_id": "2028130382369976413",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691273370858401792/1774001206",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2028379780253646848/YFtLQRiW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 228,
+          "like_count": 1032,
+          "listed_count": 0,
+          "media_count": 101,
+          "tweet_count": 913
+        },
+        "url": "https://t.co/ga6Tqj6vlk",
+        "username": "ge_qiang1582",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

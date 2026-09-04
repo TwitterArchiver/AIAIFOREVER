@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092405225097158803",
+    "created_at": "2026-08-26T05:23:17.000Z",
+    "display_text_range": [
+      11,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T06:23:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092482998080073952"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1630464200362569728",
+          "start": 0,
+          "username": "redredeye"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092482998080073952",
+    "in_reply_to_user_id": "1630464200362569728",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092405225097158803",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@redredeye 活动还在吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092405225097158803",
+        "created_at": "2026-08-26T05:23:17.000Z",
+        "display_text_range": [
+          11,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T06:23:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092482998080073952"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1630464200362569728",
+              "start": 0,
+              "username": "redredeye"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092482998080073952",
+        "in_reply_to_user_id": "1630464200362569728",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092405225097158803",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@redredeye 活动还在吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1630464200362569728",
+        "conversation_id": "2092405225097158803",
+        "created_at": "2026-08-26T00:14:15.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T01:14:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092405225097158803"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/anzhai_officia…",
+              "end": 163,
+              "expanded_url": "https://twitter.com/anzhai_official/status/2092180592259641820",
+              "start": 140,
+              "url": "https://t.co/P4oJ144p8D"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092405225097158803",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1540,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092180592259641820",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "之前推上认识个女孩子我有点喜欢，看她平时发的动态好像惨惨的，我就没事给她买裙子买游戏皮肤送花送零食奶茶，结果后面发现她日子比我滋润多了，天天国内国外到处玩，几百的美甲做几天就换掉，衣服也都不便宜，买谷跟进货一样，期间还换了电脑屏幕，wtf am i a joke to you？ https://t.co/P4oJ144p8D"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092482998080073952",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 420,
+          "like_count": 6337,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1881
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-28T07:05:46.000Z",
+        "description": "但我不害怕大美女",
+        "id": "1630464200362569728",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092481440462082120",
+        "name": "我有巨物恐惧症",
+        "pinned_tweet_id": "2091112005738565689",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1630464200362569728/1726042450",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091309164907884544/flyElrTz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 97,
+          "following_count": 60,
+          "like_count": 1398,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 349
+        },
+        "url": "",
+        "username": "redredeye",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

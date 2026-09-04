@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092542457221427325",
+    "created_at": "2026-08-26T09:19:34.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T10:19:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092542457221427325"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/lingopark21/st…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/lingopark21/status/2092518502846632439",
+          "start": 20,
+          "url": "https://t.co/sQ40deoxo4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092542457221427325",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092518502846632439",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "简直就像绝命六头鲨，根本不知道在燃什么 https://t.co/sQ40deoxo4"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092542457221427325",
+        "created_at": "2026-08-26T09:19:34.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T10:19:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092542457221427325"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/lingopark21/st…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/lingopark21/status/2092518502846632439",
+              "start": 20,
+              "url": "https://t.co/sQ40deoxo4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092542457221427325",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092518502846632439",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "简直就像绝命六头鲨，根本不知道在燃什么 https://t.co/sQ40deoxo4"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1757105459356704768",
+        "conversation_id": "2092518502846632439",
+        "created_at": "2026-08-26T07:44:22.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T08:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092518502846632439"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092518502846632439",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 43,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给片配bgm的何意味啊，还都是一些燃的，到底在燃什么啊.."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092542457221427325",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348,
+          "following_count": 423,
+          "like_count": 6406,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1895
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-12T18:12:54.000Z",
+        "description": "此处是一只胡思乱想的麻雀之日记\n异性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/links15795",
+                "end": 23,
+                "expanded_url": "https://ngl.link/links15795",
+                "start": 0,
+                "url": "https://t.co/ZNwVVb7OJq"
+              }
+            ]
+          }
+        },
+        "id": "1757105459356704768",
+        "is_identity_verified": false,
+        "location": "浙江",
+        "most_recent_tweet_id": "2092518502846632439",
+        "name": "麻雀亡命天涯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1757105459356704768/1770029368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018275517951315968/YoTBtZ9i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 163,
+          "like_count": 3974,
+          "listed_count": 3,
+          "media_count": 445,
+          "tweet_count": 6167
+        },
+        "url": "https://t.co/ZNwVVb7OJq",
+        "username": "lingopark21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

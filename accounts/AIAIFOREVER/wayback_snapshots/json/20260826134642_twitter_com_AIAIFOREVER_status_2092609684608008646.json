@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2092289393226912252",
+    "created_at": "2026-08-26T13:46:42.000Z",
+    "display_text_range": [
+      14,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:46:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092609684608008646"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1798356374512164864",
+          "start": 0,
+          "username": "Mini_Ray0824"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092609684608008646",
+    "in_reply_to_user_id": "1798356374512164864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092289393226912252",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mini_Ray0824 女神你做的饭我吃的好香"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2092289393226912252",
+        "created_at": "2026-08-26T13:46:42.000Z",
+        "display_text_range": [
+          14,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:46:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092609684608008646"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1798356374512164864",
+              "start": 0,
+              "username": "Mini_Ray0824"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092609684608008646",
+        "in_reply_to_user_id": "1798356374512164864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092289393226912252",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mini_Ray0824 女神你做的饭我吃的好香"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1798356374512164864",
+        "conversation_id": "2092289393226912252",
+        "created_at": "2026-08-25T16:33:58.000Z",
+        "display_text_range": [
+          0,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T17:33:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092289393226912252"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092289393226912252",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 72,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然腦了一下em的修女塑，感覺還挺合適。謀殺親夫（er）之後來到小鎮的教堂做修女說要懺悔罪行，實際上只是爲了接近某個總是喝酒的老頭神父（c137r）以便完成自己的計劃。對外聲稱被前夫家暴右眼被打傷所以戴眼罩，反抗途中不小心將前夫殺死（真是太不小心了）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092609684608008646",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 419,
+          "like_count": 6452,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 1906
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-05T14:09:20.000Z",
+        "description": "用來發瘋的賬號✨主要是一些日常生活分享和碎碎唸/腦補含量極高/精神狀態美麗/喜歡在叢林中蕩來蕩去/喜歡搶奪路人的香蕉/搶走之後可能會還/混的坑多如兔子洞/爬坑速度快得出殘影/經常有變態發言/只要看見我担我推就會自動變成變態/是個好人",
+        "id": "1798356374512164864",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092590693109899352",
+        "name": "Ray",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1798356374512164864/1785764101",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046885870767394816/8iKuZjwK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 170,
+          "like_count": 1465,
+          "listed_count": 0,
+          "media_count": 110,
+          "tweet_count": 938
+        },
+        "url": "",
+        "username": "Mini_Ray0824",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

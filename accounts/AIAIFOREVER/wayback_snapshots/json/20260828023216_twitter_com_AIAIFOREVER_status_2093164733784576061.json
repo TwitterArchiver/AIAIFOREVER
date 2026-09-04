@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2093164733784576061",
+    "created_at": "2026-08-28T02:32:16.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T03:32:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093164733784576061"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/hgds0/status/2…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/hgds0/status/2092996879961452669",
+          "start": 6,
+          "url": "https://t.co/SG3iSmDhFE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093164733784576061",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092996879961452669",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这简直是我 https://t.co/SG3iSmDhFE"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 720,
+        "media_key": "3_2092996846046351360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvRitSbEAAIMc8.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2093164733784576061",
+        "created_at": "2026-08-28T02:32:16.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T03:32:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093164733784576061"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/hgds0/status/2…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/hgds0/status/2092996879961452669",
+              "start": 6,
+              "url": "https://t.co/SG3iSmDhFE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093164733784576061",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092996879961452669",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这简直是我 https://t.co/SG3iSmDhFE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092996846046351360"
+          ]
+        },
+        "author_id": "1507396901594820608",
+        "conversation_id": "2092996879961452669",
+        "created_at": "2026-08-27T15:25:16.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:25:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092996879961452669"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzxkYVLUQ4",
+              "end": 23,
+              "expanded_url": "https://x.com/hgds0/status/2092996879961452669/photo/1",
+              "media_key": "3_2092996846046351360",
+              "start": 0,
+              "url": "https://t.co/GzxkYVLUQ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092996879961452669",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2092996846046351360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 32,
+          "impression_count": 39342,
+          "like_count": 2018,
+          "quote_count": 23,
+          "reply_count": 37,
+          "retweet_count": 116
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/GzxkYVLUQ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093164733784576061",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 425,
+          "like_count": 6637,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 1953
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092997517969650169",
+        "name": "恋",
+        "pinned_tweet_id": "2092995743045046701",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507396901594820608/1730777810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96940,
+          "following_count": 2350,
+          "like_count": 45583,
+          "listed_count": 141,
+          "media_count": 4643,
+          "tweet_count": 9092
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
