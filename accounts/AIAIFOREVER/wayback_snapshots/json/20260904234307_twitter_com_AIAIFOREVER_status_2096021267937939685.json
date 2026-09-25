@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2096021267937939685",
+    "created_at": "2026-09-04T23:43:07.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T00:43:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096021267937939685"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/XZdRbRugCrJNzR…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/XZdRbRugCrJNzRD/status/2095771504197992678",
+          "start": 6,
+          "url": "https://t.co/TQoVRdXPnw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096021267937939685",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095771504197992678",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太你妈唐了 https://t.co/TQoVRdXPnw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 533,
+        "media_key": "3_2095771494026813440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRWtEefboAAS-jx.jpg",
+        "width": 809
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2096021267937939685",
+        "created_at": "2026-09-04T23:43:07.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T00:43:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096021267937939685"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/XZdRbRugCrJNzR…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/XZdRbRugCrJNzRD/status/2095771504197992678",
+              "start": 6,
+              "url": "https://t.co/TQoVRdXPnw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096021267937939685",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095771504197992678",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太你妈唐了 https://t.co/TQoVRdXPnw"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095771494026813440"
+          ]
+        },
+        "author_id": "1609183710330630145",
+        "conversation_id": "2095771504197992678",
+        "created_at": "2026-09-04T07:10:38.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T08:10:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095771504197992678"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4IE8feM3z",
+              "end": 48,
+              "expanded_url": "https://x.com/XZdRbRugCrJNzRD/status/2095771504197992678/photo/1",
+              "media_key": "3_2095771494026813440",
+              "start": 25,
+              "url": "https://t.co/h4IE8feM3z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095771504197992678",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095771494026813440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 51828,
+          "like_count": 1567,
+          "quote_count": 10,
+          "reply_count": 287,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "每隔一段时间和这种顺顺对话感觉大脑褶皱都被抚平了 https://t.co/h4IE8feM3z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096021267937939685",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 432,
+          "following_count": 441,
+          "like_count": 7189,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-31T13:45:12.000Z",
+        "description": "脑子不好，抑郁症，智力低下",
+        "id": "1609183710330630145",
+        "is_identity_verified": false,
+        "location": "unknown",
+        "most_recent_tweet_id": "2095952181493190866",
+        "name": ".942",
+        "pinned_tweet_id": "2095494751260934507",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1609183710330630145/1776523119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059314305045270528/dfVEkO0p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 156,
+          "following_count": 834,
+          "like_count": 21106,
+          "listed_count": 1,
+          "media_count": 721,
+          "tweet_count": 9180
+        },
+        "url": "",
+        "username": "XZdRbRugCrJNzRD",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

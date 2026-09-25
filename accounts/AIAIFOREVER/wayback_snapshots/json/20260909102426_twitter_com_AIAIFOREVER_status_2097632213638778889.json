@@ -1,0 +1,552 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097495060917190656",
+        "3_2097495060925595648"
+      ],
+      "media_source_tweet_id": [
+        "2097495067187651061",
+        "2097495067187651061"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "1017115427795681281",
+          "name": "Shojo Kageki Revue Starlight"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2097632213638778889",
+    "created_at": "2026-09-09T10:24:26.000Z",
+    "display_text_range": [
+      0,
+      82
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T11:24:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097632213638778889"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 51,
+          "start": 44,
+          "tag": "スタァライト"
+        },
+        {
+          "end": 58,
+          "start": 52,
+          "tag": "九九組の日"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "748671603127398400",
+          "start": 3,
+          "username": "aibaaiai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/rogBy3SggV",
+          "end": 82,
+          "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+          "media_key": "3_2097495060917190656",
+          "start": 59,
+          "url": "https://t.co/rogBy3SggV"
+        },
+        {
+          "display_url": "pic.x.com/rogBy3SggV",
+          "end": 82,
+          "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+          "media_key": "3_2097495060925595648",
+          "start": 59,
+          "url": "https://t.co/rogBy3SggV"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097632213638778889",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2097495060917190656"
+      },
+      {
+        "media_key": "3_2097495060925595648"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 779
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097495067187651061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @aibaaiai: おはようございます！\n9月9日！今日は九九組の日〜🤙🦒🍅✨\n#スタァライト #九九組の日 https://t.co/rogBy3SggV"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2097495060917190656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvMpRgbAAAxb2N.jpg",
+        "width": 1478
+      },
+      {
+        "height": 1109,
+        "media_key": "3_2097495060925595648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRvMpRibQAAxWbh.jpg",
+        "width": 1479
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097495060917190656",
+            "3_2097495060925595648"
+          ],
+          "media_source_tweet_id": [
+            "2097495067187651061",
+            "2097495067187651061"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2097632213638778889",
+        "created_at": "2026-09-09T10:24:26.000Z",
+        "display_text_range": [
+          0,
+          82
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:24:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097632213638778889"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 51,
+              "start": 44,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 58,
+              "start": 52,
+              "tag": "九九組の日"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "748671603127398400",
+              "start": 3,
+              "username": "aibaaiai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rogBy3SggV",
+              "end": 82,
+              "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+              "media_key": "3_2097495060917190656",
+              "start": 59,
+              "url": "https://t.co/rogBy3SggV"
+            },
+            {
+              "display_url": "pic.x.com/rogBy3SggV",
+              "end": 82,
+              "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+              "media_key": "3_2097495060925595648",
+              "start": 59,
+              "url": "https://t.co/rogBy3SggV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097632213638778889",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097495060917190656"
+          },
+          {
+            "media_key": "3_2097495060925595648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 779
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097495067187651061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @aibaaiai: おはようございます！\n9月9日！今日は九九組の日〜🤙🦒🍅✨\n#スタァライト #九九組の日 https://t.co/rogBy3SggV"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097495060917190656",
+            "3_2097495060925595648"
+          ]
+        },
+        "author_id": "748671603127398400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "1017115427795681281",
+              "name": "Shojo Kageki Revue Starlight"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2097495067187651061",
+        "created_at": "2026-09-09T01:19:28.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T02:19:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097495067187651061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 30,
+              "tag": "スタァライト"
+            },
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "九九組の日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/rogBy3SggV",
+              "end": 68,
+              "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+              "media_key": "3_2097495060917190656",
+              "start": 45,
+              "url": "https://t.co/rogBy3SggV"
+            },
+            {
+              "display_url": "pic.x.com/rogBy3SggV",
+              "end": 68,
+              "expanded_url": "https://x.com/aibaaiai/status/2097495067187651061/photo/1",
+              "media_key": "3_2097495060925595648",
+              "start": 45,
+              "url": "https://t.co/rogBy3SggV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097495067187651061",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097495060917190656"
+          },
+          {
+            "media_key": "3_2097495060925595648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 101,
+          "impression_count": 50485,
+          "like_count": 4233,
+          "quote_count": 7,
+          "reply_count": 68,
+          "retweet_count": 779
+        },
+        "reply_settings": "everyone",
+        "text": "おはようございます！\n9月9日！今日は九九組の日〜🤙🦒🍅✨\n#スタァライト #九九組の日 https://t.co/rogBy3SggV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097632213638778889",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096512269006118912/X5IBS3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 432,
+          "like_count": 7350,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2143
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-01T00:16:34.000Z",
+        "description": "【響所属】声優。プロレスしてました。プロレス・競馬・謎解き・映画好き。Roselia Vo.湊友希那／カードファイト!!ヴァンガードG NEXT 安城トコハ／けものフレンズ イワトビペンギン／少女⭐︎歌劇レヴュースタァライト 西條クロディーヌ／てっぺん 天野ちとせ／魔術師オーフェン ウィノナなど。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/aiba_aiai/",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/aiba_aiai/",
+                "start": 0,
+                "url": "https://t.co/qtzpmZn2Iu"
+              }
+            ]
+          }
+        },
+        "id": "748671603127398400",
+        "is_identity_verified": false,
+        "location": "Osaka",
+        "most_recent_tweet_id": "2097495067187651061",
+        "name": "相羽あいな",
+        "pinned_tweet_id": "2094426075757773179",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/748671603127398400/1647097630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741686437056253952/8HC2lz8C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351155,
+          "following_count": 1034,
+          "like_count": 6925,
+          "listed_count": 4557,
+          "media_count": 6634,
+          "tweet_count": 29979
+        },
+        "url": "https://t.co/qtzpmZn2Iu",
+        "username": "aibaaiai",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

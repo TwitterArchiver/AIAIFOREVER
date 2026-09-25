@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Aika Kobayashi (小林愛香)",
+          "id": "1085255528727511040",
+          "name": "Aika Kobayashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Aika Kobayashi (小林愛香)",
+          "id": "1085255528727511040",
+          "name": "Aika Kobayashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Aika Kobayashi (小林愛香)",
+          "id": "1085255528727511040",
+          "name": "Aika Kobayashi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1191379707473715201",
+          "name": "Voice actors"
+        }
+      }
+    ],
+    "conversation_id": "2096219424021958999",
+    "created_at": "2026-09-05T12:50:31.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:50:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096219424021958999"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Aikyan_/status…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/Aikyan_/status/2096194032217247902",
+          "start": 5,
+          "url": "https://t.co/0OgAWp0fPe"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096219424021958999",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096194032217247902",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "超大！！ https://t.co/0OgAWp0fPe"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096194025669955584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRctXDhakAAgbny.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2096219424021958999",
+        "created_at": "2026-09-05T12:50:31.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:50:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096219424021958999"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Aikyan_/status…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/Aikyan_/status/2096194032217247902",
+              "start": 5,
+              "url": "https://t.co/0OgAWp0fPe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096219424021958999",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096194032217247902",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "超大！！ https://t.co/0OgAWp0fPe"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096194025669955584"
+          ]
+        },
+        "author_id": "260986258",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Aika Kobayashi (小林愛香)",
+              "id": "1085255528727511040",
+              "name": "Aika Kobayashi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          }
+        ],
+        "conversation_id": "2096194032217247902",
+        "created_at": "2026-09-05T11:09:37.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T12:09:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096194032217247902"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "ぶるーまじっく"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvGvtLEEba",
+              "end": 68,
+              "expanded_url": "https://x.com/Aikyan_/status/2096194032217247902/photo/1",
+              "media_key": "3_2096194025669955584",
+              "start": 45,
+              "url": "https://t.co/fvGvtLEEba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096194032217247902",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096194025669955584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 60,
+          "impression_count": 33617,
+          "like_count": 2210,
+          "quote_count": 10,
+          "reply_count": 51,
+          "retweet_count": 397
+        },
+        "reply_settings": "everyone",
+        "text": "#ぶるーまじっく の\nでかいAIKA KOBAYASHI\n見に行けたよっ！！！でかあ！！ https://t.co/fvGvtLEEba"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096219424021958999",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 440,
+          "like_count": 7218,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2112
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-03-05T00:58:36.000Z",
+        "description": "歌手/声優/#yipyip\nボイスキット所属🐻‍❄️\n📷https://t.co/qZ60awZSh6",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 13,
+                "start": 6,
+                "tag": "yipyip"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kyanstagram_",
+                "end": 51,
+                "expanded_url": "http://instagram.com/kyanstagram_",
+                "start": 28,
+                "url": "https://t.co/qZ60awZSh6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kobayashiaika.jp",
+                "end": 23,
+                "expanded_url": "https://kobayashiaika.jp/",
+                "start": 0,
+                "url": "https://t.co/RmXXqjDC9P"
+              }
+            ]
+          }
+        },
+        "id": "260986258",
+        "is_identity_verified": false,
+        "location": "♡",
+        "most_recent_tweet_id": "2096195553118023927",
+        "name": "小林 愛香",
+        "pinned_tweet_id": "2069771494683779209",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/260986258/1736474530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069767723031371776/PGvqzB42_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 356992,
+          "following_count": 572,
+          "like_count": 5390,
+          "listed_count": 8195,
+          "media_count": 2530,
+          "tweet_count": 14685
+        },
+        "url": "https://t.co/RmXXqjDC9P",
+        "username": "Aikyan_",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

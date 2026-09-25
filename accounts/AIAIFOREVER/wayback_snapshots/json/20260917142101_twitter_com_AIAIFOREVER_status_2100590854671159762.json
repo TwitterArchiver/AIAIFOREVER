@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2100590825734565888"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100590671954599963",
+    "created_at": "2026-09-17T14:21:01.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T15:21:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100590854671159762"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/nR744ZJnfm",
+          "end": 32,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2100590854671159762/photo/1",
+          "media_key": "3_2100590825734565888",
+          "start": 9,
+          "url": "https://t.co/nR744ZJnfm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100590854671159762",
+    "in_reply_to_user_id": "2071924874163912704",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2100590825734565888"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100590671954599963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这是哪位啊呃呃呃 https://t.co/nR744ZJnfm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100590825734565888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbMOgJacAABuBJ.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100590825734565888"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100590671954599963",
+        "created_at": "2026-09-17T14:21:01.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:21:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100590854671159762"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nR744ZJnfm",
+              "end": 32,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2100590854671159762/photo/1",
+              "media_key": "3_2100590825734565888",
+              "start": 9,
+              "url": "https://t.co/nR744ZJnfm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100590854671159762",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2100590825734565888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100590671954599963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这是哪位啊呃呃呃 https://t.co/nR744ZJnfm"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100590671954599963",
+        "created_at": "2026-09-17T14:20:17.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100590671954599963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100590671954599963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "给我打钱的留个微信号行不不然我去哪里加你"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100590854671159762",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 435,
+          "like_count": 7284,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2169
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

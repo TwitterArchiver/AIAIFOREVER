@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100593878625890311",
+    "created_at": "2026-09-17T14:33:02.000Z",
+    "display_text_range": [
+      0,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T15:33:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100593878625890311"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2061408795520008192",
+          "start": 3,
+          "username": "Liulianhssisn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100593878625890311",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100294587768078422",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Liulianhssisn: 高敏感是这样的。真想跪下来求自己别想了结果发现跪下来想得更起劲了。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100593878625890311",
+        "created_at": "2026-09-17T14:33:02.000Z",
+        "display_text_range": [
+          0,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:33:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100593878625890311"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2061408795520008192",
+              "start": 3,
+              "username": "Liulianhssisn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100593878625890311",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100294587768078422",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Liulianhssisn: 高敏感是这样的。真想跪下来求自己别想了结果发现跪下来想得更起劲了。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061408795520008192",
+        "conversation_id": "2100294587768078422",
+        "created_at": "2026-09-16T18:43:45.000Z",
+        "display_text_range": [
+          0,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T19:43:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100294587768078422"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100294587768078422",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3377,
+          "like_count": 68,
+          "quote_count": 2,
+          "reply_count": 40,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "高敏感是这样的。真想跪下来求自己别想了结果发现跪下来想得更起劲了。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100593878625890311",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 435,
+          "like_count": 7287,
+          "listed_count": 1,
+          "media_count": 103,
+          "tweet_count": 2171
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-01T11:27:11.000Z",
+        "description": "🈚️🚪\n爱发啥发啥\n@c0aejs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 10,
+                "username": "c0aejs"
+              }
+            ]
+          }
+        },
+        "id": "2061408795520008192",
+        "is_identity_verified": false,
+        "location": "肌肉男的乳沟",
+        "most_recent_tweet_id": "2100524769950961892",
+        "name": "ᗜ ֊ ᗜ",
+        "pinned_tweet_id": "2098078398744613167",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061450399706411008/02E8vh-6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2205,
+          "following_count": 29,
+          "like_count": 7140,
+          "listed_count": 4,
+          "media_count": 5,
+          "tweet_count": 1667
+        },
+        "url": "",
+        "username": "Liulianhssisn",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

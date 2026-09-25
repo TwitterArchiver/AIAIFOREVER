@@ -1,0 +1,321 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101652141098340761",
+    "created_at": "2026-09-20T12:38:11.000Z",
+    "display_text_range": [
+      0,
+      4
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101652141098340761"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amane_bushi/st…",
+          "end": 28,
+          "expanded_url": "https://twitter.com/amane_bushi/status/2101294387972169865",
+          "start": 5,
+          "url": "https://t.co/JHkTblw2dq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101652141098340761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101294387972169865",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "小猪宝宝 https://t.co/JHkTblw2dq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2101294381605294080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSlMG2AbkAA94GC.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101652141098340761",
+        "created_at": "2026-09-20T12:38:11.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101652141098340761"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amane_bushi/st…",
+              "end": 28,
+              "expanded_url": "https://twitter.com/amane_bushi/status/2101294387972169865",
+              "start": 5,
+              "url": "https://t.co/JHkTblw2dq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101652141098340761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101294387972169865",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "小猪宝宝 https://t.co/JHkTblw2dq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101294381605294080"
+          ]
+        },
+        "author_id": "1041938828682911744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101294387972169865",
+        "created_at": "2026-09-19T12:56:36.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T13:56:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101294387972169865"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/9ZqXHwhaaU",
+              "end": 130,
+              "expanded_url": "https://x.com/amane_bushi/status/2101294387972169865/photo/1",
+              "media_key": "3_2101294381605294080",
+              "start": 107,
+              "url": "https://t.co/9ZqXHwhaaU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101294387972169865",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101294381605294080"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 85,
+          "impression_count": 36646,
+          "like_count": 3035,
+          "quote_count": 7,
+          "reply_count": 9,
+          "retweet_count": 288
+        },
+        "reply_settings": "everyone",
+        "text": "先日ファンレター、プレゼント受け取りました✨️\nありがとうございます‼️\n皆さんからの素敵な贈り物に元気と癒しも頂きました！！\n頑張るぞ〜٩( ᵒ̴̶̷̤0ᵒ̴̶̷̤ )و\n引き続き応援よろしくお願いいたします！ https://t.co/9ZqXHwhaaU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101652141098340761",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 437,
+          "like_count": 7389,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2195
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-09-18T06:35:49.000Z",
+        "description": "響 所属🌱 #蓮ノ空 #lovelive 桂城泉 #アニメ100カノ 原賀胡桃 #バンドリ 倉田ましろ #D4DJ 春日春奈 #ヴァンガード 大倉メグミ #温泉むすめ かみのやま庵 #仮面ライダー555 #Vシネ555 スマートレディ 等…/ #プレバンのライブショッピング MC / #あまね部🦈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 10,
+                "start": 6,
+                "tag": "蓮ノ空"
+              },
+              {
+                "end": 20,
+                "start": 11,
+                "tag": "lovelive"
+              },
+              {
+                "end": 34,
+                "start": 25,
+                "tag": "アニメ100カノ"
+              },
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 57,
+                "start": 52,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 70,
+                "start": 63,
+                "tag": "ヴァンガード"
+              },
+              {
+                "end": 83,
+                "start": 77,
+                "tag": "温泉むすめ"
+              },
+              {
+                "end": 101,
+                "start": 91,
+                "tag": "仮面ライダー555"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "Vシネ555"
+              },
+              {
+                "end": 137,
+                "start": 122,
+                "tag": "プレバンのライブショッピング"
+              },
+              {
+                "end": 148,
+                "start": 143,
+                "tag": "あまね部"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/shind…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/shindou_amane/",
+                "start": 0,
+                "url": "https://t.co/MTfQVgqlwK"
+              }
+            ]
+          }
+        },
+        "id": "1041938828682911744",
+        "is_identity_verified": true,
+        "location": "愛知県出身🌱/山形県上山市 かみのやまアンバサダー🍐",
+        "most_recent_tweet_id": "2101458442854744189",
+        "name": "進藤あまね",
+        "pinned_tweet_id": "2082432817066279065",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1041938828682911744/1668749497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913618796620967936/0hmjTtMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281940,
+          "following_count": 915,
+          "like_count": 64462,
+          "listed_count": 3293,
+          "media_count": 5350,
+          "tweet_count": 34079
+        },
+        "url": "https://t.co/MTfQVgqlwK",
+        "username": "amane_bushi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

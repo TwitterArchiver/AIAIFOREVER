@@ -1,0 +1,312 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095024279800950784"
+      ],
+      "media_source_tweet_id": [
+        "2095024299472212100"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2095038144689393762",
+    "created_at": "2026-09-02T06:36:32.000Z",
+    "display_text_range": [
+      0,
+      73
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T07:36:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095038144689393762"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 44,
+          "start": 42,
+          "tag": "男"
+        },
+        {
+          "end": 49,
+          "start": 46,
+          "tag": "互关"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2089397950350761984",
+          "start": 3,
+          "username": "paomian_2"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/x9OEQH4soQ",
+          "end": 73,
+          "expanded_url": "https://x.com/paomian_2/status/2095024299472212100/photo/1",
+          "media_key": "3_2095024279800950784",
+          "start": 50,
+          "url": "https://t.co/x9OEQH4soQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095038144689393762",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095024279800950784"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095024299472212100",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @paomian_2: 我是泡面我复活了，爸爸妈妈们帮我转发寻回互关😭😭😭。 #男  #互关 https://t.co/x9OEQH4soQ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095024279800950784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMFe4lasAAbOqj.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095024279800950784"
+          ],
+          "media_source_tweet_id": [
+            "2095024299472212100"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2095038144689393762",
+        "created_at": "2026-09-02T06:36:32.000Z",
+        "display_text_range": [
+          0,
+          73
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T07:36:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095038144689393762"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 42,
+              "tag": "男"
+            },
+            {
+              "end": 49,
+              "start": 46,
+              "tag": "互关"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2089397950350761984",
+              "start": 3,
+              "username": "paomian_2"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9OEQH4soQ",
+              "end": 73,
+              "expanded_url": "https://x.com/paomian_2/status/2095024299472212100/photo/1",
+              "media_key": "3_2095024279800950784",
+              "start": 50,
+              "url": "https://t.co/x9OEQH4soQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095038144689393762",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095024279800950784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095024299472212100",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @paomian_2: 我是泡面我复活了，爸爸妈妈们帮我转发寻回互关😭😭😭。 #男  #互关 https://t.co/x9OEQH4soQ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095024279800950784"
+          ]
+        },
+        "author_id": "2089397950350761984",
+        "conversation_id": "2095024299472212100",
+        "created_at": "2026-09-02T05:41:31.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T06:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095024299472212100"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 27,
+              "tag": "男"
+            },
+            {
+              "end": 34,
+              "start": 31,
+              "tag": "互关"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/x9OEQH4soQ",
+              "end": 58,
+              "expanded_url": "https://x.com/paomian_2/status/2095024299472212100/photo/1",
+              "media_key": "3_2095024279800950784",
+              "start": 35,
+              "url": "https://t.co/x9OEQH4soQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095024299472212100",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095024279800950784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我是泡面我复活了，爸爸妈妈们帮我转发寻回互关😭😭😭。 #男  #互关 https://t.co/x9OEQH4soQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095038144689393762",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 406,
+          "following_count": 440,
+          "like_count": 7085,
+          "listed_count": 1,
+          "media_count": 95,
+          "tweet_count": 2081
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T17:04:38.000Z",
+        "description": "安徽/男/🚪88",
+        "id": "2089397950350761984",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095024299472212100",
+        "name": "泡面恶魔",
+        "pinned_tweet_id": "2095024299472212100",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089397950350761984/1787216617",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093304444398260225/MOQ4Ow84_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 4,
+          "like_count": 0,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 14
+        },
+        "url": "",
+        "username": "paomian_2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

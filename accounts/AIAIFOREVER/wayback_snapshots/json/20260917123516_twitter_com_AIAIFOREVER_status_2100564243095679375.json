@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100564243095679375",
+    "created_at": "2026-09-17T12:35:16.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T13:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100564243095679375"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/pad____o/statu…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/pad____o/status/2100484865867358268",
+          "start": 12,
+          "url": "https://t.co/FGhTUys3e0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100564243095679375",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100484865867358268",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "幼驯染就应该结婚，，， https://t.co/FGhTUys3e0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100484856862175232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZr2TVbcAA18ux.jpg",
+        "width": 1629
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100564243095679375",
+        "created_at": "2026-09-17T12:35:16.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T13:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100564243095679375"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/pad____o/statu…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/pad____o/status/2100484865867358268",
+              "start": 12,
+              "url": "https://t.co/FGhTUys3e0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100564243095679375",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100484865867358268",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "幼驯染就应该结婚，，， https://t.co/FGhTUys3e0"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100484856862175232"
+          ]
+        },
+        "author_id": "1259470481905684483",
+        "conversation_id": "2100484865867358268",
+        "created_at": "2026-09-17T07:19:51.000Z",
+        "display_text_range": [
+          0,
+          2
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:19:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100484865867358268"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DX0cGg3dGH",
+              "end": 26,
+              "expanded_url": "https://x.com/pad____o/status/2100484865867358268/photo/1",
+              "media_key": "3_2100484856862175232",
+              "start": 3,
+              "url": "https://t.co/DX0cGg3dGH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100484865867358268",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2100484856862175232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 16,
+          "impression_count": 5218,
+          "like_count": 511,
+          "quote_count": 5,
+          "reply_count": 0,
+          "retweet_count": 86
+        },
+        "reply_settings": "everyone",
+        "text": "💕💍 https://t.co/DX0cGg3dGH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100564243095679375",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 435,
+          "like_count": 7247,
+          "listed_count": 1,
+          "media_count": 101,
+          "tweet_count": 2157
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-10T13:09:25.000Z",
+        "description": "今井リサ🌹",
+        "id": "1259470481905684483",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100484865867358268",
+        "name": "pado",
+        "pinned_tweet_id": "2091903681570783552",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1259470481905684483/1628490272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1361689154367545347/FmRFCkID_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 630,
+          "following_count": 45,
+          "like_count": 6282,
+          "listed_count": 1,
+          "media_count": 479,
+          "tweet_count": 1956
+        },
+        "url": "",
+        "username": "pad____o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100508812453335247",
+    "created_at": "2026-09-17T08:55:01.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:55:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100508812453335247"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aimi_sound/sta…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/aimi_sound/status/2100169930826289215",
+          "start": 8,
+          "url": "https://t.co/Mskctl9OL5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100508812453335247",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100169930826289215",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "9.5周年了呢 https://t.co/Mskctl9OL5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2100169926397022208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVNa77aUAAJBON.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100508812453335247",
+        "created_at": "2026-09-17T08:55:01.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:55:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100508812453335247"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aimi_sound/sta…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/aimi_sound/status/2100169930826289215",
+              "start": 8,
+              "url": "https://t.co/Mskctl9OL5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100508812453335247",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100169930826289215",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9.5周年了呢 https://t.co/Mskctl9OL5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100169926397022208"
+          ]
+        },
+        "author_id": "253177157",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese voice actress, and singer",
+              "id": "1070721099715891201",
+              "name": "Aimi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2100169930826289215",
+        "created_at": "2026-09-16T10:28:25.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T11:28:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100169930826289215"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 18,
+              "tag": "祝ガルパハーフアニバ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/qRh5VygEFq",
+              "end": 53,
+              "expanded_url": "https://x.com/aimi_sound/status/2100169930826289215/photo/1",
+              "media_key": "3_2100169926397022208",
+              "start": 30,
+              "url": "https://t.co/qRh5VygEFq"
+            },
+            {
+              "display_url": "x.com/bang_dream_gbp…",
+              "end": 77,
+              "expanded_url": "https://twitter.com/bang_dream_gbp/status/2099875934409265325",
+              "start": 54,
+              "url": "https://t.co/BwkglqElkp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100169930826289215",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100169926397022208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 213,
+          "impression_count": 147138,
+          "like_count": 6744,
+          "quote_count": 23,
+          "reply_count": 48,
+          "retweet_count": 959
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099875934409265325",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "9.5周年✨おめでとうございます✨\n#祝ガルパハーフアニバ https://t.co/qRh5VygEFq https://t.co/BwkglqElkp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100508812453335247",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 434,
+          "like_count": 7227,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2144
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-16T18:24:01.000Z",
+        "description": "イラストロジック／VoiceActor／Singer／AiM:Øriginal／#チームY／INTP-AC／https://t.co/XL60i51CUE／#あいみんみてや／FC #OKOMAISON🍚／",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "チームY"
+              },
+              {
+                "end": 86,
+                "start": 78,
+                "tag": "あいみんみてや"
+              },
+              {
+                "end": 100,
+                "start": 90,
+                "tag": "OKOMAISON"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/aimin_official",
+                "end": 77,
+                "expanded_url": "https://www.instagram.com/aimin_official",
+                "start": 54,
+                "url": "https://t.co/XL60i51CUE"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@aimin_officia…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@aimin_official?si=qdGBEqyXi6MZf7W0",
+                "start": 0,
+                "url": "https://t.co/yPK9NdSUdd"
+              }
+            ]
+          }
+        },
+        "id": "253177157",
+        "is_identity_verified": false,
+        "location": "響・キングレコード",
+        "most_recent_tweet_id": "2100444523465953589",
+        "name": "愛美/AIMI",
+        "pinned_tweet_id": "2098784079940661508",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/253177157/1703854618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1790017537419448320/CpfWdOtM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 473631,
+          "following_count": 32,
+          "like_count": 4111,
+          "listed_count": 7726,
+          "media_count": 8416,
+          "tweet_count": 42191
+        },
+        "url": "https://t.co/yPK9NdSUdd",
+        "username": "aimi_sound",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

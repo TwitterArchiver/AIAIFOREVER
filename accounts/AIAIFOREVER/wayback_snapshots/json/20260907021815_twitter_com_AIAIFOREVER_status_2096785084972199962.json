@@ -1,0 +1,435 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television Show Genres",
+          "id": "22",
+          "name": "TV Genres"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293297579778699264",
+          "name": "Variety TV"
+        }
+      }
+    ],
+    "conversation_id": "2096785084972199962",
+    "created_at": "2026-09-07T02:18:15.000Z",
+    "display_text_range": [
+      0,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:18:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096785084972199962"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/t_chiemi1006/s…",
+          "end": 43,
+          "expanded_url": "https://twitter.com/t_chiemi1006/status/2096577256445599760",
+          "start": 20,
+          "url": "https://t.co/ZyLuBtuYNF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096785084972199962",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096577256445599760",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请注意这是切咪和奈酱，这是我的妈妈妈妈 https://t.co/ZyLuBtuYNF"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2096577244835823616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJ5WKbQAAWJeI.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2096577244630335488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRiJ5VZbwAA5Vva.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2096785084972199962",
+        "created_at": "2026-09-07T02:18:15.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:18:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096785084972199962"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/t_chiemi1006/s…",
+              "end": 43,
+              "expanded_url": "https://twitter.com/t_chiemi1006/status/2096577256445599760",
+              "start": 20,
+              "url": "https://t.co/ZyLuBtuYNF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096785084972199962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096577256445599760",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请注意这是切咪和奈酱，这是我的妈妈妈妈 https://t.co/ZyLuBtuYNF"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096577244835823616",
+            "3_2096577244630335488"
+          ]
+        },
+        "author_id": "1176845285059747842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television Show Genres",
+              "id": "22",
+              "name": "TV Genres"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293297579778699264",
+              "name": "Variety TV"
+            }
+          }
+        ],
+        "conversation_id": "2096577256445599760",
+        "created_at": "2026-09-06T12:32:25.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T13:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096577256445599760"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "うになる"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/P1XkHwJGH6",
+              "end": 161,
+              "expanded_url": "https://x.com/t_chiemi1006/status/2096577256445599760/photo/1",
+              "media_key": "3_2096577244835823616",
+              "start": 138,
+              "url": "https://t.co/P1XkHwJGH6"
+            },
+            {
+              "display_url": "pic.x.com/P1XkHwJGH6",
+              "end": 161,
+              "expanded_url": "https://x.com/t_chiemi1006/status/2096577256445599760/photo/1",
+              "media_key": "3_2096577244630335488",
+              "start": 138,
+              "url": "https://t.co/P1XkHwJGH6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096577256445599760",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096577244835823616"
+          },
+          {
+            "media_key": "3_2096577244630335488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 97,
+          "impression_count": 26617,
+          "like_count": 1808,
+          "quote_count": 9,
+          "reply_count": 40,
+          "retweet_count": 337
+        },
+        "reply_settings": "everyone",
+        "text": "#うになる\nイベントゲストにお邪魔いたしました！\nお話しながらいっぱい遊んで、なっちゃんのバラエティ力にたくさん笑った😂✨\nあーたのしかった💕ありがとうございました！！\nそして1日早いけど、なっちゃんお誕生日おめでとう🎂\nおばあちゃんになってもずっとこの関係でいようね！🫶🏻 https://t.co/P1XkHwJGH6"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096785084972199962",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096512269006118912/X5IBS3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 436,
+          "like_count": 7254,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2127
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-25T13:06:09.000Z",
+        "description": "ステイラック所属田中ちえ美です。 マイペースに呟きます。ブログ→https://t.co/ziEWVaaTqp インスタ→ https://t.co/AbHUAjA6s6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/tanaka-chiemi0…",
+                "end": 55,
+                "expanded_url": "https://ameblo.jp/tanaka-chiemi06/",
+                "start": 32,
+                "url": "https://t.co/ziEWVaaTqp"
+              },
+              {
+                "display_url": "instagram.com/chiemi._.tanak…",
+                "end": 85,
+                "expanded_url": "https://instagram.com/chiemi._.tanaka?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 62,
+                "url": "https://t.co/AbHUAjA6s6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stay-luck.com/talent/tanaka-…",
+                "end": 23,
+                "expanded_url": "https://stay-luck.com/talent/tanaka-chiemi/",
+                "start": 0,
+                "url": "https://t.co/cGw0i56MC3"
+              }
+            ]
+          }
+        },
+        "id": "1176845285059747842",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096577256445599760",
+        "name": "田中ちえ美",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176845285059747842/1683713698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054152650539843584/qZI0GXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143552,
+          "following_count": 402,
+          "like_count": 1490,
+          "listed_count": 4267,
+          "media_count": 1159,
+          "tweet_count": 9566
+        },
+        "url": "https://t.co/cGw0i56MC3",
+        "username": "t_chiemi1006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

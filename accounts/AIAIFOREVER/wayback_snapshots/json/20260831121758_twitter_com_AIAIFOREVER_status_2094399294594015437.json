@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2094399294594015437",
+    "created_at": "2026-08-31T12:17:58.000Z",
+    "display_text_range": [
+      0,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:17:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094399294594015437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1662757137997778944",
+          "start": 3,
+          "username": "six919303018180"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094399294594015437",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094319119411933550",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @six919303018180: 所有男的遇到我都会自动变穷呀，一聊天又是猛猛给前女友花钱呀^_^"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2094399294594015437",
+        "created_at": "2026-08-31T12:17:58.000Z",
+        "display_text_range": [
+          0,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:17:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094399294594015437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1662757137997778944",
+              "start": 3,
+              "username": "six919303018180"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094399294594015437",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094319119411933550",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @six919303018180: 所有男的遇到我都会自动变穷呀，一聊天又是猛猛给前女友花钱呀^_^"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1662757137997778944",
+        "conversation_id": "2094319119411933550",
+        "created_at": "2026-08-31T06:59:23.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T07:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094319119411933550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094319119411933550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5236,
+          "like_count": 121,
+          "quote_count": 0,
+          "reply_count": 78,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "所有男的遇到我都会自动变穷呀，一聊天又是猛猛给前女友花钱呀^_^"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094399294594015437",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 371,
+          "following_count": 436,
+          "like_count": 7029,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2057
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-28T09:46:45.000Z",
+        "description": "不看几把\n匿名https://t.co/T2NSTzG20a",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/six919303018180",
+                "end": 30,
+                "expanded_url": "https://ngl.link/six919303018180",
+                "start": 7,
+                "url": "https://t.co/T2NSTzG20a"
+              }
+            ]
+          }
+        },
+        "id": "1662757137997778944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094388696938340755",
+        "name": "woo",
+        "pinned_tweet_id": "2020021850320064684",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1662757137997778944/1770211558",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2019039678645833728/-PZPVIy6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 362,
+          "following_count": 73,
+          "like_count": 1861,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 653
+        },
+        "url": "",
+        "username": "six919303018180",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

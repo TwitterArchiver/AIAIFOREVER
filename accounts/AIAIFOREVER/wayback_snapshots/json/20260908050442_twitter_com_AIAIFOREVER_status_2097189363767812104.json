@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2097189363767812104",
+    "created_at": "2026-09-08T05:04:42.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:04:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097189363767812104"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Demonnn77/stat…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/Demonnn77/status/2096964185305526283",
+          "start": 8,
+          "url": "https://t.co/glgjRxYfWB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097189363767812104",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096964185305526283",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "面包体恶心死了 https://t.co/glgjRxYfWB"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2097189363767812104",
+        "created_at": "2026-09-08T05:04:42.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:04:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097189363767812104"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Demonnn77/stat…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/Demonnn77/status/2096964185305526283",
+              "start": 8,
+              "url": "https://t.co/glgjRxYfWB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097189363767812104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096964185305526283",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "面包体恶心死了 https://t.co/glgjRxYfWB"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090485992373497856",
+        "conversation_id": "2096964185305526283",
+        "created_at": "2026-09-07T14:09:56.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:09:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096964185305526283"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096964185305526283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 22022,
+          "like_count": 324,
+          "quote_count": 4,
+          "reply_count": 62,
+          "retweet_count": 20
+        },
+        "reply_settings": "everyone",
+        "text": "说自己是什么E人I人的你直接给他全家杀了就行"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097189363767812104",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096512269006118912/X5IBS3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 434,
+          "like_count": 7270,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2134
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-20T17:11:25.000Z",
+        "description": "因为我的病就是没有感觉",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rin_demon",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rin_demon",
+                "start": 0,
+                "url": "https://t.co/KR3neogsr1"
+              }
+            ]
+          }
+        },
+        "id": "2090485992373497856",
+        "is_identity_verified": false,
+        "location": "提问箱→",
+        "most_recent_tweet_id": "2097185649677975714",
+        "name": "三清剑",
+        "pinned_tweet_id": "2094497848444465386",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090485992373497856/1787253532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091955819143462913/4omDxaX6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1122,
+          "following_count": 235,
+          "like_count": 2567,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 797
+        },
+        "url": "https://t.co/KR3neogsr1",
+        "username": "Demonnn77",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

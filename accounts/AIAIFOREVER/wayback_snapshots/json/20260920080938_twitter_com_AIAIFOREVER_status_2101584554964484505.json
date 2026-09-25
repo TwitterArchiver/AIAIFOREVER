@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101584554964484505",
+    "created_at": "2026-09-20T08:09:38.000Z",
+    "display_text_range": [
+      0,
+      130
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T09:09:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101584554964484505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2059364425157783552",
+          "start": 3,
+          "username": "Edenedddy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101584554964484505",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 137
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101515760866840698",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Edenedddy: 我的鸡巴真是又粗又长，刚刚拉裤拉链的时候不小心手滑，鸡巴直接弹出来把窗户弹烂了捅穿了对面那栋楼的承重柱，一瞬间楼全垮了所有人都死在里面。我也因为鸡巴大被抓了说我私藏核武器，关着坐了几年牢出来大鸡巴已经被没收了所以变成了一个女孩子。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101584554964484505",
+        "created_at": "2026-09-20T08:09:38.000Z",
+        "display_text_range": [
+          0,
+          130
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T09:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101584554964484505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2059364425157783552",
+              "start": 3,
+              "username": "Edenedddy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101584554964484505",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 137
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101515760866840698",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Edenedddy: 我的鸡巴真是又粗又长，刚刚拉裤拉链的时候不小心手滑，鸡巴直接弹出来把窗户弹烂了捅穿了对面那栋楼的承重柱，一瞬间楼全垮了所有人都死在里面。我也因为鸡巴大被抓了说我私藏核武器，关着坐了几年牢出来大鸡巴已经被没收了所以变成了一个女孩子。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2059364425157783552",
+        "conversation_id": "2101515760866840698",
+        "created_at": "2026-09-20T03:36:16.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:36:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101515760866840698"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101515760866840698",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 74,
+          "impression_count": 41108,
+          "like_count": 1335,
+          "quote_count": 6,
+          "reply_count": 171,
+          "retweet_count": 137
+        },
+        "reply_settings": "everyone",
+        "text": "我的鸡巴真是又粗又长，刚刚拉裤拉链的时候不小心手滑，鸡巴直接弹出来把窗户弹烂了捅穿了对面那栋楼的承重柱，一瞬间楼全垮了所有人都死在里面。我也因为鸡巴大被抓了说我私藏核武器，关着坐了几年牢出来大鸡巴已经被没收了所以变成了一个女孩子。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101584554964484505",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 437,
+          "like_count": 7370,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2189
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-26T20:02:54.000Z",
+        "description": "我何尝不是一个横空出世的绝顶s天才呢？\n\nPs 私聊前介绍一下自己…我不快不慢普通热。礼貌一点对待我拜托了。",
+        "id": "2059364425157783552",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101551990686024119",
+        "name": "Eden",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2059364425157783552/1787233420",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089784716027412481/10bevUQz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3730,
+          "following_count": 96,
+          "like_count": 595,
+          "listed_count": 3,
+          "media_count": 5,
+          "tweet_count": 351
+        },
+        "url": "",
+        "username": "Edenedddy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101651894372622696",
+    "created_at": "2026-09-20T12:37:13.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:37:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2101651894372622696"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amoescitalopra…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/amoescitalopram/status/2101378973796089892",
+          "start": 2,
+          "url": "https://t.co/3ojqbVxCA0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101651894372622696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101378973796089892",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/3ojqbVxCA0"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101651894372622696",
+        "created_at": "2026-09-20T12:37:13.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:37:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101651894372622696"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amoescitalopra…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/amoescitalopram/status/2101378973796089892",
+              "start": 2,
+              "url": "https://t.co/3ojqbVxCA0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101651894372622696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101378973796089892",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/3ojqbVxCA0"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1898927350416367616",
+        "conversation_id": "2101378973796089892",
+        "created_at": "2026-09-19T18:32:43.000Z",
+        "display_text_range": [
+          0,
+          113
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T19:32:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101378973796089892"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101378973796089892",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 294,
+          "impression_count": 83145,
+          "like_count": 8291,
+          "quote_count": 81,
+          "reply_count": 45,
+          "retweet_count": 1995
+        },
+        "reply_settings": "everyone",
+        "text": "so quem ja tentou se matar com 13 anos vai entender o sentimento de chegar nos 18 e nao ter visão de futuro algum"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101651894372622696",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 437,
+          "like_count": 7385,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2194
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-10T02:43:58.000Z",
+        "description": "",
+        "id": "1898927350416367616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101449307090034959",
+        "name": "´ཀ`",
+        "pinned_tweet_id": "2087364462617530853",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898927350416367616/1786751281",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101017753586962432/IKW1Ryuw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3030,
+          "following_count": 158,
+          "like_count": 10268,
+          "listed_count": 5,
+          "media_count": 185,
+          "tweet_count": 5483
+        },
+        "url": "",
+        "username": "amoescitalopram",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

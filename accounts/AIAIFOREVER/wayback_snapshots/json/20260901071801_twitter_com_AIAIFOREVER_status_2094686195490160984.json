@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2094686195490160984",
+    "created_at": "2026-09-01T07:18:01.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T08:18:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094686195490160984"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/acervolovelive…",
+          "end": 38,
+          "expanded_url": "https://twitter.com/acervolovelive/status/2094565464265429017",
+          "start": 15,
+          "url": "https://t.co/D4PQPh2OOK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094686195490160984",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094565464265429017",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我不想上大学，我想当学园偶像 https://t.co/D4PQPh2OOK"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 96204,
+        "height": 720,
+        "media_key": "7_1656398399740977153",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1656398399740977153/pu/img/IG1vHNIaVMifo2DK.jpg",
+        "public_metrics": {
+          "view_count": 12408
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1656398399740977153/pu/vid/480x270/g_fqgD6b3bkn1fIi.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1656398399740977153/pu/vid/640x360/O-jT8paTvkYk7pix.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1656398399740977153/pu/vid/1280x720/TVvQ6PqEJOWu--NM.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1656398399740977153/pu/pl/0V4eUHKXX1brbvrE.m3u8?tag=12"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2094686195490160984",
+        "created_at": "2026-09-01T07:18:01.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:18:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094686195490160984"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/acervolovelive…",
+              "end": 38,
+              "expanded_url": "https://twitter.com/acervolovelive/status/2094565464265429017",
+              "start": 15,
+              "url": "https://t.co/D4PQPh2OOK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094686195490160984",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094565464265429017",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不想上大学，我想当学园偶像 https://t.co/D4PQPh2OOK"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1656398399740977153"
+          ],
+          "media_source_tweet_id": [
+            "1656398503642316803"
+          ]
+        },
+        "author_id": "1985749156686938117",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094565464265429017",
+        "created_at": "2026-08-31T23:18:16.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T00:18:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094565464265429017"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OnURtAy70j",
+              "end": 79,
+              "expanded_url": "https://x.com/LLsongOTD/status/1656398503642316803/video/1",
+              "media_key": "7_1656398399740977153",
+              "start": 56,
+              "url": "https://t.co/OnURtAy70j"
+            },
+            {
+              "display_url": "x.com/_martiihlx/sta…",
+              "end": 103,
+              "expanded_url": "https://twitter.com/_martiihlx/status/2094146035182391724",
+              "start": 80,
+              "url": "https://t.co/9h6WG1xcGl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094565464265429017",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "7_1656398399740977153"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 12150,
+          "like_count": 814,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 287
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094146035182391724",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Não quero ir pra faculdade eu quero ser uma school idol https://t.co/OnURtAy70j https://t.co/9h6WG1xcGl"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094686195490160984",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2085345482038235518",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 368,
+          "following_count": 432,
+          "like_count": 7049,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 2068
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-11-04T16:41:31.000Z",
+        "description": "Seu portal humorístico e tendencioso a respeito da franquia de idol Love Live!",
+        "id": "1985749156686938117",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094565464265429017",
+        "name": "acervo LoveLive!",
+        "pinned_tweet_id": "1985756110117027993",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1985749156686938117/1762276062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985752218297901056/axAexyLG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 591,
+          "following_count": 24,
+          "like_count": 112,
+          "listed_count": 1,
+          "media_count": 151,
+          "tweet_count": 274
+        },
+        "url": "",
+        "username": "acervolovelive",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2097611335660093870",
+    "created_at": "2026-09-09T09:01:28.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T10:01:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097611335660093870"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/akane_q628/sta…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/akane_q628/status/2097339343597867318",
+          "start": 7,
+          "url": "https://t.co/rbKz5h52aZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097611335660093870",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097339343597867318",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别骂了别骂了 https://t.co/rbKz5h52aZ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2097611335660093870",
+        "created_at": "2026-09-09T09:01:28.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:01:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097611335660093870"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/akane_q628/sta…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/akane_q628/status/2097339343597867318",
+              "start": 7,
+              "url": "https://t.co/rbKz5h52aZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097611335660093870",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097339343597867318",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别骂了别骂了 https://t.co/rbKz5h52aZ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1897982820863340544",
+        "conversation_id": "2097339343597867318",
+        "created_at": "2026-09-08T15:00:40.000Z",
+        "display_text_range": [
+          0,
+          88
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:00:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097339343597867318"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097339343597867318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 17,
+          "impression_count": 12927,
+          "like_count": 403,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 37
+        },
+        "reply_settings": "everyone",
+        "text": "你的想法太天真了 休学几年就想在家躺平  从不考虑以后 即使每天啥事也不做可还是觉得痛苦 天真的以为玩几年然后自杀 可你有这个勇气吗 平时一小点伤痛都不愿承受 真的有勇气离开吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097611335660093870",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096512269006118912/X5IBS3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 431,
+          "like_count": 7337,
+          "listed_count": 1,
+          "media_count": 99,
+          "tweet_count": 2142
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-07T12:09:10.000Z",
+        "description": "ᗜ𖥦ᗜ\n匿名https://t.co/Y13ij76cRR",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kioku27436",
+                "end": 29,
+                "expanded_url": "https://ngl.link/kioku27436",
+                "start": 6,
+                "url": "https://t.co/Y13ij76cRR"
+              }
+            ]
+          }
+        },
+        "id": "1897982820863340544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097501251382792668",
+        "name": "kioku",
+        "pinned_tweet_id": "2091091729529364979",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1897982820863340544/1785326317",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087775188092178432/mIY-V1if_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 167,
+          "following_count": 88,
+          "like_count": 1550,
+          "listed_count": 0,
+          "media_count": 49,
+          "tweet_count": 1200
+        },
+        "url": "",
+        "username": "akane_q628",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

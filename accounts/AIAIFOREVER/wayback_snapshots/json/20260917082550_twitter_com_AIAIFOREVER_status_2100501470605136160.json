@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100501470605136160",
+    "created_at": "2026-09-17T08:25:50.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:25:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100501470605136160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/bocchi1chan/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/bocchi1chan/status/2100434447527297429",
+          "start": 6,
+          "url": "https://t.co/tLN89FEgyR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100501470605136160",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100434447527297429",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "嘉嘉，，， https://t.co/tLN89FEgyR"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100501470605136160",
+        "created_at": "2026-09-17T08:25:50.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:25:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100501470605136160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bocchi1chan/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/2100434447527297429",
+              "start": 6,
+              "url": "https://t.co/tLN89FEgyR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100501470605136160",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100434447527297429",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "嘉嘉，，， https://t.co/tLN89FEgyR"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1522976249173450759",
+        "conversation_id": "2100434447527297429",
+        "created_at": "2026-09-17T03:59:31.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T04:59:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100434447527297429"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2100434447527297429",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 722,
+          "like_count": 23,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我强烈建议你去喜欢李嘉，因为喜欢李嘉之后，分泌的多巴胺，高于谈恋爱。看照片能治疗所有的烦躁，看直播帮你疗愈各种内伤，跑去现地看本人后，你的内心会变得像阳光一样坦荡，还会变得无比善良，简直是人生的救星！我超喜欢李嘉！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100501470605136160",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 434,
+          "like_count": 7199,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2142
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "otaku，music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/zSozYuFN2j"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "is_identity_verified": false,
+        "location": "369m",
+        "most_recent_tweet_id": "2100434447527297429",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522976249173450759/1680337880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13666,
+          "following_count": 3242,
+          "like_count": 40833,
+          "listed_count": 19,
+          "media_count": 2425,
+          "tweet_count": 4880
+        },
+        "url": "https://t.co/zSozYuFN2j",
+        "username": "bocchi1chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

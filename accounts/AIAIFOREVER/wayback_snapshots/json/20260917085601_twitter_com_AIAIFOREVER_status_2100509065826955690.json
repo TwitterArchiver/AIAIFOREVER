@@ -1,0 +1,254 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100509065826955690",
+    "created_at": "2026-09-17T08:56:01.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:56:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100509065826955690"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0927_yuina/sta…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/0927_yuina/status/2100204062537072687",
+          "start": 12,
+          "url": "https://t.co/5nFPJBlqxA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100509065826955690",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100204062537072687",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "盘点那些最萌的11个人 https://t.co/5nFPJBlqxA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1108,
+        "media_key": "3_2100204053297041408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSVsdYibEAAxgTi.jpg",
+        "width": 1477
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100509065826955690",
+        "created_at": "2026-09-17T08:56:01.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:56:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100509065826955690"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0927_yuina/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/0927_yuina/status/2100204062537072687",
+              "start": 12,
+              "url": "https://t.co/5nFPJBlqxA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100509065826955690",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100204062537072687",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "盘点那些最萌的11个人 https://t.co/5nFPJBlqxA"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100204053297041408"
+          ]
+        },
+        "author_id": "1117423428363931649",
+        "conversation_id": "2100204062537072687",
+        "created_at": "2026-09-16T12:44:03.000Z",
+        "display_text_range": [
+          0,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T13:44:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100204062537072687"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "Liellaの日"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q0lowKL6tF",
+              "end": 92,
+              "expanded_url": "https://x.com/0927_yuina/status/2100204062537072687/photo/1",
+              "media_key": "3_2100204053297041408",
+              "start": 69,
+              "url": "https://t.co/q0lowKL6tF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100204062537072687",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100204053297041408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 219,
+          "impression_count": 54354,
+          "like_count": 5093,
+          "quote_count": 19,
+          "reply_count": 40,
+          "retweet_count": 1117
+        },
+        "reply_settings": "everyone",
+        "text": "💫💫💫💫💫💫💫💫💫💫💫\n\nWe are スーパースター‼︎\nWe are Liella!  #Liellaの日\n\n💫💫💫💫💫💫💫💫💫💫💫 https://t.co/q0lowKL6tF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100509065826955690",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 434,
+          "like_count": 7229,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2145
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-04-14T13:44:40.000Z",
+        "description": "「ラブライブ！スーパースター‼︎」ウィーン・マルガレーテ役🦋\n舞台『ヘブンバーンズレッド』茅森月歌 役🎸\nドラゴンボール ゼノバース３ ROM 役🫶 \n宇宙に行きたいと願う24歳…🌏🌟 \nアーティストプロジェクト『LustQueen』始動👑\n↓「結那ちゃんねる」始めました。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yuina_channel…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@yuina_channel0927?si=CWeu1eeHo64cK8Vy",
+                "start": 0,
+                "url": "https://t.co/JCrD6YKz1t"
+              }
+            ]
+          }
+        },
+        "id": "1117423428363931649",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100428828846031110",
+        "name": "結那(ゆいな)",
+        "pinned_tweet_id": "2013265209625129161",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1117423428363931649/1704082860",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1552255940619300864/ZpwljaHN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103913,
+          "following_count": 160,
+          "like_count": 21411,
+          "listed_count": 2332,
+          "media_count": 2691,
+          "tweet_count": 8182
+        },
+        "url": "https://t.co/JCrD6YKz1t",
+        "username": "0927_yuina",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

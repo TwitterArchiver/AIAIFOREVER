@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096154296484274177"
+      ],
+      "media_source_tweet_id": [
+        "2096154305057468900"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10041302998",
+          "name": "ラブライブ"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drinks",
+          "id": "834828264786898945",
+          "name": "Drinks"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1395077484278804482",
+          "name": "Latte art"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1235272242193285120",
+          "name": "Coffee"
+        }
+      },
+      {
+        "domain": {
+          "description": "Topics about food, like Donuts or Brunch",
+          "id": "152",
+          "name": "Food"
+        },
+        "entity": {
+          "id": "1395077484278804482",
+          "name": "Latte art"
+        }
+      }
+    ],
+    "conversation_id": "2096220441967030680",
+    "created_at": "2026-09-05T12:54:33.000Z",
+    "display_text_range": [
+      0,
+      137
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-05T13:54:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096220441967030680"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 36,
+          "start": 18,
+          "tag": "Liella_結女体育祭_Day1"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1176845285059747842",
+          "start": 3,
+          "username": "t_chiemi1006"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/u5fbEIWGti",
+          "end": 137,
+          "expanded_url": "https://x.com/t_chiemi1006/status/2096154305057468900/photo/1",
+          "media_key": "3_2096154296484274177",
+          "start": 114,
+          "url": "https://t.co/u5fbEIWGti"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096220441967030680",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2096154296484274177"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 751
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096154305057468900",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @t_chiemi1006: #Liella_結女体育祭_Day1\n昼の部ありがとうございました！！\n夜の部もみなさんと一緒にLiella!!ちゃんを応援します💫\n\n璃奈ちゃんのラテアートを作ってもらいました！かわいい💗 https://t.co/u5fbEIWGti"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2096154296484274177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcJOgxaoAEA5MD.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096154296484274177"
+          ],
+          "media_source_tweet_id": [
+            "2096154305057468900"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          }
+        ],
+        "conversation_id": "2096220441967030680",
+        "created_at": "2026-09-05T12:54:33.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T13:54:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096220441967030680"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 36,
+              "start": 18,
+              "tag": "Liella_結女体育祭_Day1"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1176845285059747842",
+              "start": 3,
+              "username": "t_chiemi1006"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5fbEIWGti",
+              "end": 137,
+              "expanded_url": "https://x.com/t_chiemi1006/status/2096154305057468900/photo/1",
+              "media_key": "3_2096154296484274177",
+              "start": 114,
+              "url": "https://t.co/u5fbEIWGti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096220441967030680",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096154296484274177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 751
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096154305057468900",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @t_chiemi1006: #Liella_結女体育祭_Day1\n昼の部ありがとうございました！！\n夜の部もみなさんと一緒にLiella!!ちゃんを応援します💫\n\n璃奈ちゃんのラテアートを作ってもらいました！かわいい💗 https://t.co/u5fbEIWGti"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096154296484274177"
+          ]
+        },
+        "author_id": "1176845285059747842",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10041302998",
+              "name": "ラブライブ"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1235272242193285120",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395077484278804482",
+              "name": "Latte art"
+            }
+          }
+        ],
+        "conversation_id": "2096154305057468900",
+        "created_at": "2026-09-05T08:31:45.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:31:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096154305057468900"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 18,
+              "start": 0,
+              "tag": "Liella_結女体育祭_Day1"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/u5fbEIWGti",
+              "end": 119,
+              "expanded_url": "https://x.com/t_chiemi1006/status/2096154305057468900/photo/1",
+              "media_key": "3_2096154296484274177",
+              "start": 96,
+              "url": "https://t.co/u5fbEIWGti"
+            },
+            {
+              "display_url": "x.com/liella_plsp/st…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/liella_plsp/status/2096140421059760570",
+              "start": 120,
+              "url": "https://t.co/uAXp3keRls"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096154305057468900",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096154296484274177"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 119,
+          "impression_count": 73154,
+          "like_count": 3232,
+          "quote_count": 17,
+          "reply_count": 34,
+          "retweet_count": 751
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096140421059760570",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "#Liella_結女体育祭_Day1\n昼の部ありがとうございました！！\n夜の部もみなさんと一緒にLiella!!ちゃんを応援します💫\n\n璃奈ちゃんのラテアートを作ってもらいました！かわいい💗 https://t.co/u5fbEIWGti https://t.co/uAXp3keRls"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096220441967030680",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433,
+          "following_count": 440,
+          "like_count": 7225,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2116
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-09-25T13:06:09.000Z",
+        "description": "ステイラック所属田中ちえ美です。 マイペースに呟きます。ブログ→https://t.co/ziEWVaaTqp インスタ→ https://t.co/AbHUAjA6s6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ameblo.jp/tanaka-chiemi0…",
+                "end": 55,
+                "expanded_url": "https://ameblo.jp/tanaka-chiemi06/",
+                "start": 32,
+                "url": "https://t.co/ziEWVaaTqp"
+              },
+              {
+                "display_url": "instagram.com/chiemi._.tanak…",
+                "end": 85,
+                "expanded_url": "https://instagram.com/chiemi._.tanaka?igshid=OGQ5ZDc2ODk2ZA==",
+                "start": 62,
+                "url": "https://t.co/AbHUAjA6s6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "stay-luck.com/talent/tanaka-…",
+                "end": 23,
+                "expanded_url": "https://stay-luck.com/talent/tanaka-chiemi/",
+                "start": 0,
+                "url": "https://t.co/cGw0i56MC3"
+              }
+            ]
+          }
+        },
+        "id": "1176845285059747842",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096220244268429692",
+        "name": "田中ちえ美",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1176845285059747842/1683713698",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054152650539843584/qZI0GXtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143542,
+          "following_count": 402,
+          "like_count": 1489,
+          "listed_count": 4268,
+          "media_count": 1158,
+          "tweet_count": 9562
+        },
+        "url": "https://t.co/cGw0i56MC3",
+        "username": "t_chiemi1006",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101649536448081996",
+    "created_at": "2026-09-20T12:35:02.000Z",
+    "display_text_range": [
+      30,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T13:35:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101651347221414359"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1253494572841201665",
+          "start": 0,
+          "username": "Watase_Yuzuki"
+        },
+        {
+          "end": 29,
+          "id": "2880189872",
+          "start": 15,
+          "username": "okada_mei0519"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101651347221414359",
+    "in_reply_to_user_id": "1253494572841201665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101649536448081996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Watase_Yuzuki @okada_mei0519 超级可爱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2101649531087794177",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqPHQ7asAEs3yj.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2101649531087847424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqPHQ7bgAA8F2W.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101649536448081996",
+        "created_at": "2026-09-20T12:35:02.000Z",
+        "display_text_range": [
+          30,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:35:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101651347221414359"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1253494572841201665",
+              "start": 0,
+              "username": "Watase_Yuzuki"
+            },
+            {
+              "end": 29,
+              "id": "2880189872",
+              "start": 15,
+              "username": "okada_mei0519"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101651347221414359",
+        "in_reply_to_user_id": "1253494572841201665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101649536448081996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Watase_Yuzuki @okada_mei0519 超级可爱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101649531087794177",
+            "3_2101649531087847424"
+          ]
+        },
+        "author_id": "1253494572841201665",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2101649536448081996",
+        "created_at": "2026-09-20T12:27:50.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101649536448081996"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZLmvIICxBU",
+              "end": 174,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/2101649536448081996/photo/1",
+              "media_key": "3_2101649531087794177",
+              "start": 151,
+              "url": "https://t.co/ZLmvIICxBU"
+            },
+            {
+              "display_url": "pic.x.com/ZLmvIICxBU",
+              "end": 174,
+              "expanded_url": "https://x.com/Watase_Yuzuki/status/2101649536448081996/photo/1",
+              "media_key": "3_2101649531087847424",
+              "start": 151,
+              "url": "https://t.co/ZLmvIICxBU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101649536448081996",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101649531087794177"
+          },
+          {
+            "media_key": "3_2101649531087847424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 2835,
+          "like_count": 248,
+          "quote_count": 2,
+          "reply_count": 3,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "〖 MEI Live Tour『MEI.01』大阪公演1部 〗\nありがとうございました~✨️\n\n改めて2人の出会いを振り返ったりめいっこさんの優しさに触れて愛おしくなったりイラスト描いたり......幸溢れまくり空間でした🥹💟\nこのあとのツアーもめいしゃんとめいっこさんが楽しく走りきれますように!! https://t.co/ZLmvIICxBU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101651347221414359",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 457,
+          "following_count": 437,
+          "like_count": 7380,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2192
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-24T01:24:07.000Z",
+        "description": "響の声優、渡瀬結月(わたせゆづき)です🐶#D4DJ 「Lyrical Lily」竹下みいこ┊︎#黒ウィズ 『魔法使いと黒猫のウィズ』 オーリア┊︎ #STARDOM リングアナ🎤┊︎#バンドリ 若葉睦・モーティス",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 52,
+                "start": 47,
+                "tag": "黒ウィズ"
+              },
+              {
+                "end": 82,
+                "start": 74,
+                "tag": "STARDOM"
+              },
+              {
+                "end": 96,
+                "start": 91,
+                "tag": "バンドリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "hibiki-cast.jp/hibiki_f/watas…",
+                "end": 23,
+                "expanded_url": "https://hibiki-cast.jp/hibiki_f/watase_yuzuki/",
+                "start": 0,
+                "url": "https://t.co/KaShLomC2F"
+              }
+            ]
+          }
+        },
+        "id": "1253494572841201665",
+        "is_identity_verified": false,
+        "location": "｢ゆずき｣じゃなくて｢ゆづき｣🌙",
+        "most_recent_tweet_id": "2101649536448081996",
+        "name": "渡瀬 結月",
+        "pinned_tweet_id": "2048361029848207793",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1253494572841201665/1687798763",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915924842475671552/NR21FUt2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123988,
+          "following_count": 706,
+          "like_count": 16741,
+          "listed_count": 1058,
+          "media_count": 1518,
+          "tweet_count": 6924
+        },
+        "url": "https://t.co/KaShLomC2F",
+        "username": "Watase_Yuzuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-10-28T01:41:08.000Z",
+        "description": "AceCrew Entertainment所属 ︴声優 #D4DJ Merm4id 水島茉莉花 ┊ #バンドリ Ave Mujica Ba.🎸Timoris/八幡海鈴 ┊ #らぶフォー 最上羅巫 ┊ etc…┊ #𝐌𝐄𝐈 ┊#めいしゃんねる┊ Fan club ✦ https://t.co/XCUSC0TRUU 👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 33,
+                "start": 28,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 55,
+                "start": 50,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "らぶフォー"
+              },
+              {
+                "end": 110,
+                "start": 106,
+                "tag": "𝐌𝐄𝐈"
+              },
+              {
+                "end": 120,
+                "start": 112,
+                "tag": "めいしゃんねる"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "maysland.jp",
+                "end": 156,
+                "expanded_url": "https://maysland.jp/",
+                "start": 133,
+                "url": "https://t.co/XCUSC0TRUU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/mei_okada0519",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/mei_okada0519",
+                "start": 0,
+                "url": "https://t.co/Zvcgqjwxcz"
+              }
+            ]
+          }
+        },
+        "id": "2880189872",
+        "is_identity_verified": false,
+        "location": "埼玉県 出身🪽⋆✦",
+        "most_recent_tweet_id": "2101495442496426119",
+        "name": "岡田夢以",
+        "pinned_tweet_id": "1988228371151810658",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2880189872/1785008392",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969841732847362048/2nc87moH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155540,
+          "following_count": 434,
+          "like_count": 65400,
+          "listed_count": 1307,
+          "media_count": 4848,
+          "tweet_count": 15421
+        },
+        "url": "https://t.co/Zvcgqjwxcz",
+        "username": "okada_mei0519",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

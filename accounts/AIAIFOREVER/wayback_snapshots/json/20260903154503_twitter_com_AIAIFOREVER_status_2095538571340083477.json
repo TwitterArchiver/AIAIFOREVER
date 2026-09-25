@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095530968182616064"
+      ],
+      "media_source_tweet_id": [
+        "2095531001112113578"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2095538571340083477",
+    "created_at": "2026-09-03T15:45:03.000Z",
+    "display_text_range": [
+      0,
+      120
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T16:45:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095538571340083477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1958410944046088192",
+          "start": 3,
+          "username": "renlei11129985"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/gGv2B9phW7",
+          "end": 120,
+          "expanded_url": "https://x.com/renlei11129985/status/2095531001112113578/photo/1",
+          "media_key": "3_2095530968182616064",
+          "start": 97,
+          "url": "https://t.co/gGv2B9phW7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095538571340083477",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095530968182616064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095531001112113578",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @renlei11129985: 有没有宝宝想过我门槛私信好不好都会回的\n我一发关于门槛的内容就会被f我真的一分钱也没圈到 求善待……\n我还在上学 清水推 没有线下和非绿色抱歉(;_;) https://t.co/gGv2B9phW7"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2095530968182616064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRTSUB5a8AAETLV.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095530968182616064"
+          ],
+          "media_source_tweet_id": [
+            "2095531001112113578"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2095538571340083477",
+        "created_at": "2026-09-03T15:45:03.000Z",
+        "display_text_range": [
+          0,
+          120
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:45:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095538571340083477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1958410944046088192",
+              "start": 3,
+              "username": "renlei11129985"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGv2B9phW7",
+              "end": 120,
+              "expanded_url": "https://x.com/renlei11129985/status/2095531001112113578/photo/1",
+              "media_key": "3_2095530968182616064",
+              "start": 97,
+              "url": "https://t.co/gGv2B9phW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095538571340083477",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095530968182616064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095531001112113578",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @renlei11129985: 有没有宝宝想过我门槛私信好不好都会回的\n我一发关于门槛的内容就会被f我真的一分钱也没圈到 求善待……\n我还在上学 清水推 没有线下和非绿色抱歉(;_;) https://t.co/gGv2B9phW7"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095530968182616064"
+          ]
+        },
+        "author_id": "1958410944046088192",
+        "conversation_id": "2095531001112113578",
+        "created_at": "2026-09-03T15:14:58.000Z",
+        "display_text_range": [
+          0,
+          76
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T16:14:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095531001112113578"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gGv2B9phW7",
+              "end": 100,
+              "expanded_url": "https://x.com/renlei11129985/status/2095531001112113578/photo/1",
+              "media_key": "3_2095530968182616064",
+              "start": 77,
+              "url": "https://t.co/gGv2B9phW7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095531001112113578",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095530968182616064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有宝宝想过我门槛私信好不好都会回的\n我一发关于门槛的内容就会被f我真的一分钱也没圈到 求善待……\n我还在上学 清水推 没有线下和非绿色抱歉(;_;) https://t.co/gGv2B9phW7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095538571340083477",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085351797372370944/TyO61e2n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 427,
+          "following_count": 443,
+          "like_count": 7187,
+          "listed_count": 1,
+          "media_count": 96,
+          "tweet_count": 2099
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-21T06:09:15.000Z",
+        "description": "清水推 我只是一个缺钱的小女孩求怜爱(;_;) 讨厌孤独 希望可以被大家喜欢",
+        "id": "1958410944046088192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095531001112113578",
+        "name": "唯一遗书被猫叼走",
+        "pinned_tweet_id": "2095531001112113578",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1958410944046088192/1755757380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093335042131161088/NMKhS7tU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 417,
+          "following_count": 22,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 24
+        },
+        "url": "",
+        "username": "renlei11129985",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

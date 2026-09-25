@@ -1,0 +1,213 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101691937896153469",
+    "created_at": "2026-09-20T15:16:20.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T16:16:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101691937896153469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2024708440564912131",
+          "start": 3,
+          "username": "xian229224"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101691937896153469",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 47
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101211899774030123",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @xian229224: 我最后悔的事情😩我人生最后悔的事情😫就是上学和孝产品✋ 太痛苦了😭 太痛苦了🤮 我自己大（破音）好人生不过😖 （急喘气）我最（破音）后悔的事情🤧 我人生中最（破音）后悔的事情就是孝产品😢 （喘）太——痛——苦——了——（破音）😭太（破音）——痛苦…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101691937896153469",
+        "created_at": "2026-09-20T15:16:20.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T16:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101691937896153469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2024708440564912131",
+              "start": 3,
+              "username": "xian229224"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101691937896153469",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 47
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101211899774030123",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @xian229224: 我最后悔的事情😩我人生最后悔的事情😫就是上学和孝产品✋ 太痛苦了😭 太痛苦了🤮 我自己大（破音）好人生不过😖 （急喘气）我最（破音）后悔的事情🤧 我人生中最（破音）后悔的事情就是孝产品😢 （喘）太——痛——苦——了——（破音）😭太（破音）——痛苦…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2024708440564912131",
+        "conversation_id": "2101211899774030123",
+        "created_at": "2026-09-19T07:28:50.000Z",
+        "display_text_range": [
+          0,
+          127
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T08:28:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101211899774030123"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101211899774030123",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6710,
+          "like_count": 238,
+          "quote_count": 2,
+          "reply_count": 13,
+          "retweet_count": 47
+        },
+        "reply_settings": "everyone",
+        "text": "我最后悔的事情😩我人生最后悔的事情😫就是上学和孝产品✋ 太痛苦了😭 太痛苦了🤮 我自己大（破音）好人生不过😖 （急喘气）我最（破音）后悔的事情🤧 我人生中最（破音）后悔的事情就是孝产品😢 （喘）太——痛——苦——了——（破音）😭太（破音）——痛苦了——🤧"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101691937896153469",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 459,
+          "following_count": 439,
+          "like_count": 7414,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2206
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-20T04:51:40.000Z",
+        "description": "网蛆而已\n@Chuchu_229",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 5,
+                "username": "Chuchu_229"
+              }
+            ]
+          }
+        },
+        "id": "2024708440564912131",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101630980226265409",
+        "name": "藓",
+        "pinned_tweet_id": "2099546100306960583",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2024708440564912131/1775994100",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090975828813508608/ciN5Oxin_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 757,
+          "following_count": 49,
+          "like_count": 16943,
+          "listed_count": 1,
+          "media_count": 90,
+          "tweet_count": 1602
+        },
+        "url": "",
+        "username": "xian229224",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

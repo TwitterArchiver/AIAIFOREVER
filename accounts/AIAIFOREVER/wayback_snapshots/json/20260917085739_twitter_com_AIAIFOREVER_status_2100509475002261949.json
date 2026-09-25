@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2100509475002261949",
+    "created_at": "2026-09-17T08:57:39.000Z",
+    "display_text_range": [
+      0,
+      8
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-17T09:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2100509475002261949"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wlllyn125/stat…",
+          "end": 32,
+          "expanded_url": "https://twitter.com/wlllyn125/status/2100235364569096699",
+          "start": 9,
+          "url": "https://t.co/aYrlI3jE1S"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100509475002261949",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100235364569096699",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我草我笑的不行了 https://t.co/aYrlI3jE1S"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2100509475002261949",
+        "created_at": "2026-09-17T08:57:39.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100509475002261949"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wlllyn125/stat…",
+              "end": 32,
+              "expanded_url": "https://twitter.com/wlllyn125/status/2100235364569096699",
+              "start": 9,
+              "url": "https://t.co/aYrlI3jE1S"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100509475002261949",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100235364569096699",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我草我笑的不行了 https://t.co/aYrlI3jE1S"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1975395950387732481",
+        "conversation_id": "2100207608485609695",
+        "created_at": "2026-09-16T14:48:26.000Z",
+        "display_text_range": [
+          10,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T15:48:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100235364569096699"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089319216205942784",
+              "start": 0,
+              "username": "Blue68mx"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100235364569096699",
+        "in_reply_to_user_id": "2089319216205942784",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7213,
+          "like_count": 218,
+          "quote_count": 3,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100207608485609695",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Blue68mx 发微博说，当时以为是自己敏感了，看了一天大家的分析，确实是不舒服了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100509475002261949",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 434,
+          "like_count": 7233,
+          "listed_count": 1,
+          "media_count": 100,
+          "tweet_count": 2146
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-07T03:01:20.000Z",
+        "description": "翻墙是为了骂完老的骂小的 骂完男的骂女的\n家产99",
+        "id": "1975395950387732481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100333532526833984",
+        "name": "活着是为了贱到你",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099499135388745728/XYg_2jzr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 123,
+          "like_count": 4904,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 34
+        },
+        "url": "",
+        "username": "wlllyn125",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-17T11:53:34.000Z",
+        "description": "不闲聊 把这里当日记",
+        "id": "2089319216205942784",
+        "is_identity_verified": false,
+        "location": "赫尔辛根.莫斯肯",
+        "most_recent_tweet_id": "2100498278274289935",
+        "name": "Blue",
+        "pinned_tweet_id": "2091150723375562836",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089319216205942784/1788240755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089319897750970369/Me2x88RN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 560,
+          "following_count": 6,
+          "like_count": 3250,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 496
+        },
+        "url": "",
+        "username": "Blue68mx",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

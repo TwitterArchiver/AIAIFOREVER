@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2094709137456472271",
+    "created_at": "2026-09-19T16:58:51.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:58:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101355352185012328"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2062592025623719936",
+          "start": 0,
+          "username": "Mizu0612Saki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101355352185012328",
+    "in_reply_to_user_id": "2062592025623719936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101054720433680814",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Mizu0612Saki 宝贝你好萌"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2094709137456472271",
+        "created_at": "2026-09-19T16:58:51.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:58:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101355352185012328"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2062592025623719936",
+              "start": 0,
+              "username": "Mizu0612Saki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101355352185012328",
+        "in_reply_to_user_id": "2062592025623719936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101054720433680814",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Mizu0612Saki 宝贝你好萌"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2062592025623719936",
+        "conversation_id": "2094709137456472271",
+        "created_at": "2026-09-18T21:04:15.000Z",
+        "display_text_range": [
+          13,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:04:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101054720433680814"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101054720433680814",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094709137456472271",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 我想高攀一下44🫶"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101355352185012328",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 438,
+          "like_count": 7320,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2182
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-04T17:48:10.000Z",
+        "description": "いらっしゃいませ💕\n会互fo 谢谢喜欢\n刻薄逼死无全尸😘\n🚪抹茶拿铁",
+        "id": "2062592025623719936",
+        "is_identity_verified": false,
+        "location": "💕",
+        "most_recent_tweet_id": "2101349267713540119",
+        "name": "みず",
+        "pinned_tweet_id": "2098343231960633677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2062592025623719936/1780596536",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062597435248295936/rVCCiCnu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 79,
+          "like_count": 1016,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "Mizu0612Saki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
