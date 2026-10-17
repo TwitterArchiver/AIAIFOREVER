@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108958306333307039",
+    "created_at": "2026-10-11T08:05:18.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T09:05:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109193612206702929"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1851449112652378112",
+          "start": 0,
+          "username": "yuyuankswl"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109193612206702929",
+    "in_reply_to_user_id": "1851449112652378112",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108958306333307039",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yuyuankswl 笑的我好崩溃"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108958306333307039",
+        "created_at": "2026-10-11T08:05:18.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T09:05:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109193612206702929"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1851449112652378112",
+              "start": 0,
+              "username": "yuyuankswl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109193612206702929",
+        "in_reply_to_user_id": "1851449112652378112",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108958306333307039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yuyuankswl 笑的我好崩溃"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1851449112652378112",
+        "conversation_id": "2108958306333307039",
+        "created_at": "2026-10-10T16:30:17.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108958306333307039"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108958306333307039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 106,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有时看到我推或很会说话的女人就着急，不懂这几个男宝到底什么情况虽然每个都是我招来的但是不是真的有点问题，十八九岁不懂和女人说话是宅男常态吗？如果是音乐剧男应该操逼操得几把都秃噜皮了但这几个有几分姿色的小男孩居然绝大多数声称自己没有谈过恋爱，姿色真不比沪团男dio差多少就是聊天太差了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109193612206702929",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 433,
+          "like_count": 10533,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2474
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-30T02:20:54.000Z",
+        "description": "哈/滚/乒/直/排/鸢，左右不固定❕杂食，随机支持all向/梦女，爱好冷门拉郎修罗场严重虐角色癖，g向大欢迎",
+        "id": "1851449112652378112",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108959858649407545",
+        "name": "随机路过同人女🌈",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1851449112652378112/1789851264",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1851451089629167618/5Im4la3__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 137,
+          "like_count": 1768,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 315
+        },
+        "url": "",
+        "username": "yuyuankswl",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,445 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+          "id": "980815136276430848",
+          "name": "Love Live!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2097192420790464855",
+    "created_at": "2026-09-08T05:16:51.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T06:16:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097192420790464855"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/NozomiSuzuhara…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/NozomiSuzuhara/status/2096803251526189522",
+          "start": 12,
+          "url": "https://t.co/2WAomqNcaf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097192420790464855",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096803251526189522",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "和前辈在一起的小non https://t.co/2WAomqNcaf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2096803245201170432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlXcTIaIAAu4Gb.jpg",
+        "width": 3024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2097192420790464855",
+        "created_at": "2026-09-08T05:16:51.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T06:16:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097192420790464855"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/NozomiSuzuhara…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/NozomiSuzuhara/status/2096803251526189522",
+              "start": 12,
+              "url": "https://t.co/2WAomqNcaf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097192420790464855",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096803251526189522",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和前辈在一起的小non https://t.co/2WAomqNcaf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096803245201170432"
+          ]
+        },
+        "author_id": "1524521415017639937",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "980815136276430848",
+              "name": "Love Live!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2096803251526189522",
+        "created_at": "2026-09-07T03:30:26.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T04:30:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096803251526189522"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 54,
+              "start": 45,
+              "tag": "lovelive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/YHkWKm85O8",
+              "end": 78,
+              "expanded_url": "https://x.com/NozomiSuzuhara/status/2096803251526189522/photo/1",
+              "media_key": "3_2096803245201170432",
+              "start": 55,
+              "url": "https://t.co/YHkWKm85O8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096803251526189522",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096803245201170432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 333,
+          "impression_count": 83012,
+          "like_count": 7134,
+          "quote_count": 51,
+          "reply_count": 152,
+          "retweet_count": 1477
+        },
+        "reply_settings": "everyone",
+        "text": "わたくし、ただのオタク。\n\n(おふたりとも本当にありがとうございました🙏🙏🙏🙏🙏🙏🙏)\n #lovelive https://t.co/YHkWKm85O8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097192420790464855",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096512269006118912/X5IBS3ta_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 445,
+          "following_count": 434,
+          "like_count": 7283,
+          "listed_count": 1,
+          "media_count": 98,
+          "tweet_count": 2135
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-11T22:46:52.000Z",
+        "description": "Apollo Bay所属 ラブライブ！スーパースター!!桜小路きな子役 宮崎県出身☀️／TikTok→ https://t.co/VMIRIcIeSm",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@suzuharanozom…",
+                "end": 75,
+                "expanded_url": "https://www.tiktok.com/@suzuharanozomi_official/",
+                "start": 52,
+                "url": "https://t.co/VMIRIcIeSm"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/suzuharanozomi…",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/suzuharanozomi_official/",
+                "start": 0,
+                "url": "https://t.co/txVFAAek3a"
+              }
+            ]
+          }
+        },
+        "id": "1524521415017639937",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096954944544968889",
+        "name": "鈴原希実",
+        "pinned_tweet_id": "2094354880098095188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1524521415017639937/1658230483",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027987216690253824/Vgz5QknN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127380,
+          "following_count": 127,
+          "like_count": 3332,
+          "listed_count": 2848,
+          "media_count": 1356,
+          "tweet_count": 6013
+        },
+        "url": "https://t.co/txVFAAek3a",
+        "username": "NozomiSuzuhara",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

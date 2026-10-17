@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103703959009685761",
+    "created_at": "2026-09-27T11:58:09.000Z",
+    "display_text_range": [
+      13,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T12:58:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104178779518304755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2103140368913235968",
+          "start": 0,
+          "username": "zzpds114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104178779518304755",
+    "in_reply_to_user_id": "2103140368913235968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104051692174221796",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zzpds114514 不借饭卡谢谢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103703959009685761",
+        "created_at": "2026-09-27T11:58:09.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T12:58:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104178779518304755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2103140368913235968",
+              "start": 0,
+              "username": "zzpds114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104178779518304755",
+        "in_reply_to_user_id": "2103140368913235968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104051692174221796",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zzpds114514 不借饭卡谢谢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2103140368913235968",
+        "conversation_id": "2103703959009685761",
+        "created_at": "2026-09-27T03:33:09.000Z",
+        "display_text_range": [
+          13,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T04:33:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104051692174221796"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104051692174221796",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103703959009685761",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 能让小栗帽挂玉藻的名字吃饭吗？谢谢"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104178779518304755",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 423,
+          "like_count": 8876,
+          "listed_count": 1,
+          "media_count": 110,
+          "tweet_count": 2321
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-24T15:14:15.000Z",
+        "description": "好兄弟@sama48325261",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "sama48325261"
+              }
+            ]
+          }
+        },
+        "id": "2103140368913235968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104178073918898490",
+        "name": "炸猪排领域大神",
+        "pinned_tweet_id": "2103142170257703138",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2103140368913235968/1790263055",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103141161561186304/yNfZhBEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 33,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 45,
+          "tweet_count": 139
+        },
+        "url": "",
+        "username": "zzpds114514",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

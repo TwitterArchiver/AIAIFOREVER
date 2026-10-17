@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2105477655315488839",
+    "created_at": "2026-10-01T01:59:25.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T02:59:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105477655315488839"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "2090687697010696192",
+          "start": 3,
+          "username": "meijianxuearr"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105477655315488839",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 16
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105267200504516825",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @meijianxuearr: 有很多人和我做过约定，约定以后要和我一起上哪一所高中、大学，要和我在同一个城市，要和我早起看日出，晚上看日落，要和我去吃好多好多美食，要和我去看海，去看烟花，去很多很多地方。但我并没有看到以上一件事完成，好像大家的承诺都是在那个场景下的随口…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2105477655315488839",
+        "created_at": "2026-10-01T01:59:25.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:59:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105477655315488839"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "2090687697010696192",
+              "start": 3,
+              "username": "meijianxuearr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105477655315488839",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 16
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105267200504516825",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @meijianxuearr: 有很多人和我做过约定，约定以后要和我一起上哪一所高中、大学，要和我在同一个城市，要和我早起看日出，晚上看日落，要和我去吃好多好多美食，要和我去看海，去看烟花，去很多很多地方。但我并没有看到以上一件事完成，好像大家的承诺都是在那个场景下的随口…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090687697010696192",
+        "conversation_id": "2105267200504516825",
+        "created_at": "2026-09-30T12:03:09.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105267200504516825"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105267200504516825",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "有很多人和我做过约定，约定以后要和我一起上哪一所高中、大学，要和我在同一个城市，要和我早起看日出，晚上看日落，要和我去吃好多好多美食，要和我去看海，去看烟花，去很多很多地方。但我并没有看到以上一件事完成，好像大家的承诺都是在那个场景下的随口一说，并没有想过以后要完成。承诺过的话，好像只有听的人记得。所以每当有人和我承诺时，我都会笑着应他，但我心里明白，大概率不会再有那一天出现了，但我还是笑着的，因为人和人有过美好的那一刻，那个瞬间就足够了。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2618,
+          "like_count": 89,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "有很多人和我做过约定，约定以后要和我一起上哪一所高中、大学，要和我在同一个城市，要和我早起看日出，晚上看日落，要和我去吃好多好多美食，要和我去看海，去看烟花，去很多很多地方。但我并没有看到以上一件事完成，好像大家的承诺都是在那个场景下的随口一说，并没有想过以后要完成。承诺过的话，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105477655315488839",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 423,
+          "like_count": 9522,
+          "listed_count": 1,
+          "media_count": 116,
+          "tweet_count": 2384
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-21T06:30:34.000Z",
+        "description": "",
+        "id": "2090687697010696192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105318019836821851",
+        "name": "雨怯怯",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090687697010696192/1787316644",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103803933345173504/5yC8ISl6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 184,
+          "following_count": 37,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 124
+        },
+        "url": "",
+        "username": "meijianxuearr",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

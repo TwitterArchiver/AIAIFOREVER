@@ -1,0 +1,260 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2106592417822744834",
+    "created_at": "2026-10-04T03:49:05.000Z",
+    "display_text_range": [
+      0,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T04:49:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2106592417822744834"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/civilization98…",
+          "end": 37,
+          "expanded_url": "https://twitter.com/civilization987/status/2106319132333584638",
+          "start": 14,
+          "url": "https://t.co/5WuPnj5WdN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106592417822744834",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106319132333584638",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "如何得罪所有人belike https://t.co/5WuPnj5WdN"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1211,
+        "media_key": "3_2106319114323230720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsmEyDaAAAn9Er.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2106592417822744834",
+        "created_at": "2026-10-04T03:49:05.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T04:49:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106592417822744834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/civilization98…",
+              "end": 37,
+              "expanded_url": "https://twitter.com/civilization987/status/2106319132333584638",
+              "start": 14,
+              "url": "https://t.co/5WuPnj5WdN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106592417822744834",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106319132333584638",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "如何得罪所有人belike https://t.co/5WuPnj5WdN"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106319114323230720"
+          ]
+        },
+        "author_id": "1542442761299050496",
+        "conversation_id": "2106319132333584638",
+        "created_at": "2026-10-03T09:43:09.000Z",
+        "display_text_range": [
+          0,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:43:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106319132333584638"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s4ByvtMskd",
+              "end": 37,
+              "expanded_url": "https://x.com/civilization987/status/2106319132333584638/photo/1",
+              "media_key": "3_2106319114323230720",
+              "start": 14,
+              "url": "https://t.co/s4ByvtMskd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106319132333584638",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106319114323230720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 35,
+          "impression_count": 54911,
+          "like_count": 712,
+          "quote_count": 11,
+          "reply_count": 120,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "两小时把两边一起得罪完了🤣 https://t.co/s4ByvtMskd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106592417822744834",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 426,
+          "like_count": 10081,
+          "listed_count": 0,
+          "media_count": 120,
+          "tweet_count": 2413
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-30T09:39:54.000Z",
+        "description": "03 switch 提问箱https://t.co/Psf6FCx6qb 微信只加互关 我真是直男 大号@civilization789 小号@wayne200310（防炸）",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 52,
+                "username": "civilization789"
+              },
+              {
+                "end": 83,
+                "start": 71,
+                "username": "wayne200310"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/civilization_x…",
+                "end": 36,
+                "expanded_url": "https://ngl.link/civilization_xx1",
+                "start": 13,
+                "url": "https://t.co/Psf6FCx6qb"
+              }
+            ]
+          }
+        },
+        "id": "1542442761299050496",
+        "is_identity_verified": false,
+        "location": "年上御姐怀里",
+        "most_recent_tweet_id": "2106592202285887779",
+        "name": "早卸假装厨男",
+        "pinned_tweet_id": "2062076205596369063",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062074521201602560/7Si0dtY8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 701,
+          "following_count": 100,
+          "like_count": 1025,
+          "listed_count": 1,
+          "media_count": 85,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "civilization987",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

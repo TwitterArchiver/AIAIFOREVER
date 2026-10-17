@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2107893899029299606",
+    "created_at": "2026-10-07T18:00:42.000Z",
+    "display_text_range": [
+      0,
+      119
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T19:00:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107893899029299606"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2068707824717516800",
+          "start": 3,
+          "username": "linytotemo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107893899029299606",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 21
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107712484975280445",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linytotemo: 我好羡慕你们这些不别扭，不拧巴的人。。有想要的东西，都会下意识觉得“真的行吗？”“真的好吗？”明明什么都没开始，然后考虑各种后果…我已经分不清这到底是理性成熟会保护自己，还是懦弱胆怯永远无法接近自己想要的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2107893899029299606",
+        "created_at": "2026-10-07T18:00:42.000Z",
+        "display_text_range": [
+          0,
+          119
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T19:00:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107893899029299606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2068707824717516800",
+              "start": 3,
+              "username": "linytotemo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107893899029299606",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 21
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107712484975280445",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linytotemo: 我好羡慕你们这些不别扭，不拧巴的人。。有想要的东西，都会下意识觉得“真的行吗？”“真的好吗？”明明什么都没开始，然后考虑各种后果…我已经分不清这到底是理性成熟会保护自己，还是懦弱胆怯永远无法接近自己想要的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2068707824717516800",
+        "conversation_id": "2107712484975280445",
+        "created_at": "2026-10-07T05:59:50.000Z",
+        "display_text_range": [
+          0,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:59:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107712484975280445"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107712484975280445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 5269,
+          "like_count": 164,
+          "quote_count": 3,
+          "reply_count": 7,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "我好羡慕你们这些不别扭，不拧巴的人。。有想要的东西，都会下意识觉得“真的行吗？”“真的好吗？”明明什么都没开始，然后考虑各种后果…我已经分不清这到底是理性成熟会保护自己，还是懦弱胆怯永远无法接近自己想要的…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107893899029299606",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 429,
+          "like_count": 10212,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2439
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-21T14:51:18.000Z",
+        "description": "一个淡人，一个无关紧要的人，一个啥都想说的人。想对我说https://t.co/nHso3l0CLZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/linyi81043",
+                "end": 50,
+                "expanded_url": "https://ngl.link/linyi81043",
+                "start": 27,
+                "url": "https://t.co/nHso3l0CLZ"
+              }
+            ]
+          }
+        },
+        "id": "2068707824717516800",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107816388375249000",
+        "name": "Linyi",
+        "pinned_tweet_id": "2105349886053093825",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2068707824717516800/1790567532",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083930763351973889/nIdkVtMA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 974,
+          "following_count": 229,
+          "like_count": 8361,
+          "listed_count": 1,
+          "media_count": 86,
+          "tweet_count": 1426
+        },
+        "url": "",
+        "username": "linytotemo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

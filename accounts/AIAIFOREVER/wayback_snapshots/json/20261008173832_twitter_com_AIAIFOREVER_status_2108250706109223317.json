@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108250706109223317",
+    "created_at": "2026-10-08T17:38:32.000Z",
+    "display_text_range": [
+      0,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T18:38:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108250706109223317"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2096565748466696192",
+          "start": 3,
+          "username": "linyiiif00o"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108250706109223317",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108227085407842447",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @linyiiif00o: 我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108250706109223317",
+        "created_at": "2026-10-08T17:38:32.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:38:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108250706109223317"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2096565748466696192",
+              "start": 3,
+              "username": "linyiiif00o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108250706109223317",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108227085407842447",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @linyiiif00o: 我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2096565748466696192",
+        "conversation_id": "2108227085407842447",
+        "created_at": "2026-10-08T16:04:40.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:04:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108227085407842447"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108227085407842447",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 4171,
+          "like_count": 171,
+          "quote_count": 6,
+          "reply_count": 25,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我的自我认同感是非常低的，朋友夸我漂亮我觉得是因为我们是朋友，男的夸我漂亮是因为他们想睡我。总得来讲就是所有人夸我的话我全都不信，但是如果别人要是讲我的不好，我却总是一字一句都记得清晰异常"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108250706109223317",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 465,
+          "following_count": 432,
+          "like_count": 10316,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2450
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-06T11:48:04.000Z",
+        "description": "我是个神人 别管我 我爱发啥发啥\n看顺眼的我会互fo",
+        "id": "2096565748466696192",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108227085407842447",
+        "name": "秋季ovo",
+        "pinned_tweet_id": "2098040552587763763",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2096565748466696192/1789055618",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2098077444192587776/yK9UUTZD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 115,
+          "like_count": 5101,
+          "listed_count": 1,
+          "media_count": 131,
+          "tweet_count": 1592
+        },
+        "url": "",
+        "username": "linyiiif00o",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

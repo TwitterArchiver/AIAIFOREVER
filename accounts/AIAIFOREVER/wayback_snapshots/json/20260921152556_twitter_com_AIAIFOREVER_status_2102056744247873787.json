@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102043482026373372",
+    "created_at": "2026-09-21T15:25:56.000Z",
+    "display_text_range": [
+      11,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:25:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102056744247873787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1523231262068064256",
+          "start": 0,
+          "username": "Aguri8620"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102056744247873787",
+    "in_reply_to_user_id": "1523231262068064256",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102043482026373372",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Aguri8620 Ayumu，，"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2102043424971264000",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSv1W5_bkAAKCq5.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102043482026373372",
+        "created_at": "2026-09-21T15:25:56.000Z",
+        "display_text_range": [
+          11,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:25:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102056744247873787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1523231262068064256",
+              "start": 0,
+              "username": "Aguri8620"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102056744247873787",
+        "in_reply_to_user_id": "1523231262068064256",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102043482026373372",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aguri8620 Ayumu，，"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102043424971264000"
+          ]
+        },
+        "author_id": "1523231262068064256",
+        "conversation_id": "2102043482026373372",
+        "created_at": "2026-09-21T14:33:14.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102043482026373372"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/sV5D6dWtcF",
+              "end": 34,
+              "expanded_url": "https://x.com/Aguri8620/status/2102043482026373372/photo/1",
+              "media_key": "3_2102043424971264000",
+              "start": 11,
+              "url": "https://t.co/sV5D6dWtcF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102043482026373372",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102043424971264000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 276,
+          "like_count": 20,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所有人播放夢への一歩 https://t.co/sV5D6dWtcF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102056744247873787",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 445,
+          "like_count": 7540,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2239
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-08T09:20:12.000Z",
+        "description": "こん虹ヶ咲！🌈・日本語ミスあり・ぬいハチ２８６６９「かもめ」・🇹🇼🇯🇵🇺🇸OK・裏アカ@_nijisaku_・🚪68",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 43,
+                "username": "_nijisaku_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jetphotos.com/photographer/2…",
+                "end": 23,
+                "expanded_url": "https://www.jetphotos.com/photographer/266147",
+                "start": 0,
+                "url": "https://t.co/06Lyg7a5AM"
+              }
+            ]
+          }
+        },
+        "id": "1523231262068064256",
+        "is_identity_verified": false,
+        "location": "お台場",
+        "most_recent_tweet_id": "2102056063503946148",
+        "name": "Superあぐり",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1523231262068064256/1765008755",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101354540109111296/44pE36tY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 693,
+          "following_count": 653,
+          "like_count": 17602,
+          "listed_count": 3,
+          "media_count": 1094,
+          "tweet_count": 4535
+        },
+        "url": "https://t.co/06Lyg7a5AM",
+        "username": "Aguri8620",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107693368713367552"
+      ],
+      "media_source_tweet_id": [
+        "2107693374858043706"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108055054095954337",
+    "created_at": "2026-10-08T04:41:05.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T05:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108055054095954337"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1942213637902348289",
+          "start": 3,
+          "username": "orewahara"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/TMw85ol0a3",
+          "end": 38,
+          "expanded_url": "https://x.com/orewahara/status/2107693374858043706/photo/1",
+          "media_key": "3_2107693368713367552",
+          "start": 15,
+          "url": "https://t.co/TMw85ol0a3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108055054095954337",
+    "lang": "zxx",
+    "media_metadata": [
+      {
+        "media_key": "3_2107693368713367552"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107693374858043706",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @orewahara: https://t.co/TMw85ol0a3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 238,
+        "media_key": "3_2107693368713367552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAH86mbUAApXTQ.jpg",
+        "width": 910
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107693368713367552"
+          ],
+          "media_source_tweet_id": [
+            "2107693374858043706"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108055054095954337",
+        "created_at": "2026-10-08T04:41:05.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T05:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108055054095954337"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1942213637902348289",
+              "start": 3,
+              "username": "orewahara"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMw85ol0a3",
+              "end": 38,
+              "expanded_url": "https://x.com/orewahara/status/2107693374858043706/photo/1",
+              "media_key": "3_2107693368713367552",
+              "start": 15,
+              "url": "https://t.co/TMw85ol0a3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108055054095954337",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107693368713367552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107693374858043706",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @orewahara: https://t.co/TMw85ol0a3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107693368713367552"
+          ]
+        },
+        "author_id": "1942213637902348289",
+        "conversation_id": "2107693374858043706",
+        "created_at": "2026-10-07T04:43:54.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T05:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107693374858043706"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TMw85ol0a3",
+              "end": 23,
+              "expanded_url": "https://x.com/orewahara/status/2107693374858043706/photo/1",
+              "media_key": "3_2107693368713367552",
+              "start": 0,
+              "url": "https://t.co/TMw85ol0a3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107693374858043706",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107693368713367552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2654,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TMw85ol0a3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108055054095954337",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 432,
+          "like_count": 10263,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2447
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-07T13:26:36.000Z",
+        "description": "一个神秘的人｜誰も知らない私\n现实生活重启中\n负能@Harasaki0｜社交无能者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 35,
+                "start": 25,
+                "username": "Harasaki0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tiktok.com/@harasakisuki?…",
+                "end": 23,
+                "expanded_url": "https://www.tiktok.com/@harasakisuki?_r=1&_t=ZS-9AJrZLGuh2C",
+                "start": 0,
+                "url": "https://t.co/MVekFbnUuB"
+              }
+            ]
+          }
+        },
+        "id": "1942213637902348289",
+        "is_identity_verified": false,
+        "location": "原咲です",
+        "most_recent_tweet_id": "2108042275200917807",
+        "name": "harasaki",
+        "pinned_tweet_id": "2078405824754721276",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942213637902348289/1782089166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104515811968946176/8TADRjzV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1271,
+          "following_count": 149,
+          "like_count": 1088,
+          "listed_count": 0,
+          "media_count": 158,
+          "tweet_count": 712
+        },
+        "url": "https://t.co/MVekFbnUuB",
+        "username": "orewahara",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102674890528796948",
+    "created_at": "2026-09-23T16:47:11.000Z",
+    "display_text_range": [
+      11,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T17:47:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102801965042565149"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1772653166850662400",
+          "start": 0,
+          "username": "ame_lwwen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102801965042565149",
+    "in_reply_to_user_id": "1772653166850662400",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102674890528796948",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ame_lwwen 说上海是目前最有可能的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102674890528796948",
+        "created_at": "2026-09-23T16:47:11.000Z",
+        "display_text_range": [
+          11,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:47:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102801965042565149"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1772653166850662400",
+              "start": 0,
+              "username": "ame_lwwen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102801965042565149",
+        "in_reply_to_user_id": "1772653166850662400",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102674890528796948",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ame_lwwen 说上海是目前最有可能的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1772653166850662400",
+        "conversation_id": "2102674890528796948",
+        "created_at": "2026-09-23T08:22:14.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T09:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102674890528796948"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102674890528796948",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2530,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看到有个特别搞笑的评论说如果汉密尔顿来上海巡演，看完都想换国籍了还上上海，啊啊啊啊啊……不要啊，至少一个港澳场可以吗😭😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102801965042565149",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 450,
+          "like_count": 8025,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-26T15:53:55.000Z",
+        "description": "喜欢草坪、阳光，阅读和睡眠。 https://t.co/lsVmfne3gq",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/88sensei",
+                "end": 38,
+                "expanded_url": "https://ngl.link/88sensei",
+                "start": 15,
+                "url": "https://t.co/lsVmfne3gq"
+              }
+            ]
+          }
+        },
+        "id": "1772653166850662400",
+        "is_identity_verified": false,
+        "location": "Somewhere we could stay",
+        "most_recent_tweet_id": "2102674890528796948",
+        "name": "荔文",
+        "pinned_tweet_id": "1818197670655099164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772653166850662400/1733399103",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1772658895015784448/tkQ9SLa4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1533,
+          "following_count": 200,
+          "like_count": 17466,
+          "listed_count": 8,
+          "media_count": 649,
+          "tweet_count": 5218
+        },
+        "url": "",
+        "username": "ame_lwwen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

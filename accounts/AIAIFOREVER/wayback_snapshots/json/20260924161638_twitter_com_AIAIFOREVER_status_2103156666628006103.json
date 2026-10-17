@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102716444299689984"
+      ],
+      "media_source_tweet_id": [
+        "2102716449316078009"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103156666628006103",
+    "created_at": "2026-09-24T16:16:38.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T17:16:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103156666628006103"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 101,
+          "start": 94,
+          "tag": "イキヅライブ"
+        },
+        {
+          "end": 109,
+          "start": 102,
+          "tag": "いきづらい部"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1772525668087283713",
+          "start": 3,
+          "username": "amasawa__akane"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/dA2FQiO6ZW",
+          "end": 133,
+          "expanded_url": "https://x.com/amasawa__akane/status/2102716449316078009/photo/1",
+          "media_key": "3_2102716444299689984",
+          "start": 110,
+          "url": "https://t.co/dA2FQiO6ZW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103156666628006103",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102716444299689984"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 997
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102716449316078009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @amasawa__akane: きどらば大好き🩷💙🤍\n二人とも大好き◝(⑅•ᴗ•⑅)◜..°♡\n歌詞もセリフも声もあまあますぎて耳中が常に幸せでした。\nリリックビデオ沢山観てねっ\n#イキヅライブ #いきづらい部 https://t.co/dA2FQiO6ZW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1082,
+        "media_key": "3_2102716444299689984",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS5ZdyXbAAAS_fp.jpg",
+        "width": 1441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102716444299689984"
+          ],
+          "media_source_tweet_id": [
+            "2102716449316078009"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103156666628006103",
+        "created_at": "2026-09-24T16:16:38.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T17:16:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103156666628006103"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 101,
+              "start": 94,
+              "tag": "イキヅライブ"
+            },
+            {
+              "end": 109,
+              "start": 102,
+              "tag": "いきづらい部"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1772525668087283713",
+              "start": 3,
+              "username": "amasawa__akane"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dA2FQiO6ZW",
+              "end": 133,
+              "expanded_url": "https://x.com/amasawa__akane/status/2102716449316078009/photo/1",
+              "media_key": "3_2102716444299689984",
+              "start": 110,
+              "url": "https://t.co/dA2FQiO6ZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103156666628006103",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102716444299689984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 997
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102716449316078009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @amasawa__akane: きどらば大好き🩷💙🤍\n二人とも大好き◝(⑅•ᴗ•⑅)◜..°♡\n歌詞もセリフも声もあまあますぎて耳中が常に幸せでした。\nリリックビデオ沢山観てねっ\n#イキヅライブ #いきづらい部 https://t.co/dA2FQiO6ZW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102716444299689984"
+          ]
+        },
+        "author_id": "1772525668087283713",
+        "conversation_id": "2102716449316078009",
+        "created_at": "2026-09-23T11:07:22.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T12:07:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102716449316078009"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 81,
+              "start": 74,
+              "tag": "イキヅライブ"
+            },
+            {
+              "end": 89,
+              "start": 82,
+              "tag": "いきづらい部"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dA2FQiO6ZW",
+              "end": 113,
+              "expanded_url": "https://x.com/amasawa__akane/status/2102716449316078009/photo/1",
+              "media_key": "3_2102716444299689984",
+              "start": 90,
+              "url": "https://t.co/dA2FQiO6ZW"
+            },
+            {
+              "display_url": "x.com/ikizulive_staf…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/ikizulive_staff/status/2102714680250888591",
+              "start": 114,
+              "url": "https://t.co/S83jZb1qUV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102716449316078009",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102716444299689984"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 186,
+          "impression_count": 77892,
+          "like_count": 3822,
+          "quote_count": 48,
+          "reply_count": 52,
+          "retweet_count": 997
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102714680250888591",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "きどらば大好き🩷💙🤍\n二人とも大好き◝(⑅•ᴗ•⑅)◜..°♡\n歌詞もセリフも声もあまあますぎて耳中が常に幸せでした。\nリリックビデオ沢山観てねっ\n#イキヅライブ #いきづらい部 https://t.co/dA2FQiO6ZW https://t.co/S83jZb1qUV"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103156666628006103",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 434,
+          "like_count": 8482,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2296
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-26T07:27:34.000Z",
+        "description": "81プロデュース所属声優🪽/\n#イキヅライブ！LOVELIVE! BLUEBIRD 此花輝夜役 /\n\n事務所HP⇩",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 22,
+                "start": 15,
+                "tag": "イキヅライブ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.gd/KznVa",
+                "end": 23,
+                "expanded_url": "https://x.gd/KznVa",
+                "start": 0,
+                "url": "https://t.co/eluwYDGvmy"
+              }
+            ]
+          }
+        },
+        "id": "1772525668087283713",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103125657547141412",
+        "name": "天沢 朱音",
+        "pinned_tweet_id": "2101650662199312650",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1772525668087283713/1711946457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1921924215063875584/Na1M2EBJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17588,
+          "following_count": 239,
+          "like_count": 2609,
+          "listed_count": 837,
+          "media_count": 101,
+          "tweet_count": 981
+        },
+        "url": "https://t.co/eluwYDGvmy",
+        "username": "amasawa__akane",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

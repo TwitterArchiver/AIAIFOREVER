@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101643117514641408"
+      ],
+      "media_source_tweet_id": [
+        "2101643123638308935"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102060131613868058",
+    "created_at": "2026-09-21T15:39:24.000Z",
+    "display_text_range": [
+      0,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T16:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102060131613868058"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869619448749178880",
+          "start": 3,
+          "username": "Sa_3987"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/mwzabo3Zkn",
+          "end": 42,
+          "expanded_url": "https://x.com/Sa_3987/status/2101643123638308935/photo/1",
+          "media_key": "3_2101643117514641408",
+          "start": 19,
+          "url": "https://t.co/mwzabo3Zkn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102060131613868058",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2101643117514641408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1013
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101643123638308935",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Sa_3987: つめつめ♡ https://t.co/mwzabo3Zkn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1059,
+        "media_key": "3_2101643117514641408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqJR8ga0AAropl.jpg",
+        "width": 1481
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101643117514641408"
+          ],
+          "media_source_tweet_id": [
+            "2101643123638308935"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102060131613868058",
+        "created_at": "2026-09-21T15:39:24.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T16:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102060131613868058"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869619448749178880",
+              "start": 3,
+              "username": "Sa_3987"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwzabo3Zkn",
+              "end": 42,
+              "expanded_url": "https://x.com/Sa_3987/status/2101643123638308935/photo/1",
+              "media_key": "3_2101643117514641408",
+              "start": 19,
+              "url": "https://t.co/mwzabo3Zkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102060131613868058",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101643117514641408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1013
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101643123638308935",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Sa_3987: つめつめ♡ https://t.co/mwzabo3Zkn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101643117514641408"
+          ]
+        },
+        "author_id": "1869619448749178880",
+        "conversation_id": "2101643123638308935",
+        "created_at": "2026-09-20T12:02:21.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:02:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101643123638308935"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/mwzabo3Zkn",
+              "end": 29,
+              "expanded_url": "https://x.com/Sa_3987/status/2101643123638308935/photo/1",
+              "media_key": "3_2101643117514641408",
+              "start": 6,
+              "url": "https://t.co/mwzabo3Zkn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101643123638308935",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101643117514641408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1198,
+          "impression_count": 107653,
+          "like_count": 15159,
+          "quote_count": 8,
+          "reply_count": 3,
+          "retweet_count": 1013
+        },
+        "reply_settings": "everyone",
+        "text": "つめつめ♡ https://t.co/mwzabo3Zkn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102060131613868058",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 445,
+          "like_count": 7541,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2240
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-19T05:43:22.000Z",
+        "description": "🐟サブ【@uo_3987】 ヘッダー【@iragashi_m_m】ちゃん Commission・skeb依頼こちらから▷▶︎【https://t.co/kJHbzZGGQm】🐟AI学習・無断転載・使用❌\n《※Unauthorized reproduction prohibited❌※》",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 4,
+                "username": "uo_3987"
+              },
+              {
+                "end": 32,
+                "start": 19,
+                "username": "iragashi_m_m"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "skeb.jp/@Sa_3987",
+                "end": 86,
+                "expanded_url": "https://skeb.jp/@Sa_3987",
+                "start": 63,
+                "url": "https://t.co/kJHbzZGGQm"
+              }
+            ]
+          }
+        },
+        "id": "1869619448749178880",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102059855922212982",
+        "name": "うお",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869619448749178880/1780470752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942606068586016768/XsMws069_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52678,
+          "following_count": 216,
+          "like_count": 10476,
+          "listed_count": 202,
+          "media_count": 277,
+          "tweet_count": 3077
+        },
+        "url": "",
+        "username": "Sa_3987",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

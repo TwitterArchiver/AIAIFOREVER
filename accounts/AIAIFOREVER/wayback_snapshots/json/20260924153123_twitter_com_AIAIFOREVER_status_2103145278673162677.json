@@ -1,0 +1,436 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103145278673162677",
+    "created_at": "2026-09-24T15:31:23.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T16:31:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103145278673162677"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/iRis_k_miyu/st…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/iRis_k_miyu/status/2103134856779817371",
+          "start": 6,
+          "url": "https://t.co/b6haQccmA9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103145278673162677",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103134856779817371",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我未梦妈妈 https://t.co/b6haQccmA9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2103134840841449472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_V_q8aMAAfRJd.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2103134840791195648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_V_qwbYAAoA1d.jpg",
+        "width": 1108
+      },
+      {
+        "height": 1477,
+        "media_key": "3_2103134840984059904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_V_reaQAAJHpk.jpg",
+        "width": 1108
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2103134840782770176",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS_V_qua0AA9MUM.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103145278673162677",
+        "created_at": "2026-09-24T15:31:23.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T16:31:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103145278673162677"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/iRis_k_miyu/st…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/iRis_k_miyu/status/2103134856779817371",
+              "start": 6,
+              "url": "https://t.co/b6haQccmA9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103145278673162677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103134856779817371",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我未梦妈妈 https://t.co/b6haQccmA9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103134840841449472",
+            "3_2103134840791195648",
+            "3_2103134840984059904",
+            "3_2103134840782770176"
+          ]
+        },
+        "author_id": "2384783184",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1267525149835718656",
+              "name": "Miyu Kubota"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "i☆Ris",
+              "id": "1517599389593702401",
+              "name": "Iris"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "description": "i☆Ris",
+              "id": "1517599389593702401",
+              "name": "Iris"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "id": "1267525149835718656",
+              "name": "Miyu Kubota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1191379707473715201",
+              "name": "Voice actors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1267525149835718656",
+              "name": "Miyu Kubota"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "i☆Ris",
+              "id": "1517599389593702401",
+              "name": "Iris"
+            }
+          }
+        ],
+        "conversation_id": "2103134856779817371",
+        "created_at": "2026-09-24T14:49:58.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:49:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103134856779817371"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YaUQovjEkT",
+              "end": 23,
+              "expanded_url": "https://x.com/iRis_k_miyu/status/2103134856779817371/photo/1",
+              "media_key": "3_2103134840841449472",
+              "start": 0,
+              "url": "https://t.co/YaUQovjEkT"
+            },
+            {
+              "display_url": "pic.x.com/YaUQovjEkT",
+              "end": 23,
+              "expanded_url": "https://x.com/iRis_k_miyu/status/2103134856779817371/photo/1",
+              "media_key": "3_2103134840791195648",
+              "start": 0,
+              "url": "https://t.co/YaUQovjEkT"
+            },
+            {
+              "display_url": "pic.x.com/YaUQovjEkT",
+              "end": 23,
+              "expanded_url": "https://x.com/iRis_k_miyu/status/2103134856779817371/photo/1",
+              "media_key": "3_2103134840984059904",
+              "start": 0,
+              "url": "https://t.co/YaUQovjEkT"
+            },
+            {
+              "display_url": "pic.x.com/YaUQovjEkT",
+              "end": 23,
+              "expanded_url": "https://x.com/iRis_k_miyu/status/2103134856779817371/photo/1",
+              "media_key": "3_2103134840782770176",
+              "start": 0,
+              "url": "https://t.co/YaUQovjEkT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103134856779817371",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2103134840841449472"
+          },
+          {
+            "media_key": "3_2103134840791195648"
+          },
+          {
+            "media_key": "3_2103134840984059904"
+          },
+          {
+            "media_key": "3_2103134840782770176"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 132,
+          "impression_count": 23523,
+          "like_count": 2155,
+          "quote_count": 23,
+          "reply_count": 60,
+          "retweet_count": 326
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/YaUQovjEkT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103145278673162677",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 434,
+          "like_count": 8414,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-03-12T06:26:18.000Z",
+        "description": "声優／アイドル／ 配信用YouTube https://t.co/2vvJmXetP2 (#ぼたちゅーぶ)／公式LINE https://t.co/okjMrMCUZ2 ／お肉とヨーグルトが好きです #こんにくぼた #クボタヨーグルト／お仕事の事や好きなものの事、色々つぶやきます！🐶👑",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 52,
+                "start": 45,
+                "tag": "ぼたちゅーぶ"
+              },
+              {
+                "end": 107,
+                "start": 100,
+                "tag": "こんにくぼた"
+              },
+              {
+                "end": 117,
+                "start": 108,
+                "tag": "クボタヨーグルト"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@kubota_miyu/",
+                "end": 43,
+                "expanded_url": "https://www.youtube.com/@kubota_miyu/",
+                "start": 20,
+                "url": "https://t.co/2vvJmXetP2"
+              },
+              {
+                "display_url": "lin.ee/2WlF90o",
+                "end": 84,
+                "expanded_url": "http://lin.ee/2WlF90o",
+                "start": 61,
+                "url": "https://t.co/okjMrMCUZ2"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "iris.dive2ent.com/profile/member…",
+                "end": 23,
+                "expanded_url": "https://iris.dive2ent.com/profile/member.php?id=1000223",
+                "start": 0,
+                "url": "https://t.co/8Vs3ScadlZ"
+              }
+            ]
+          }
+        },
+        "id": "2384783184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103134912585081003",
+        "name": "久保田未夢(i☆Ris)",
+        "pinned_tweet_id": "2060889782465749492",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050532614445137920/DOPm8neN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 246276,
+          "following_count": 887,
+          "like_count": 3756,
+          "listed_count": 6930,
+          "media_count": 7765,
+          "tweet_count": 35794
+        },
+        "url": "https://t.co/8Vs3ScadlZ",
+        "username": "iRis_k_miyu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

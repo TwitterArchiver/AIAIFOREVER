@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102436173788704768"
+      ],
+      "media_source_tweet_id": [
+        "2102571903273578608"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102658265066918251",
+    "created_at": "2026-09-23T07:16:10.000Z",
+    "display_text_range": [
+      0,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:16:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102658265066918251"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1557846379736666113",
+          "start": 3,
+          "username": "Meguminsama2009"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/cKTR8fJAIH",
+          "end": 57,
+          "expanded_url": "https://x.com/Meguminsama2009/status/2102571903273578608/photo/1",
+          "media_key": "3_2102436173788704768",
+          "start": 34,
+          "url": "https://t.co/cKTR8fJAIH"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102658265066918251",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102436173788704768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 45
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102571903273578608",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Meguminsama2009: 我的基因继承belike https://t.co/cKTR8fJAIH"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1354,
+        "media_key": "3_2102436173788704768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS1aj5WbcAAEako.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102436173788704768"
+          ],
+          "media_source_tweet_id": [
+            "2102571903273578608"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102658265066918251",
+        "created_at": "2026-09-23T07:16:10.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:16:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102658265066918251"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1557846379736666113",
+              "start": 3,
+              "username": "Meguminsama2009"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKTR8fJAIH",
+              "end": 57,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2102571903273578608/photo/1",
+              "media_key": "3_2102436173788704768",
+              "start": 34,
+              "url": "https://t.co/cKTR8fJAIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102658265066918251",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102436173788704768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 45
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102571903273578608",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Meguminsama2009: 我的基因继承belike https://t.co/cKTR8fJAIH"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102436173788704768"
+          ]
+        },
+        "author_id": "1557846379736666113",
+        "conversation_id": "2102571903273578608",
+        "created_at": "2026-09-23T01:33:00.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T02:33:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102571903273578608"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/cKTR8fJAIH",
+              "end": 36,
+              "expanded_url": "https://x.com/Meguminsama2009/status/2102571903273578608/photo/1",
+              "media_key": "3_2102436173788704768",
+              "start": 13,
+              "url": "https://t.co/cKTR8fJAIH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102571903273578608",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102436173788704768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 19308,
+          "like_count": 916,
+          "quote_count": 6,
+          "reply_count": 2,
+          "retweet_count": 45
+        },
+        "reply_settings": "everyone",
+        "text": "我的基因继承belike https://t.co/cKTR8fJAIH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102658265066918251",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 447,
+          "like_count": 7840,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2276
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "🟨⬜🟪⬛",
+        "id": "1557846379736666113",
+        "is_identity_verified": false,
+        "location": "永雏塔菲",
+        "most_recent_tweet_id": "2102632552582525037",
+        "name": "Megumin_SAMA",
+        "pinned_tweet_id": "2090133381858422966",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1557846379736666113/1774507754",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052330873241194496/M9AbHVhu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2884,
+          "following_count": 1905,
+          "like_count": 3421,
+          "listed_count": 2,
+          "media_count": 1703,
+          "tweet_count": 9282
+        },
+        "url": "",
+        "username": "Meguminsama2009",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103045999023493231",
+    "created_at": "2026-09-24T08:56:53.000Z",
+    "display_text_range": [
+      0,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T09:56:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103045999023493231"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/zoffy2025/stat…",
+          "end": 48,
+          "expanded_url": "https://twitter.com/zoffy2025/status/2102788827983347920",
+          "start": 25,
+          "url": "https://t.co/ASOtZn1XV9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103045999023493231",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102788827983347920",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "虹咲是对的猫猫是对的bombbombbee是对的 https://t.co/ASOtZn1XV9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11800,
+        "height": 720,
+        "media_key": "13_2102788797885005824",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102788797885005824/img/5EUbCAyLHnbRaiAy.jpg",
+        "public_metrics": {
+          "view_count": 11294
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102788797885005824/vid/avc1/478x270/adA_Evrrfm_x4xLo.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102788797885005824/vid/avc1/638x360/ooEr5LsIysNxc26w.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102788797885005824/vid/avc1/1276x720/CuE70Ht809GGwGGl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102788797885005824/pl/tAD3gh6eBXDCkQxQ.m3u8?v=cfc"
+          }
+        ],
+        "width": 1276
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103045999023493231",
+        "created_at": "2026-09-24T08:56:53.000Z",
+        "display_text_range": [
+          0,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T09:56:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103045999023493231"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/zoffy2025/stat…",
+              "end": 48,
+              "expanded_url": "https://twitter.com/zoffy2025/status/2102788827983347920",
+              "start": 25,
+              "url": "https://t.co/ASOtZn1XV9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103045999023493231",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102788827983347920",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "虹咲是对的猫猫是对的bombbombbee是对的 https://t.co/ASOtZn1XV9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102788797885005824"
+          ]
+        },
+        "author_id": "902581654341820416",
+        "conversation_id": "2102788827983347920",
+        "created_at": "2026-09-23T15:54:59.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T16:54:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102788827983347920"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VcAfm4cXtX",
+              "end": 39,
+              "expanded_url": "https://x.com/zoffy2025/status/2102788827983347920/video/1",
+              "media_key": "13_2102788797885005824",
+              "start": 16,
+              "url": "https://t.co/VcAfm4cXtX"
+            },
+            {
+              "display_url": "x.com/tttoyab/status…",
+              "end": 63,
+              "expanded_url": "https://twitter.com/tttoyab/status/2101892721212608668",
+              "start": 40,
+              "url": "https://t.co/UfZ7wBHzLC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102788827983347920",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2102788797885005824"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 159,
+          "impression_count": 46170,
+          "like_count": 626,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 102
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101892721212608668",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "これ作って思わず笑っちゃったw https://t.co/VcAfm4cXtX https://t.co/UfZ7wBHzLC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103045999023493231",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 433,
+          "like_count": 8299,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2294
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-29T17:20:10.000Z",
+        "description": "ラブライブとバンドリ(マイムジ)が好きです！",
+        "id": "902581654341820416",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103040170790727902",
+        "name": "ゾフィー",
+        "pinned_tweet_id": "2087751331759214604",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902581654341820416/1781402522",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094426408093384704/5MFOOJYE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 906,
+          "following_count": 1813,
+          "like_count": 176281,
+          "listed_count": 3,
+          "media_count": 1417,
+          "tweet_count": 29284
+        },
+        "url": "",
+        "username": "zoffy2025",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

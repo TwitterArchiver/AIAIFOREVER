@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2106075559130476590",
+    "created_at": "2026-10-02T17:35:16.000Z",
+    "display_text_range": [
+      0,
+      108
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T18:35:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106075559130476590"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1598173429923987457",
+          "start": 3,
+          "username": "llu_juL"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106075559130476590",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 92
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105876335075996009",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @llu_juL: 我喜欢柔软的人，我讨厌有人大声吼我凶我，我讨厌甚至厌恶吵架，我害怕跟别人起争执，因为我根本没办法认真去沟通，只要情绪激动，眼泪比说的话先出来，我喜欢平平淡淡的交流，我的心想要落在柔软的人手上"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2106075559130476590",
+        "created_at": "2026-10-02T17:35:16.000Z",
+        "display_text_range": [
+          0,
+          108
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T18:35:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106075559130476590"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1598173429923987457",
+              "start": 3,
+              "username": "llu_juL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106075559130476590",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 92
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105876335075996009",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @llu_juL: 我喜欢柔软的人，我讨厌有人大声吼我凶我，我讨厌甚至厌恶吵架，我害怕跟别人起争执，因为我根本没办法认真去沟通，只要情绪激动，眼泪比说的话先出来，我喜欢平平淡淡的交流，我的心想要落在柔软的人手上"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1598173429923987457",
+        "conversation_id": "2105876335075996009",
+        "created_at": "2026-10-02T04:23:38.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T05:23:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105876335075996009"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105876335075996009",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 10600,
+          "like_count": 590,
+          "quote_count": 8,
+          "reply_count": 27,
+          "retweet_count": 92
+        },
+        "reply_settings": "everyone",
+        "text": "我喜欢柔软的人，我讨厌有人大声吼我凶我，我讨厌甚至厌恶吵架，我害怕跟别人起争执，因为我根本没办法认真去沟通，只要情绪激动，眼泪比说的话先出来，我喜欢平平淡淡的交流，我的心想要落在柔软的人手上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2106075559130476590",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 420,
+          "like_count": 9991,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2407
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-01T04:33:47.000Z",
+        "description": "清水推",
+        "id": "1598173429923987457",
+        "is_identity_verified": false,
+        "location": "来财",
+        "most_recent_tweet_id": "2106056388091003260",
+        "name": "Llu_JuL",
+        "pinned_tweet_id": "1721186302853300401",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1598173429923987457/1767754482",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077826910567165952/xD0qe7Lj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3032,
+          "following_count": 282,
+          "like_count": 6999,
+          "listed_count": 12,
+          "media_count": 657,
+          "tweet_count": 3271
+        },
+        "url": "",
+        "username": "llu_juL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

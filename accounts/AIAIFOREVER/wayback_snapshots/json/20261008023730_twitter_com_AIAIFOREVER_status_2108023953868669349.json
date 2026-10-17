@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108023953868669349",
+    "created_at": "2026-10-08T02:37:30.000Z",
+    "display_text_range": [
+      0,
+      3
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:37:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108023953868669349"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/rui37406/statu…",
+          "end": 27,
+          "expanded_url": "https://twitter.com/rui37406/status/2107766847516869007",
+          "start": 4,
+          "url": "https://t.co/M42Rqb8RxJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108023953868669349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107766847516869007",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好恶心 https://t.co/M42Rqb8RxJ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108023953868669349",
+        "created_at": "2026-10-08T02:37:30.000Z",
+        "display_text_range": [
+          0,
+          3
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:37:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108023953868669349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/rui37406/statu…",
+              "end": 27,
+              "expanded_url": "https://twitter.com/rui37406/status/2107766847516869007",
+              "start": 4,
+              "url": "https://t.co/M42Rqb8RxJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108023953868669349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107766847516869007",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好恶心 https://t.co/M42Rqb8RxJ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1700690984219357184",
+        "conversation_id": "2107766847516869007",
+        "created_at": "2026-10-07T09:35:51.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:35:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107766847516869007"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107766847516869007",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1497,
+          "like_count": 23,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "很多人意识不到自己是ghosting，现在还玩梗说是跑路型人格，三观歪成啥了还好意思说"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108023953868669349",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 431,
+          "like_count": 10223,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2442
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-10T02:01:52.000Z",
+        "description": "不聊骚",
+        "id": "1700690984219357184",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107868400748048538",
+        "name": "laaan",
+        "pinned_tweet_id": "1931159592022470775",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1700690984219357184/1761903446",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106355179570241536/s6KX9Jao_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5707,
+          "following_count": 685,
+          "like_count": 13073,
+          "listed_count": 12,
+          "media_count": 25,
+          "tweet_count": 4481
+        },
+        "url": "",
+        "username": "rui37406",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

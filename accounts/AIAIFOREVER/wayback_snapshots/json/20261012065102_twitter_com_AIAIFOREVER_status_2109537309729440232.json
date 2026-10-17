@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2109537309729440232",
+    "created_at": "2026-10-12T06:51:02.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T07:51:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109537309729440232"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1896206372049719296",
+          "start": 3,
+          "username": "i_sland69"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109537309729440232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 51
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109315105280376963",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @i_sland69: 你们不觉得恐怖吗 现在的恋爱观变成了 \n接触一个人就开始觉得他又能陪自己多久呢\n所有人都开始保护自己不受伤害\n然后所有人都不敢付出真心\n一旦付出就被标榜恋爱脑\n好像付出变成了一件极其奢侈的事\n然后每个人都疯狂卷自己 \n让自己看起来极其不需要 一个人…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2109537309729440232",
+        "created_at": "2026-10-12T06:51:02.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T07:51:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109537309729440232"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896206372049719296",
+              "start": 3,
+              "username": "i_sland69"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109537309729440232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 51
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109315105280376963",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @i_sland69: 你们不觉得恐怖吗 现在的恋爱观变成了 \n接触一个人就开始觉得他又能陪自己多久呢\n所有人都开始保护自己不受伤害\n然后所有人都不敢付出真心\n一旦付出就被标榜恋爱脑\n好像付出变成了一件极其奢侈的事\n然后每个人都疯狂卷自己 \n让自己看起来极其不需要 一个人…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1896206372049719296",
+        "conversation_id": "2109315105280376963",
+        "created_at": "2026-10-11T16:08:04.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T17:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109315105280376963"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2109315105280376963",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 40,
+          "impression_count": 11100,
+          "like_count": 442,
+          "quote_count": 7,
+          "reply_count": 14,
+          "retweet_count": 51
+        },
+        "reply_settings": "everyone",
+        "text": "你们不觉得恐怖吗 现在的恋爱观变成了 \n接触一个人就开始觉得他又能陪自己多久呢\n所有人都开始保护自己不受伤害\n然后所有人都不敢付出真心\n一旦付出就被标榜恋爱脑\n好像付出变成了一件极其奢侈的事\n然后每个人都疯狂卷自己 \n让自己看起来极其不需要 一个人也能过很好\n可是总有一块空空的地方"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109537309729440232",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 434,
+          "like_count": 10609,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2485
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-02T14:30:13.000Z",
+        "description": "别管她的胡言乱语了",
+        "id": "1896206372049719296",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109537244038181321",
+        "name": "Neeko",
+        "pinned_tweet_id": "1999426841594200467",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1896206372049719296/1744212246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954578317430153216/QhW0bYqc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 123,
+          "following_count": 65,
+          "like_count": 1523,
+          "listed_count": 1,
+          "media_count": 97,
+          "tweet_count": 2678
+        },
+        "url": "",
+        "username": "i_sland69",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

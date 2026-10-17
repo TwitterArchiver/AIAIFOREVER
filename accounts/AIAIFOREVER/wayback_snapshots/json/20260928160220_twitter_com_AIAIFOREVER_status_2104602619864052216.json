@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2104602619864052216",
+    "created_at": "2026-09-28T16:02:20.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:02:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104602619864052216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1507396901594820608",
+          "start": 3,
+          "username": "hgds0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104602619864052216",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 218
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104440049035289081",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @hgds0: 焦虑 我他妈忍你很久了 干啥都焦虑 睡觉也焦虑 身材也焦虑 见面也焦虑 被误解也焦虑 人际关系也焦虑 学业也焦虑 工作也焦虑 什么都焦虑 你他妈到底想活出怎样焦虑的人生。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2104602619864052216",
+        "created_at": "2026-09-28T16:02:20.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:02:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104602619864052216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1507396901594820608",
+              "start": 3,
+              "username": "hgds0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104602619864052216",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 218
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104440049035289081",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @hgds0: 焦虑 我他妈忍你很久了 干啥都焦虑 睡觉也焦虑 身材也焦虑 见面也焦虑 被误解也焦虑 人际关系也焦虑 学业也焦虑 工作也焦虑 什么都焦虑 你他妈到底想活出怎样焦虑的人生。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1507396901594820608",
+        "conversation_id": "2104440049035289081",
+        "created_at": "2026-09-28T05:16:20.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T06:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104440049035289081"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104440049035289081",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 40061,
+          "like_count": 1395,
+          "quote_count": 8,
+          "reply_count": 161,
+          "retweet_count": 218
+        },
+        "reply_settings": "everyone",
+        "text": "焦虑 我他妈忍你很久了 干啥都焦虑 睡觉也焦虑 身材也焦虑 见面也焦虑 被误解也焦虑 人际关系也焦虑 学业也焦虑 工作也焦虑 什么都焦虑 你他妈到底想活出怎样焦虑的人生。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104602619864052216",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 424,
+          "like_count": 8975,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2336
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-25T16:40:26.000Z",
+        "description": "接受投稿 过稿即回复 /部分作品搬运 侵删",
+        "id": "1507396901594820608",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104592420558246045",
+        "name": "恋",
+        "pinned_tweet_id": "2102245361826017494",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1507396901594820608/1730777810",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1853640703144046592/OC2mQ87G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96822,
+          "following_count": 2312,
+          "like_count": 45580,
+          "listed_count": 145,
+          "media_count": 4709,
+          "tweet_count": 9194
+        },
+        "url": "",
+        "username": "hgds0",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

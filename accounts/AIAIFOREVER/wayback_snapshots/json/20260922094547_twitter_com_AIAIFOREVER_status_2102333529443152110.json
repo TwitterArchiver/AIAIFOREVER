@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102232089903222942",
+    "created_at": "2026-09-22T09:45:47.000Z",
+    "display_text_range": [
+      12,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T10:45:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102333529443152110"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1470288473014030339",
+          "start": 0,
+          "username": "WA78914290"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102333529443152110",
+    "in_reply_to_user_id": "1470288473014030339",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102232089903222942",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WA78914290 肯定不是啊。这可是摩天轮时代"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102232089903222942",
+        "created_at": "2026-09-22T09:45:47.000Z",
+        "display_text_range": [
+          12,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T10:45:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102333529443152110"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1470288473014030339",
+              "start": 0,
+              "username": "WA78914290"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102333529443152110",
+        "in_reply_to_user_id": "1470288473014030339",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102232089903222942",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WA78914290 肯定不是啊。这可是摩天轮时代"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1470288473014030339",
+        "conversation_id": "2102232089903222942",
+        "created_at": "2026-09-22T03:02:42.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:02:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102232089903222942"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/bocchi1chan/st…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/2101998498099159263",
+              "start": 7,
+              "url": "https://t.co/VQOGsxMjV8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102232089903222942",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1440,
+          "like_count": 14,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101998498099159263",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这时候还是吗 https://t.co/VQOGsxMjV8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102333529443152110",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 460,
+          "following_count": 443,
+          "like_count": 7667,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2247
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-12-13T07:04:47.000Z",
+        "description": "关注个人成长\n关心个人自由以及集体和政府行为的边界。",
+        "id": "1470288473014030339",
+        "is_identity_verified": false,
+        "location": "秦野市",
+        "most_recent_tweet_id": "2102297870443659350",
+        "name": "芝麻虾",
+        "pinned_tweet_id": "2102253054661968275",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1470288473014030339/1789407195",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099555120992456704/qP2cmnS3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 768,
+          "following_count": 1286,
+          "like_count": 5248,
+          "listed_count": 11,
+          "media_count": 279,
+          "tweet_count": 13300
+        },
+        "url": "",
+        "username": "WA78914290",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101928246157967581",
+    "created_at": "2026-09-23T07:23:28.000Z",
+    "display_text_range": [
+      15,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T08:23:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102660101341602119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2013264447880785920",
+          "start": 0,
+          "username": "nineseven0113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102660101341602119",
+    "in_reply_to_user_id": "2013264447880785920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102480388748951688",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nineseven0113 我去是97老师，我有你列表wwww没想到能墙外找到你号"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101928246157967581",
+        "created_at": "2026-09-23T07:23:28.000Z",
+        "display_text_range": [
+          15,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T08:23:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102660101341602119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2013264447880785920",
+              "start": 0,
+              "username": "nineseven0113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102660101341602119",
+        "in_reply_to_user_id": "2013264447880785920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102480388748951688",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nineseven0113 我去是97老师，我有你列表wwww没想到能墙外找到你号"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2013264447880785920",
+        "conversation_id": "2101928246157967581",
+        "created_at": "2026-09-22T19:29:21.000Z",
+        "display_text_range": [
+          13,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T20:29:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102480388748951688"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102480388748951688",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 30,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101928246157967581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 学会了教我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102660101341602119",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 448,
+          "like_count": 7843,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2278
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-19T14:57:13.000Z",
+        "description": "cn：97｜17さい｜170cm｜enfp\nヲタ芸初心\n97永远幸福💞全平台同名\n感谢你的关注呀💓我会很开心",
+        "id": "2013264447880785920",
+        "is_identity_verified": false,
+        "location": "Minoo-shi, Osaka",
+        "most_recent_tweet_id": "2102500794276929647",
+        "name": "nine seven_97",
+        "pinned_tweet_id": "2080310218676896053",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2013264447880785920/1770279437",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036415115965374465/XsXqYpvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3022,
+          "following_count": 124,
+          "like_count": 2289,
+          "listed_count": 4,
+          "media_count": 57,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "nineseven0113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

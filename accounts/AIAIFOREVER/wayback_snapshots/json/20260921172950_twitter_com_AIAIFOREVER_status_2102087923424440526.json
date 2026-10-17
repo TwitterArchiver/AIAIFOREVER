@@ -1,0 +1,292 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102086157710536831",
+    "created_at": "2026-09-21T17:29:50.000Z",
+    "display_text_range": [
+      13,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T18:29:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102087923424440526"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102087923424440526",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102086157710536831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan 嘉嘉孝子"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 23978,
+        "height": 1280,
+        "media_key": "13_2102085495870439424",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2102085495870439424/img/7opN1PKVvrm_nt5V.jpg",
+        "public_metrics": {
+          "view_count": 8
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102085495870439424/vid/avc1/320x568/shWThc3stZ44ovPr.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102085495870439424/vid/avc1/480x852/CHZZVKPMlS2ZridX.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2102085495870439424/vid/avc1/720x1280/h9Jw15opfS2DlnxK.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2102085495870439424/pl/8gKFChYFPDxZqMul.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102086157710536831",
+        "created_at": "2026-09-21T17:29:50.000Z",
+        "display_text_range": [
+          13,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:29:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102087923424440526"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102087923424440526",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102086157710536831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan 嘉嘉孝子"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2102085495870439424"
+          ]
+        },
+        "author_id": "1522976249173450759",
+        "conversation_id": "2102086157710536831",
+        "created_at": "2026-09-21T17:22:49.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T18:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102086157710536831"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "嘉学"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cRmXaB5rPB",
+              "end": 61,
+              "expanded_url": "https://x.com/bocchi1chan/status/2102086157710536831/video/1",
+              "media_key": "13_2102085495870439424",
+              "start": 38,
+              "url": "https://t.co/cRmXaB5rPB"
+            },
+            {
+              "display_url": "x.com/bocchi1chan/st…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/bocchi1chan/status/2102056430799102144",
+              "start": 62,
+              "url": "https://t.co/zWRv4qbNnT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102086157710536831",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2102085495870439424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 73,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102056430799102144",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我见到李嘉的时候就这样，这也是ller从十几年前源远流长的优良传统 #嘉学 https://t.co/cRmXaB5rPB https://t.co/zWRv4qbNnT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102087923424440526",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 445,
+          "like_count": 7632,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2241
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "otaku，music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/zSozYuFN2j"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "is_identity_verified": false,
+        "location": "369m",
+        "most_recent_tweet_id": "2102086157710536831",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522976249173450759/1680337880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13683,
+          "following_count": 3256,
+          "like_count": 40989,
+          "listed_count": 19,
+          "media_count": 2435,
+          "tweet_count": 4946
+        },
+        "url": "https://t.co/zSozYuFN2j",
+        "username": "bocchi1chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

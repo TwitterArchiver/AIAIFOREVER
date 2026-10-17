@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101870033295257653",
+    "created_at": "2026-09-22T13:03:52.000Z",
+    "display_text_range": [
+      9,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T14:03:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102383376892358673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1858461565219229696",
+          "start": 0,
+          "username": "KDI1931"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102383376892358673",
+    "in_reply_to_user_id": "1858461565219229696",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101870033295257653",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KDI1931 指天指地✌🏻🐯"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4000,
+        "media_key": "3_2101870017440866304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HStXpQmbYAAZ58H.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101870033295257653",
+        "created_at": "2026-09-22T13:03:52.000Z",
+        "display_text_range": [
+          9,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T14:03:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102383376892358673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1858461565219229696",
+              "start": 0,
+              "username": "KDI1931"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102383376892358673",
+        "in_reply_to_user_id": "1858461565219229696",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101870033295257653",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KDI1931 指天指地✌🏻🐯"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101870017440866304"
+          ]
+        },
+        "author_id": "1858461565219229696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2101870033295257653",
+        "created_at": "2026-09-21T03:04:01.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T04:04:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101870033295257653"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 8,
+              "tag": "あにおんグレード"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/mNEZfMMAAP",
+              "end": 41,
+              "expanded_url": "https://x.com/KDI1931/status/2101870033295257653/photo/1",
+              "media_key": "3_2101870017440866304",
+              "start": 18,
+              "url": "https://t.co/mNEZfMMAAP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101870033295257653",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101870017440866304"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1175,
+          "like_count": 57,
+          "quote_count": 0,
+          "reply_count": 11,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "氷紅茶マンです\n#あにおんグレード https://t.co/mNEZfMMAAP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102383376892358673",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 445,
+          "like_count": 7692,
+          "listed_count": 1,
+          "media_count": 105,
+          "tweet_count": 2256
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-18T10:45:51.000Z",
+        "description": "無言フォロー失礼します。我是日本人。軍装初心者🔰 \n中国軍/南越解放戦線/ワ州連合軍/日本陸軍/テューバ吹いてます/吹奏楽/オタ芸練習中/学习中文🇨🇳",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xhslink.com/m/9OPrSAJllMN",
+                "end": 23,
+                "expanded_url": "https://xhslink.com/m/9OPrSAJllMN",
+                "start": 0,
+                "url": "https://t.co/pcBTI0WQ3R"
+              }
+            ]
+          }
+        },
+        "id": "1858461565219229696",
+        "is_identity_verified": false,
+        "location": "东京",
+        "most_recent_tweet_id": "2102375848217333861",
+        "name": "KDI",
+        "pinned_tweet_id": "2039035789204685042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1858461565219229696/1773743000",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1964323330947006464/9Dl5Hvef_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 740,
+          "following_count": 1106,
+          "like_count": 19863,
+          "listed_count": 5,
+          "media_count": 822,
+          "tweet_count": 5244
+        },
+        "url": "https://t.co/pcBTI0WQ3R",
+        "username": "KDI1931",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

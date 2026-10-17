@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103005487277256876",
+    "created_at": "2026-09-24T06:15:54.000Z",
+    "display_text_range": [
+      0,
+      67
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:15:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103005487277256876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2058094415504351232",
+          "start": 3,
+          "username": "Xxxxxxnans"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103005487277256876",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 43
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102804677863862697",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xxxxxxnans: 内心已经吃醋到要死了恨不得把对方像条狗一样拴在身边表面上依旧笑嘻嘻说没事你去和他们玩吧我一点也不介意。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103005487277256876",
+        "created_at": "2026-09-24T06:15:54.000Z",
+        "display_text_range": [
+          0,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:15:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103005487277256876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2058094415504351232",
+              "start": 3,
+              "username": "Xxxxxxnans"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103005487277256876",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 43
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102804677863862697",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xxxxxxnans: 内心已经吃醋到要死了恨不得把对方像条狗一样拴在身边表面上依旧笑嘻嘻说没事你去和他们玩吧我一点也不介意。"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058094415504351232",
+        "conversation_id": "2102804677863862697",
+        "created_at": "2026-09-23T16:57:58.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T17:57:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102804677863862697"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102804677863862697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 6121,
+          "like_count": 240,
+          "quote_count": 8,
+          "reply_count": 30,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "内心已经吃醋到要死了恨不得把对方像条狗一样拴在身边表面上依旧笑嘻嘻说没事你去和他们玩吧我一点也不介意。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103005487277256876",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 453,
+          "following_count": 429,
+          "like_count": 8256,
+          "listed_count": 1,
+          "media_count": 107,
+          "tweet_count": 2292
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-23T07:56:24.000Z",
+        "description": "iiii\n我们只是网友你看不惯我把你那个手机往地上一扔我就死了你知道吧\n互关可以加这个呀@xxoonan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 44,
+                "username": "xxoonan"
+              }
+            ]
+          }
+        },
+        "id": "2058094415504351232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102998177192534052",
+        "name": "Xxxx",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2058094415504351232/1789757179",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101019959296176128/06IYbNAB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 378,
+          "like_count": 5694,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1884
+        },
+        "url": "",
+        "username": "Xxxxxxnans",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

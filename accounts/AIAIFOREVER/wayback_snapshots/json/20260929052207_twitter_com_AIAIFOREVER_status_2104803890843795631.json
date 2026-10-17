@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Lieutenant Benson and her NYPD squad fight for justice in cases ripped straight from the headlines.\n",
+          "id": "10000621685",
+          "name": "Law & Order: Special Victims Unit"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "The detectives that are part of the NYPD's Special Victims Unit investigate crimes of sexual nature. While the focus of the other shows in the `Law & Order' franchise largely deal with murder cases, the SVU detectives frequently deal with crimes, such as rapes, in which the victim survives and assists authorities in the investigation. The series features a cast of veteran actors, including Mariska Hargitay, Richard Belzer, Dann Florek and, after the first season, rapper Ice-T. Occasional crossover episodes feature detectives from other series in the `Law & Order' franchise.",
+          "id": "10027539598",
+          "name": "Law & Order: Special Victims Unit"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1223188345737494528",
+          "name": "Law & Order: Special Victims Unit"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1276514328007467008",
+          "name": "Movies & TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281303057045676032",
+          "name": "Crime drama"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281304160487370752",
+          "name": "Drama TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1223188345737494528",
+          "name": "Law & Order: Special Victims Unit"
+        }
+      }
+    ],
+    "conversation_id": "2104803890843795631",
+    "created_at": "2026-09-29T05:22:07.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T06:22:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104803890843795631"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2104803890843795631",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "看完了可爱的骨头，还行吧但是不合我胃口，结局很憋屈，中间剧情也不喜欢，对一家人的刻画我觉得很扁平，被连环杀人犯谋杀后的夙愿居然是亲自己初恋而不是再见一面家人吗，我无法理解，，而且可能是我cpd和lao svu之类的看多了，我觉得这种杀人犯不被绳之以法我就浑身不舒服，自己摔死的好憋屈，，，"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Lieutenant Benson and her NYPD squad fight for justice in cases ripped straight from the headlines.\n",
+              "id": "10000621685",
+              "name": "Law & Order: Special Victims Unit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "The detectives that are part of the NYPD's Special Victims Unit investigate crimes of sexual nature. While the focus of the other shows in the `Law & Order' franchise largely deal with murder cases, the SVU detectives frequently deal with crimes, such as rapes, in which the victim survives and assists authorities in the investigation. The series features a cast of veteran actors, including Mariska Hargitay, Richard Belzer, Dann Florek and, after the first season, rapper Ice-T. Occasional crossover episodes feature detectives from other series in the `Law & Order' franchise.",
+              "id": "10027539598",
+              "name": "Law & Order: Special Victims Unit"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1223188345737494528",
+              "name": "Law & Order: Special Victims Unit"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1276514328007467008",
+              "name": "Movies & TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281303057045676032",
+              "name": "Crime drama"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281304160487370752",
+              "name": "Drama TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1223188345737494528",
+              "name": "Law & Order: Special Victims Unit"
+            }
+          }
+        ],
+        "conversation_id": "2104803890843795631",
+        "created_at": "2026-09-29T05:22:07.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T06:22:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104803890843795631"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104803890843795631",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "看完了可爱的骨头，还行吧但是不合我胃口，结局很憋屈，中间剧情也不喜欢，对一家人的刻画我觉得很扁平，被连环杀人犯谋杀后的夙愿居然是亲自己初恋而不是再见一面家人吗，我无法理解，，而且可能是我cpd和lao svu之类的看多了，我觉得这种杀人犯不被绳之以法我就浑身不舒服，自己摔死的好憋屈，，，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104803890843795631",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 425,
+          "like_count": 8999,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2350
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

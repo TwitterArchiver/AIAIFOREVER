@@ -1,0 +1,551 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105202419315679232"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10000280169",
+          "name": "How I Met Your Mother"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "A diverse clan bridges cultural and generational gaps.\n\nPhoto via @ModernFam",
+          "id": "10000607681",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Ted has fallen in love. It all started when his best friend, Marshall, drops the bombshell that he plans to propose to longtime girlfriend Lily, a kindergarten teacher. Suddenly, Ted realises that he had better get a move on if he hopes to find true love. Helping him in the quest is Barney, a friend with endless - often outrageous - opinions, a penchant for suits and a foolproof way to meet women. When Ted meets Robin, he is sure it's love at first sight, but the affair fizzles into friendship. Voice-over by Bob Saget (`Full House') tells the story through flashbacks.",
+          "id": "10027336259",
+          "name": "How I Met Your Mother"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Companies rely on their IT departments to keep things running, and Reynholm Industries is no different. Relegated to the basement of its shining London office tower, the IT group, technicians Moss and Roy and department head Jen, does its best to keep things running with a minimum of effort and social contact. Work is a special challenge for Jen, for although her CV indicated a great deal of familiarity with computers, in reality, she doesn't have a clue.",
+          "id": "10027336445",
+          "name": "The IT Crowd"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "Told from the perspective of an unseen documentary filmmaker, the series offers an honest and often hilarious perspective of family life. Parents Phil and Claire yearn for an honest, open relationship with their three kids. But a teen who is trying to grow up too fast, another who is too smart for her own good, and a rambunctious young son make it challenging. Jay and his much-younger wife are raising her son together, but people sometimes mistake Jay for his wife's father. Meanwhile, partners Mitchell and Cameron have just adopted a child from Vietnam, which poses a different set of challenges.",
+          "id": "10027336806",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10028286388",
+          "name": "Cómo Conocí a Vuestra Madre"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10028298440",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10029055806",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Television",
+          "id": "1072937043393560576",
+          "name": "Television"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272661112517885953",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1280878352954318854",
+          "name": "How I Met Your Mother"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311445355905024",
+          "name": "Comedy TV"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1281311675845447680",
+          "name": "Sitcoms"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1272661112517885953",
+          "name": "Modern Family"
+        }
+      },
+      {
+        "domain": {
+          "description": "For global/conceptual TV shows without localization.",
+          "id": "172",
+          "name": "Global TV Show"
+        },
+        "entity": {
+          "id": "1280878352954318854",
+          "name": "How I Met Your Mother"
+        }
+      }
+    ],
+    "conversation_id": "2105203218766827628",
+    "created_at": "2026-09-30T07:48:54.000Z",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T08:48:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105203218766827628"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yDCbc3PQpZ",
+          "end": 182,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2105203218766827628/photo/1",
+          "media_key": "3_2105202419315679232",
+          "start": 159,
+          "url": "https://t.co/yDCbc3PQpZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105203218766827628",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105202419315679232"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我理解不了，后翼弃兵这种狗屎也能上榜的话，ym，ypm，friends，himym，it crowd在哪？？？？为什么modern family最后三季烂成狗屎还能有那么高的排名啊，到底在干什么。。。对安雅泰勒真的0好感，Tomas Sangster萌萌小男孩但是贴个胡子装大叔我不懂cast director在干啥 https://t.co/yDCbc3PQpZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2105202419315679232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTcuck-aoAAx2iB.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105202419315679232"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10000280169",
+              "name": "How I Met Your Mother"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "A diverse clan bridges cultural and generational gaps.\n\nPhoto via @ModernFam",
+              "id": "10000607681",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Ted has fallen in love. It all started when his best friend, Marshall, drops the bombshell that he plans to propose to longtime girlfriend Lily, a kindergarten teacher. Suddenly, Ted realises that he had better get a move on if he hopes to find true love. Helping him in the quest is Barney, a friend with endless - often outrageous - opinions, a penchant for suits and a foolproof way to meet women. When Ted meets Robin, he is sure it's love at first sight, but the affair fizzles into friendship. Voice-over by Bob Saget (`Full House') tells the story through flashbacks.",
+              "id": "10027336259",
+              "name": "How I Met Your Mother"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Companies rely on their IT departments to keep things running, and Reynholm Industries is no different. Relegated to the basement of its shining London office tower, the IT group, technicians Moss and Roy and department head Jen, does its best to keep things running with a minimum of effort and social contact. Work is a special challenge for Jen, for although her CV indicated a great deal of familiarity with computers, in reality, she doesn't have a clue.",
+              "id": "10027336445",
+              "name": "The IT Crowd"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "Told from the perspective of an unseen documentary filmmaker, the series offers an honest and often hilarious perspective of family life. Parents Phil and Claire yearn for an honest, open relationship with their three kids. But a teen who is trying to grow up too fast, another who is too smart for her own good, and a rambunctious young son make it challenging. Jay and his much-younger wife are raising her son together, but people sometimes mistake Jay for his wife's father. Meanwhile, partners Mitchell and Cameron have just adopted a child from Vietnam, which poses a different set of challenges.",
+              "id": "10027336806",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028286388",
+              "name": "Cómo Conocí a Vuestra Madre"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10028298440",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10029055806",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Television",
+              "id": "1072937043393560576",
+              "name": "Television"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272661112517885953",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1280878352954318854",
+              "name": "How I Met Your Mother"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311445355905024",
+              "name": "Comedy TV"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1281311675845447680",
+              "name": "Sitcoms"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1272661112517885953",
+              "name": "Modern Family"
+            }
+          },
+          {
+            "domain": {
+              "description": "For global/conceptual TV shows without localization.",
+              "id": "172",
+              "name": "Global TV Show"
+            },
+            "entity": {
+              "id": "1280878352954318854",
+              "name": "How I Met Your Mother"
+            }
+          }
+        ],
+        "conversation_id": "2105203218766827628",
+        "created_at": "2026-09-30T07:48:54.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T08:48:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105203218766827628"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yDCbc3PQpZ",
+              "end": 182,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2105203218766827628/photo/1",
+              "media_key": "3_2105202419315679232",
+              "start": 159,
+              "url": "https://t.co/yDCbc3PQpZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105203218766827628",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105202419315679232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我理解不了，后翼弃兵这种狗屎也能上榜的话，ym，ypm，friends，himym，it crowd在哪？？？？为什么modern family最后三季烂成狗屎还能有那么高的排名啊，到底在干什么。。。对安雅泰勒真的0好感，Tomas Sangster萌萌小男孩但是贴个胡子装大叔我不懂cast director在干啥 https://t.co/yDCbc3PQpZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105203218766827628",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 426,
+          "like_count": 9172,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2362
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

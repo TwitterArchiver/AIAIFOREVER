@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108470820045799626",
+    "created_at": "2026-10-09T08:13:11.000Z",
+    "display_text_range": [
+      0,
+      97
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T09:13:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108470820045799626"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1431540344672317441",
+          "start": 3,
+          "username": "MyDessert33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108470820045799626",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108248386734596268",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @MyDessert33: 开始自卑\n抖音刷到有钱人ip一直在不同的国家➡️好有钱好嫉妒➡️我也想出国➡️签证很难办+要学雅思➡️不喜欢英语、自己好废物➡️没有人会喜欢又懒又馋又丑又胖的我"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108470820045799626",
+        "created_at": "2026-10-09T08:13:11.000Z",
+        "display_text_range": [
+          0,
+          97
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:13:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108470820045799626"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1431540344672317441",
+              "start": 3,
+              "username": "MyDessert33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108470820045799626",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108248386734596268",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @MyDessert33: 开始自卑\n抖音刷到有钱人ip一直在不同的国家➡️好有钱好嫉妒➡️我也想出国➡️签证很难办+要学雅思➡️不喜欢英语、自己好废物➡️没有人会喜欢又懒又馋又丑又胖的我"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1431540344672317441",
+        "conversation_id": "2108248386734596268",
+        "created_at": "2026-10-08T17:29:19.000Z",
+        "display_text_range": [
+          0,
+          80
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T18:29:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108248386734596268"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108248386734596268",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 5852,
+          "like_count": 101,
+          "quote_count": 0,
+          "reply_count": 20,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开始自卑\n抖音刷到有钱人ip一直在不同的国家➡️好有钱好嫉妒➡️我也想出国➡️签证很难办+要学雅思➡️不喜欢英语、自己好废物➡️没有人会喜欢又懒又馋又丑又胖的我"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108470820045799626",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 431,
+          "like_count": 10411,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2456
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-28T08:53:21.000Z",
+        "description": "专心经营我的屌丝人生",
+        "id": "1431540344672317441",
+        "is_identity_verified": false,
+        "location": "🚪188纯绿",
+        "most_recent_tweet_id": "2108468861909778905",
+        "name": "32",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1431540344672317441/1696526413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026129216832684032/1mc-gr-G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15451,
+          "following_count": 4,
+          "like_count": 901,
+          "listed_count": 39,
+          "media_count": 82,
+          "tweet_count": 479
+        },
+        "url": "",
+        "username": "MyDessert33",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

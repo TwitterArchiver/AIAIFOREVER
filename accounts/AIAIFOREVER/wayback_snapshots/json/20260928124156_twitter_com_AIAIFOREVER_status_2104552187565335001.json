@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2104552187565335001",
+    "created_at": "2026-09-28T12:41:56.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T13:41:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104552187565335001"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2094562446279426048",
+          "start": 3,
+          "username": "roTlqToRl0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104552187565335001",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3584
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104140089366556965",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @roTlqToRl0: 멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2104552187565335001",
+        "created_at": "2026-09-28T12:41:56.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T13:41:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104552187565335001"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2094562446279426048",
+              "start": 3,
+              "username": "roTlqToRl0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104552187565335001",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3584
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104140089366556965",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @roTlqToRl0: 멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2094562446279426048",
+        "conversation_id": "2104140089366556965",
+        "created_at": "2026-09-27T09:24:24.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:24:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104140089366556965"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2104140089366556965",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 787,
+          "impression_count": 310588,
+          "like_count": 11066,
+          "quote_count": 503,
+          "reply_count": 95,
+          "retweet_count": 3584
+        },
+        "reply_settings": "everyone",
+        "text": "멍청해서 미안해\n못생겨서 미안해\n뚱뚱해서 미안해\n한심해서 미안해\n우울해서 미안해\n무기력해서 미안해\n너무 못나서 미안해\n병신이라서 미안해\n좋은 사람이 아니라서 미안해\n다 망쳐서 미안해\n태어나서 미안해\n살아있어서 미안해\n정신병자라서 미안해\n나를 사랑하지 못해서 미안해\n내가 다 미안해"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104552187565335001",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 452,
+          "following_count": 423,
+          "like_count": 8954,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2333
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-31T23:09:46.000Z",
+        "description": "현실도피",
+        "id": "2094562446279426048",
+        "is_identity_verified": false,
+        "location": "개씹쌔끼",
+        "most_recent_tweet_id": "2104522157829038351",
+        "name": "개씹쌔끼",
+        "pinned_tweet_id": "2095486606547595580",
+        "profile_banner_url": "",
+        "profile_image_url": "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 8,
+          "like_count": 1402,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 234
+        },
+        "url": "",
+        "username": "roTlqToRl0",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

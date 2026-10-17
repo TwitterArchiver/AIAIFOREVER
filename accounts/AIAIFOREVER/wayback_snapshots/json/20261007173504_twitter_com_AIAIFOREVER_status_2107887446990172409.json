@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2107887446990172409",
+    "created_at": "2026-10-07T17:35:04.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:35:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107887446990172409"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/0xTheo520/stat…",
+          "end": 25,
+          "expanded_url": "https://twitter.com/0xTheo520/status/2107806950784422281",
+          "start": 2,
+          "url": "https://t.co/eYTcm36hLo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107887446990172409",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107806950784422281",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "对 https://t.co/eYTcm36hLo"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2107887446990172409",
+        "created_at": "2026-10-07T17:35:04.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:35:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107887446990172409"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0xTheo520/stat…",
+              "end": 25,
+              "expanded_url": "https://twitter.com/0xTheo520/status/2107806950784422281",
+              "start": 2,
+              "url": "https://t.co/eYTcm36hLo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107887446990172409",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107806950784422281",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "对 https://t.co/eYTcm36hLo"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870818143071059968",
+        "conversation_id": "2107806950784422281",
+        "created_at": "2026-10-07T12:15:12.000Z",
+        "display_text_range": [
+          0,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:15:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107806950784422281"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107806950784422281",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 36154,
+          "like_count": 752,
+          "quote_count": 20,
+          "reply_count": 169,
+          "retweet_count": 29
+        },
+        "reply_settings": "everyone",
+        "text": "号够烂的推特太适合记录生活了啊，一天发一百条都不带有人理你的，只有只进入身体，不进入生活"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107887446990172409",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 429,
+          "like_count": 10176,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2434
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-22T13:06:24.000Z",
+        "description": "段子手｜梗图｜人间观察 | 认知提升 | 洞察人性\n尊重他人命运，放下助人情结，伸手会带来厄运 \nx 蓝V会员开通： https://t.co/v8fTrgioJL",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gptibo.com/r/7S98F3",
+                "end": 82,
+                "expanded_url": "https://gptibo.com/r/7S98F3",
+                "start": 59,
+                "url": "https://t.co/v8fTrgioJL"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Theo520",
+                "end": 23,
+                "expanded_url": "http://t.me/Theo520",
+                "start": 0,
+                "url": "https://t.co/YpPMXCzeYD"
+              }
+            ]
+          }
+        },
+        "id": "1870818143071059968",
+        "is_identity_verified": false,
+        "location": "不含任何建议",
+        "most_recent_tweet_id": "2107887431269892497",
+        "name": "Theo",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080976108166791169/IlxXd3m9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5722,
+          "following_count": 2687,
+          "like_count": 5289,
+          "listed_count": 11,
+          "media_count": 315,
+          "tweet_count": 6894
+        },
+        "url": "https://t.co/YpPMXCzeYD",
+        "username": "0xTheo520",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

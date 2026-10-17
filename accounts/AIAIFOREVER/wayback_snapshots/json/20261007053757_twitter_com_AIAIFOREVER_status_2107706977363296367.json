@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2107706977363296367",
+    "created_at": "2026-10-07T05:37:57.000Z",
+    "display_text_range": [
+      0,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T06:37:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107706977363296367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Princesstoast1…",
+          "end": 87,
+          "expanded_url": "https://twitter.com/Princesstoast11/status/2107494392542220734",
+          "start": 64,
+          "url": "https://t.co/ClLtgMVSjd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107706977363296367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107494392542220734",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "焦虑是当下的，确实会给人启发和安慰吧但是个人不太喜欢这样的帖子，好像在否认teenager的痛苦，每个人都有自己的人生课题，嗯 https://t.co/ClLtgMVSjd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2107494375391625217",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT9S9-taAAE_bWd.jpg",
+        "width": 780
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2107706977363296367",
+        "created_at": "2026-10-07T05:37:57.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T06:37:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107706977363296367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Princesstoast1…",
+              "end": 87,
+              "expanded_url": "https://twitter.com/Princesstoast11/status/2107494392542220734",
+              "start": 64,
+              "url": "https://t.co/ClLtgMVSjd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107706977363296367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107494392542220734",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "焦虑是当下的，确实会给人启发和安慰吧但是个人不太喜欢这样的帖子，好像在否认teenager的痛苦，每个人都有自己的人生课题，嗯 https://t.co/ClLtgMVSjd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107494375391625217"
+          ]
+        },
+        "author_id": "1536583610714640384",
+        "conversation_id": "2107494392542220734",
+        "created_at": "2026-10-06T15:33:13.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T16:33:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107494392542220734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HHZIj3i5qt",
+              "end": 163,
+              "expanded_url": "https://x.com/Princesstoast11/status/2107494392542220734/photo/1",
+              "media_key": "3_2107494375391625217",
+              "start": 140,
+              "url": "https://t.co/HHZIj3i5qt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107494392542220734",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107494375391625217"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 144,
+          "impression_count": 24478,
+          "like_count": 869,
+          "quote_count": 9,
+          "reply_count": 55,
+          "retweet_count": 68
+        },
+        "reply_settings": "everyone",
+        "text": "本人近两年觉得受用的图片在此。\n无论是谁好像都要在成长的路上受到一些不必要的恐吓才能走上自己的路，但不要害怕世界的恐吓，请你放心，这世界上老板不开公司也有的是人开。如果不想进什么大公司只觉得养活自己过上成年人吃饱喝足有闲钱娱乐的生活，那么恭喜你，你现在就可以做到，不会过得更坏了 https://t.co/HHZIj3i5qt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107706977363296367",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 427,
+          "like_count": 10124,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2424
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-06-14T05:37:45.000Z",
+        "description": "银鞍白马度春风｜提问在https://t.co/a4aRyjXpJx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/toasttime",
+                "end": 34,
+                "expanded_url": "https://ngl.link/toasttime",
+                "start": 11,
+                "url": "https://t.co/a4aRyjXpJx"
+              }
+            ]
+          }
+        },
+        "id": "1536583610714640384",
+        "is_identity_verified": false,
+        "location": "需要Nutella酱ᐝ ᐝ",
+        "most_recent_tweet_id": "2107651722512674956",
+        "name": "巧克力公主吐司",
+        "pinned_tweet_id": "1964703747898224909",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1536583610714640384/1753089862",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004536706305794049/F3vwDvna_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5343,
+          "following_count": 1,
+          "like_count": 47637,
+          "listed_count": 23,
+          "media_count": 2050,
+          "tweet_count": 47200
+        },
+        "url": "",
+        "username": "Princesstoast11",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

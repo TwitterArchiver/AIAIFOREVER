@@ -1,0 +1,298 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102356554293149696"
+      ],
+      "media_source_tweet_id": [
+        "2102593801906974770"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2102652202418598224",
+    "created_at": "2026-09-23T06:52:05.000Z",
+    "display_text_range": [
+      0,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T07:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102652202418598224"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1711753648328638464",
+          "start": 3,
+          "username": "LL_SchoolIdol"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZSQUYulFHn",
+          "end": 51,
+          "expanded_url": "https://x.com/LL_SchoolIdol/status/2102593801906974770/photo/1",
+          "media_key": "3_2102356554293149696",
+          "start": 28,
+          "url": "https://t.co/ZSQUYulFHn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102652202418598224",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2102356554293149696"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 212
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102593801906974770",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LL_SchoolIdol: 髪型交換のぞえり https://t.co/ZSQUYulFHn"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2102356554293149696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0SJbnbgAAz3i4.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102356554293149696"
+          ],
+          "media_source_tweet_id": [
+            "2102593801906974770"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2102652202418598224",
+        "created_at": "2026-09-23T06:52:05.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T07:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102652202418598224"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1711753648328638464",
+              "start": 3,
+              "username": "LL_SchoolIdol"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSQUYulFHn",
+              "end": 51,
+              "expanded_url": "https://x.com/LL_SchoolIdol/status/2102593801906974770/photo/1",
+              "media_key": "3_2102356554293149696",
+              "start": 28,
+              "url": "https://t.co/ZSQUYulFHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102652202418598224",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102356554293149696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 212
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102593801906974770",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LL_SchoolIdol: 髪型交換のぞえり https://t.co/ZSQUYulFHn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102356554293149696"
+          ]
+        },
+        "author_id": "1711753648328638464",
+        "conversation_id": "2102593801906974770",
+        "created_at": "2026-09-23T03:00:01.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102593801906974770"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZSQUYulFHn",
+              "end": 32,
+              "expanded_url": "https://x.com/LL_SchoolIdol/status/2102593801906974770/photo/1",
+              "media_key": "3_2102356554293149696",
+              "start": 9,
+              "url": "https://t.co/ZSQUYulFHn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102593801906974770",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102356554293149696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 290,
+          "impression_count": 25853,
+          "like_count": 2056,
+          "quote_count": 15,
+          "reply_count": 5,
+          "retweet_count": 212
+        },
+        "reply_settings": "everyone",
+        "text": "髪型交換のぞえり https://t.co/ZSQUYulFHn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102652202418598224",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 446,
+          "like_count": 7828,
+          "listed_count": 1,
+          "media_count": 106,
+          "tweet_count": 2274
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-10T14:40:52.000Z",
+        "description": "ラブライブシリーズのAIイラストを投稿しています。Xへの投稿は健全絵（当社比）のみ。🔞はpixivへ。 サブ垢： @subsub_fry",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 57,
+                "username": "subsub_fry"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/users/231189",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/users/231189",
+                "start": 0,
+                "url": "https://t.co/a0hpZ4VUHO"
+              }
+            ]
+          }
+        },
+        "id": "1711753648328638464",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102593801906974770",
+        "name": "エビフライ",
+        "pinned_tweet_id": "1968601459492024738",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1711753648328638464/1780284410",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859239043189645314/5Oq1uX3T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45134,
+          "following_count": 79,
+          "like_count": 8542,
+          "listed_count": 324,
+          "media_count": 1916,
+          "tweet_count": 3453
+        },
+        "url": "https://t.co/a0hpZ4VUHO",
+        "username": "LL_SchoolIdol",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

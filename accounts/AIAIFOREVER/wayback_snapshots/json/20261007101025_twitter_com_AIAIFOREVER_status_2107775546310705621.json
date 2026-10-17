@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2107775546310705621",
+    "created_at": "2026-10-07T10:10:25.000Z",
+    "display_text_range": [
+      0,
+      5
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T11:10:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107775546310705621"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yoshiakira24/s…",
+          "end": 29,
+          "expanded_url": "https://twitter.com/yoshiakira24/status/2107766241444110846",
+          "start": 6,
+          "url": "https://t.co/YiROJkAo8c"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107775546310705621",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107766241444110846",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕水o！ https://t.co/YiROJkAo8c"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2107766217943781376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBKNTIbkAA0qQT.jpg",
+        "width": 4096
+      },
+      {
+        "height": 1600,
+        "media_key": "3_2107766231386488833",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUBKOFNbAAE82i0.jpg",
+        "width": 2400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2107775546310705621",
+        "created_at": "2026-10-07T10:10:25.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T11:10:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107775546310705621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yoshiakira24/s…",
+              "end": 29,
+              "expanded_url": "https://twitter.com/yoshiakira24/status/2107766241444110846",
+              "start": 6,
+              "url": "https://t.co/YiROJkAo8c"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107775546310705621",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107766241444110846",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕水o！ https://t.co/YiROJkAo8c"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107766217943781376",
+            "3_2107766231386488833"
+          ]
+        },
+        "author_id": "2071048854594891776",
+        "conversation_id": "2107766241444110846",
+        "created_at": "2026-10-07T09:33:27.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T10:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107766241444110846"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TY1ANX8KF8",
+              "end": 23,
+              "expanded_url": "https://x.com/yoshiakira24/status/2107766241444110846/photo/1",
+              "media_key": "3_2107766217943781376",
+              "start": 0,
+              "url": "https://t.co/TY1ANX8KF8"
+            },
+            {
+              "display_url": "pic.x.com/TY1ANX8KF8",
+              "end": 23,
+              "expanded_url": "https://x.com/yoshiakira24/status/2107766241444110846/photo/1",
+              "media_key": "3_2107766231386488833",
+              "start": 0,
+              "url": "https://t.co/TY1ANX8KF8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107766241444110846",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2107766217943781376"
+          },
+          {
+            "media_key": "3_2107766231386488833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/TY1ANX8KF8"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107775546310705621",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 427,
+          "like_count": 10152,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2431
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-28T01:52:55.000Z",
+        "description": "この世をば 我が世とぞ思ふ 望月の 欠けたること無しと思へば\n飞舞教师躺平中 求互fo IP郑州",
+        "id": "2071048854594891776",
+        "is_identity_verified": false,
+        "location": "伊谢尔伦共和政府",
+        "most_recent_tweet_id": "2107766241444110846",
+        "name": "義詮Kanan",
+        "pinned_tweet_id": "2094667999966003447",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071048854594891776/1785733663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084144156000366592/KSFv4Ylo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 785,
+          "like_count": 1103,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 433
+        },
+        "url": "",
+        "username": "yoshiakira24",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

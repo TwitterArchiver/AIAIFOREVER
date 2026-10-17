@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108226752145457223",
+    "created_at": "2026-10-08T16:03:21.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T17:03:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108226752145457223"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/liu_jiu_cos/st…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/liu_jiu_cos/status/2108091405729984987",
+          "start": 8,
+          "url": "https://t.co/hGAyw3QRD5"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108226752145457223",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108091405729984987",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我将坠落到地面 https://t.co/hGAyw3QRD5"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108226752145457223",
+        "created_at": "2026-10-08T16:03:21.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T17:03:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108226752145457223"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/liu_jiu_cos/st…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/liu_jiu_cos/status/2108091405729984987",
+              "start": 8,
+              "url": "https://t.co/hGAyw3QRD5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108226752145457223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108091405729984987",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我将坠落到地面 https://t.co/hGAyw3QRD5"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1334729449950961667",
+        "conversation_id": "2108069330860810382",
+        "created_at": "2026-10-08T07:05:32.000Z",
+        "display_text_range": [
+          14,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T08:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108091405729984987"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2102090815082520576",
+              "start": 0,
+              "username": "Xsuan7777777"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108091405729984987",
+        "in_reply_to_user_id": "2102090815082520576",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 582,
+          "like_count": 28,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108069330860810382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Xsuan7777777 女儿你怎么得抑郁症了？早说你不要天天呆在房间里 多出来呼吸新鲜空气啊 你一天到晚在房间里玩手机 怎么不出去走走？你还想爸爸妈妈对你怎么样？你在折磨全家人你知道吗？不是吃了药了吗你怎么还这样？到底是谁让你变成这样的？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108226752145457223",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 432,
+          "like_count": 10290,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2448
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-04T05:21:22.000Z",
+        "description": "🇨🇳cos，趣味は 취미는：Bangdream/Arknights/overwatch/closer  DM欢迎",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/liujiu696",
+                "end": 23,
+                "expanded_url": "https://lit.link/liujiu696",
+                "start": 0,
+                "url": "https://t.co/DvS3lg51dG"
+              }
+            ]
+          }
+        },
+        "id": "1334729449950961667",
+        "is_identity_verified": false,
+        "location": "亚马逊雨林",
+        "most_recent_tweet_id": "2108201209375133832",
+        "name": "瑠玖",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1334729449950961667/1764275067",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1986297285370929152/uzv6njUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 485,
+          "following_count": 1354,
+          "like_count": 50342,
+          "listed_count": 2,
+          "media_count": 263,
+          "tweet_count": 3412
+        },
+        "url": "https://t.co/DvS3lg51dG",
+        "username": "liu_jiu_cos",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-09-21T17:41:41.000Z",
+        "description": "重度抑郁重度解离/oder/🩸🔪（我今天关注上限了",
+        "id": "2102090815082520576",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108205175508979994",
+        "name": "酸酸子777",
+        "pinned_tweet_id": "2106852792694694001",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2102090815082520576/1791147511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106851410344386560/rx_hCvGd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186,
+          "following_count": 116,
+          "like_count": 47,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 62
+        },
+        "url": "",
+        "username": "Xsuan7777777",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2109250436234608640"
+      ],
+      "media_source_tweet_id": [
+        "2109250454530163093"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2109541947061002241",
+    "created_at": "2026-10-12T07:09:28.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-12T08:09:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109541947061002241"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1556263715095609344",
+          "start": 3,
+          "username": "ayumu_ZC83S"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/7xrETUNX5x",
+          "end": 56,
+          "expanded_url": "https://x.com/ayumu_ZC83S/status/2109250454530163093/photo/1",
+          "media_key": "3_2109250436234608640",
+          "start": 33,
+          "url": "https://t.co/7xrETUNX5x"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109541947061002241",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2109250436234608640"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 119
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109250454530163093",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ayumu_ZC83S: なんか原宿に凄い場所があった🤣 https://t.co/7xrETUNX5x"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2109250436234608640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUWQGLIaAAAJDBg.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109250436234608640"
+          ],
+          "media_source_tweet_id": [
+            "2109250454530163093"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2109541947061002241",
+        "created_at": "2026-10-12T07:09:28.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-12T08:09:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109541947061002241"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1556263715095609344",
+              "start": 3,
+              "username": "ayumu_ZC83S"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xrETUNX5x",
+              "end": 56,
+              "expanded_url": "https://x.com/ayumu_ZC83S/status/2109250454530163093/photo/1",
+              "media_key": "3_2109250436234608640",
+              "start": 33,
+              "url": "https://t.co/7xrETUNX5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109541947061002241",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2109250436234608640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 119
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109250454530163093",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ayumu_ZC83S: なんか原宿に凄い場所があった🤣 https://t.co/7xrETUNX5x"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2109250436234608640"
+          ]
+        },
+        "author_id": "1556263715095609344",
+        "conversation_id": "2109250454530163093",
+        "created_at": "2026-10-11T11:51:10.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T12:51:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2109250454530163093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7xrETUNX5x",
+              "end": 39,
+              "expanded_url": "https://x.com/ayumu_ZC83S/status/2109250454530163093/photo/1",
+              "media_key": "3_2109250436234608640",
+              "start": 16,
+              "url": "https://t.co/7xrETUNX5x"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109250454530163093",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2109250436234608640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 115,
+          "impression_count": 36806,
+          "like_count": 1159,
+          "quote_count": 14,
+          "reply_count": 13,
+          "retweet_count": 119
+        },
+        "reply_settings": "everyone",
+        "text": "なんか原宿に凄い場所があった🤣 https://t.co/7xrETUNX5x"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2109541947061002241",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 478,
+          "following_count": 434,
+          "like_count": 10617,
+          "listed_count": 0,
+          "media_count": 124,
+          "tweet_count": 2488
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-08-07T13:00:08.000Z",
+        "description": "(24)無言フォロー失礼します🙇‍♂️ SWIFT(zc83s)に乗ってます。 μ's➡️🤟Aqours➡️💮😈🍭",
+        "id": "1556263715095609344",
+        "is_identity_verified": false,
+        "location": "ルビまるレーシング",
+        "most_recent_tweet_id": "2109468239692812663",
+        "name": "ayumu",
+        "pinned_tweet_id": "2019017452441702719",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1556263715095609344/1790338706",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078831919866028032/q-FrDJZB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3246,
+          "following_count": 3507,
+          "like_count": 62325,
+          "listed_count": 8,
+          "media_count": 6617,
+          "tweet_count": 55452
+        },
+        "url": "",
+        "username": "ayumu_ZC83S",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

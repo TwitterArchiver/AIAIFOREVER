@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2105297944736043009",
+        "3_2105297944874463232",
+        "3_2105297944694177792",
+        "3_2105297944694104064"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2105298137967735251",
+    "created_at": "2026-09-30T14:06:05.000Z",
+    "display_text_range": [
+      0,
+      34
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T15:06:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105298137967735251"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/XoGFLbeaIC",
+          "end": 58,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+          "media_key": "3_2105297944736043009",
+          "start": 35,
+          "url": "https://t.co/XoGFLbeaIC"
+        },
+        {
+          "display_url": "pic.x.com/XoGFLbeaIC",
+          "end": 58,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+          "media_key": "3_2105297944874463232",
+          "start": 35,
+          "url": "https://t.co/XoGFLbeaIC"
+        },
+        {
+          "display_url": "pic.x.com/XoGFLbeaIC",
+          "end": 58,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+          "media_key": "3_2105297944694177792",
+          "start": 35,
+          "url": "https://t.co/XoGFLbeaIC"
+        },
+        {
+          "display_url": "pic.x.com/XoGFLbeaIC",
+          "end": 58,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+          "media_key": "3_2105297944694104064",
+          "start": 35,
+          "url": "https://t.co/XoGFLbeaIC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105298137967735251",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2105297944736043009"
+      },
+      {
+        "media_key": "3_2105297944874463232"
+      },
+      {
+        "media_key": "3_2105297944694177792"
+      },
+      {
+        "media_key": "3_2105297944694104064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "爸爸妈妈们我付完尾款押金要吃土了救济一下这个小艾助力国庆偶像痴行程喵 https://t.co/XoGFLbeaIC"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2105297944736043009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeFU45aEAELenK.jpg",
+        "width": 1152
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2105297944874463232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeFU5aaMAAxrFA.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2105297944694177792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeFU4vbQAAc4sj.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2105297944694104064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTeFU4vaIAASpPc.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2105297944736043009",
+            "3_2105297944874463232",
+            "3_2105297944694177792",
+            "3_2105297944694104064"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2105298137967735251",
+        "created_at": "2026-09-30T14:06:05.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T15:06:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105298137967735251"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XoGFLbeaIC",
+              "end": 58,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+              "media_key": "3_2105297944736043009",
+              "start": 35,
+              "url": "https://t.co/XoGFLbeaIC"
+            },
+            {
+              "display_url": "pic.x.com/XoGFLbeaIC",
+              "end": 58,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+              "media_key": "3_2105297944874463232",
+              "start": 35,
+              "url": "https://t.co/XoGFLbeaIC"
+            },
+            {
+              "display_url": "pic.x.com/XoGFLbeaIC",
+              "end": 58,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+              "media_key": "3_2105297944694177792",
+              "start": 35,
+              "url": "https://t.co/XoGFLbeaIC"
+            },
+            {
+              "display_url": "pic.x.com/XoGFLbeaIC",
+              "end": 58,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2105298137967735251/photo/1",
+              "media_key": "3_2105297944694104064",
+              "start": 35,
+              "url": "https://t.co/XoGFLbeaIC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105298137967735251",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2105297944736043009"
+          },
+          {
+            "media_key": "3_2105297944874463232"
+          },
+          {
+            "media_key": "3_2105297944694177792"
+          },
+          {
+            "media_key": "3_2105297944694104064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "爸爸妈妈们我付完尾款押金要吃土了救济一下这个小艾助力国庆偶像痴行程喵 https://t.co/XoGFLbeaIC"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105298137967735251",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454,
+          "following_count": 426,
+          "like_count": 9225,
+          "listed_count": 1,
+          "media_count": 115,
+          "tweet_count": 2379
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

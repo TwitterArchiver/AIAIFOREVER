@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2105554335249944927",
+    "created_at": "2026-10-01T07:04:07.000Z",
+    "display_text_range": [
+      0,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T08:04:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105554335249944927"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1831675468325752832",
+          "start": 3,
+          "username": "Rinh1shdes7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105554335249944927",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105468434935169202",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Rinh1shdes7: 自拍了十几张之后觉得人其实还是内在美更重要"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2105554335249944927",
+        "created_at": "2026-10-01T07:04:07.000Z",
+        "display_text_range": [
+          0,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T08:04:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105554335249944927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1831675468325752832",
+              "start": 3,
+              "username": "Rinh1shdes7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105554335249944927",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105468434935169202",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Rinh1shdes7: 自拍了十几张之后觉得人其实还是内在美更重要"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1831675468325752832",
+        "conversation_id": "2105468434935169202",
+        "created_at": "2026-10-01T01:22:47.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T02:22:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105468434935169202"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2105468434935169202",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2922,
+          "like_count": 52,
+          "quote_count": 2,
+          "reply_count": 21,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "自拍了十几张之后觉得人其实还是内在美更重要"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105554335249944927",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 456,
+          "following_count": 422,
+          "like_count": 9541,
+          "listed_count": 1,
+          "media_count": 117,
+          "tweet_count": 2393
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-05T12:47:27.000Z",
+        "description": "发奇怪的私信拉黑 不想认识你 女孩子找我玩呀。\n感兴趣的会回关。",
+        "id": "1831675468325752832",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105531602394808506",
+        "name": "n3piiilons",
+        "pinned_tweet_id": "2105346645760372777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1831675468325752832/1790795374",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2073293011497426944/Y95YGDyM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 24,
+          "like_count": 91,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 123
+        },
+        "url": "",
+        "username": "Rinh1shdes7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2105214366799061433",
+    "created_at": "2026-09-30T08:33:12.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T09:33:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2105214366799061433"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ahoradaestrela…",
+          "end": 31,
+          "expanded_url": "https://twitter.com/ahoradaestrelaL/status/2104926619194610086",
+          "start": 8,
+          "url": "https://t.co/kvxGTF2lya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105214366799061433",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104926619194610086",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "俩女的都是弱智 https://t.co/kvxGTF2lya"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2105214366799061433",
+        "created_at": "2026-09-30T08:33:12.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T09:33:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2105214366799061433"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ahoradaestrela…",
+              "end": 31,
+              "expanded_url": "https://twitter.com/ahoradaestrelaL/status/2104926619194610086",
+              "start": 8,
+              "url": "https://t.co/kvxGTF2lya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105214366799061433",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104926619194610086",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "俩女的都是弱智 https://t.co/kvxGTF2lya"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1982843142434062336",
+        "conversation_id": "2104926619194610086",
+        "created_at": "2026-09-29T13:29:48.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T14:29:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104926619194610086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/onakapecorina/…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/onakapecorina/status/2104489212204789972",
+              "start": 35,
+              "url": "https://t.co/uJOEGLBmIz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104926619194610086",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 23367,
+          "like_count": 1319,
+          "quote_count": 1,
+          "reply_count": 17,
+          "retweet_count": 17
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104489212204789972",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "什么时候能对屌畜领导人来一些荡夫羞辱、bodyshame、两屌互比？ https://t.co/uJOEGLBmIz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105214366799061433",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 426,
+          "like_count": 9189,
+          "listed_count": 1,
+          "media_count": 113,
+          "tweet_count": 2366
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-27T16:13:54.000Z",
+        "description": "🍄",
+        "id": "1982843142434062336",
+        "is_identity_verified": false,
+        "location": "la Vía Láctea",
+        "most_recent_tweet_id": "2105129488023789995",
+        "name": "Estrela",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063907745519349760/kATst0E__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 21,
+          "following_count": 36,
+          "like_count": 2060,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 492
+        },
+        "url": "",
+        "username": "ahoradaestrelaL",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

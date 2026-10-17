@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2107751642573754679",
+    "created_at": "2026-10-07T08:35:26.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T09:35:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107751642573754679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/aomiaomi1144/s…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/aomiaomi1144/status/2107739283784372713",
+          "start": 7,
+          "url": "https://t.co/8VCkLtbl6K"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107751642573754679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107739283784372713",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈看哭了 https://t.co/8VCkLtbl6K"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2107751642573754679",
+        "created_at": "2026-10-07T08:35:26.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T09:35:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107751642573754679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aomiaomi1144/s…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/aomiaomi1144/status/2107739283784372713",
+              "start": 7,
+              "url": "https://t.co/8VCkLtbl6K"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107751642573754679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107739283784372713",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈看哭了 https://t.co/8VCkLtbl6K"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1826355600894427136",
+        "conversation_id": "2107739283784372713",
+        "created_at": "2026-10-07T07:46:19.000Z",
+        "display_text_range": [
+          0,
+          134
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:46:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107739283784372713"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107739283784372713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在下午我不会吃小零食…\n\n之前出去玩，大约四五点左右，女友看到蛋挞说想吃一个，一句话想都没想就从我口中飞出：\n\n“别吃了，一会儿吃饭又吃不下了。”\n\n事后回想起来，好像是因为小时候很多次因此被凶，很多次已经吃不下还被逼着把饭吞进肚里…大人所为的只是自己更加省事一点……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107751642573754679",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 426,
+          "like_count": 10145,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2430
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-21T20:30:11.000Z",
+        "description": "翼をください",
+        "id": "1826355600894427136",
+        "is_identity_verified": false,
+        "location": "月球🌖",
+        "most_recent_tweet_id": "2107747695352062106",
+        "name": "🫠",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1826355600894427136/1789358897",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095091206422417408/0DMmpIps_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 127,
+          "following_count": 863,
+          "like_count": 5701,
+          "listed_count": 0,
+          "media_count": 108,
+          "tweet_count": 1042
+        },
+        "url": "",
+        "username": "aomiaomi1144",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

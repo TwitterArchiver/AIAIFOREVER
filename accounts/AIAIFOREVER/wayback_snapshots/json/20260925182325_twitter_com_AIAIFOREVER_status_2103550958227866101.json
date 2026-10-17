@@ -1,0 +1,289 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103508649708761354",
+    "created_at": "2026-09-25T18:23:25.000Z",
+    "display_text_range": [
+      13,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T19:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103550958227866101"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1522976249173450759",
+          "start": 0,
+          "username": "bocchi1chan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103550958227866101",
+    "in_reply_to_user_id": "1522976249173450759",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103508649708761354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bocchi1chan 看二偶就是图情绪价值啊（，真特别在意音乐性就有点招笑了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2103508625402839040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEp8y8bQAAq7pX.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2448,
+        "media_key": "3_2103508634932219904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEp9WcaEAAe7An.jpg",
+        "width": 3264
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2103508642981183488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTEp90bbgAAfEl0.jpg",
+        "width": 2300
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103508649708761354",
+        "created_at": "2026-09-25T18:23:25.000Z",
+        "display_text_range": [
+          13,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T19:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103550958227866101"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1522976249173450759",
+              "start": 0,
+              "username": "bocchi1chan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103550958227866101",
+        "in_reply_to_user_id": "1522976249173450759",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103508649708761354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bocchi1chan 看二偶就是图情绪价值啊（，真特别在意音乐性就有点招笑了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103508625402839040",
+            "3_2103508634932219904",
+            "3_2103508642981183488"
+          ]
+        },
+        "author_id": "1522976249173450759",
+        "conversation_id": "2103508649708761354",
+        "created_at": "2026-09-25T15:35:18.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T16:35:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103508649708761354"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/deN4iqUOB5",
+              "end": 166,
+              "expanded_url": "https://x.com/bocchi1chan/status/2103508649708761354/photo/1",
+              "media_key": "3_2103508625402839040",
+              "start": 143,
+              "url": "https://t.co/deN4iqUOB5"
+            },
+            {
+              "display_url": "pic.x.com/deN4iqUOB5",
+              "end": 166,
+              "expanded_url": "https://x.com/bocchi1chan/status/2103508649708761354/photo/1",
+              "media_key": "3_2103508634932219904",
+              "start": 143,
+              "url": "https://t.co/deN4iqUOB5"
+            },
+            {
+              "display_url": "pic.x.com/deN4iqUOB5",
+              "end": 166,
+              "expanded_url": "https://x.com/bocchi1chan/status/2103508649708761354/photo/1",
+              "media_key": "3_2103508642981183488",
+              "start": 143,
+              "url": "https://t.co/deN4iqUOB5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103508649708761354",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103508625402839040"
+          },
+          {
+            "media_key": "3_2103508634932219904"
+          },
+          {
+            "media_key": "3_2103508642981183488"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "二偶看多了最大的副作用，就是会误以为花一两万日元看一个靠IP撑起来、制作水平一般、主办方还喜欢教育观众的现场是什么很正常的事情。偶尔去看看真正的一流演出，校准一下自己的审美和消费尺度。真正高水平的演出根本不需要靠PUA观众来建立权威。今晚去三得利音乐厅听了新日本爱乐乐团，票不贵，乐团却能把布鲁克纳第五交响曲三乐章的动态、层次、强弱控制都做到极致的程度。场馆、演出，所有东西都在认真对待观众。反观某些声优，二偶的演出就很幽默了，演出水平与主流的流行音乐演出相比根本就是劣等水平，灯光舞美也不怎么样，一股廉价的感觉，跟主流的流行音乐演出差一大截。很多人买票说到底是冲着IP和角色去的，票价却敢卖到比像Taylor Swift这样的世界级天后还贵，同样的价格真的可以看一众世界级天王天后级歌手，顶级灯光舞美水平的演出了。更魔幻的是，有些主办方还特别喜欢摆出一副教育观众的姿态，动不动就是不守规矩就滚出去，工作人员甚至殴打观众，猥亵观众触碰观众的生殖器。就连这样的主办方也有很多人捧臭脚，为其辩解。粉丝圈子乌烟瘴气，诽谤他人，吃个饭都要说隔壁桌的人偷你棉花娃娃，造谣诽谤发动他人转发，最后只是删帖但拒绝道歉。声优二偶看多了，真的会把很多东西当成正常。今天听完这场高水平的古典才重新意识到真的应该去更多了解高水平演出，看看这个世界上真正高水平，有诚意的现场到底是什么样。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5,
+          "impression_count": 1336,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "二偶看多了最大的副作用，就是会误以为花一两万日元看一个靠IP撑起来、制作水平一般、主办方还喜欢教育观众的现场是什么很正常的事情。偶尔去看看真正的一流演出，校准一下自己的审美和消费尺度。真正高水平的演出根本不需要靠PUA观众来建立权威。今晚去三得利音乐厅听了新日本爱乐乐团，票不贵，乐团 https://t.co/deN4iqUOB5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103550958227866101",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 424,
+          "like_count": 8743,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2308
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-05-07T16:27:09.000Z",
+        "description": "otaku，music producer&photographer\nPlease DM me on Instagram\nInstagramでDMしてください \n请在 Instagram 上私信我",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/bocchi1chan/",
+                "end": 23,
+                "expanded_url": "http://instagram.com/bocchi1chan/",
+                "start": 0,
+                "url": "https://t.co/zSozYuFN2j"
+              }
+            ]
+          }
+        },
+        "id": "1522976249173450759",
+        "is_identity_verified": false,
+        "location": "369m",
+        "most_recent_tweet_id": "2103530559335268428",
+        "name": "喵了个咪的",
+        "pinned_tweet_id": "1796584569728336074",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1522976249173450759/1680337880",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1637786167621070849/PM6I1hNO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13742,
+          "following_count": 3273,
+          "like_count": 41119,
+          "listed_count": 19,
+          "media_count": 2443,
+          "tweet_count": 4970
+        },
+        "url": "https://t.co/zSozYuFN2j",
+        "username": "bocchi1chan",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

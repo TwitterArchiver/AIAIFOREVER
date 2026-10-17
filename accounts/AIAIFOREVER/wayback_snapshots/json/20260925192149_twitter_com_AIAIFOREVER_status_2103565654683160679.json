@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103565654683160679",
+    "created_at": "2026-09-25T19:21:49.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T20:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103565654683160679"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/woodburninbox/…",
+          "end": 30,
+          "expanded_url": "https://twitter.com/woodburninbox/status/2103563778952774084",
+          "start": 7,
+          "url": "https://t.co/jMII5uVs2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103565654683160679",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103563778952774084",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我他妈笑吐了 https://t.co/jMII5uVs2M"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103565654683160679",
+        "created_at": "2026-09-25T19:21:49.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103565654683160679"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/woodburninbox/…",
+              "end": 30,
+              "expanded_url": "https://twitter.com/woodburninbox/status/2103563778952774084",
+              "start": 7,
+              "url": "https://t.co/jMII5uVs2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103565654683160679",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103563778952774084",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我他妈笑吐了 https://t.co/jMII5uVs2M"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1495262246213230600",
+        "conversation_id": "2103563778952774084",
+        "created_at": "2026-09-25T19:14:21.000Z",
+        "display_text_range": [
+          0,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T20:14:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103563778952774084"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103563778952774084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小艾说明天吃什么\n我说不要点外卖\n她说我的意思是o什么"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103565654683160679",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 450,
+          "following_count": 424,
+          "like_count": 8831,
+          "listed_count": 1,
+          "media_count": 108,
+          "tweet_count": 2309
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-02-20T05:01:27.000Z",
+        "description": "🩸💊☠️\nwhen its gone it feels like its never been there\n好闺蜜 @AIAIFOREVER",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 58,
+                "username": "AIAIFOREVER"
+              }
+            ]
+          }
+        },
+        "id": "1495262246213230600",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103563778952774084",
+        "name": "ccandle",
+        "pinned_tweet_id": "2083936778155876520",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1495262246213230600/1781340277",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072211132430098432/_MS0dmVj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 181,
+          "following_count": 248,
+          "like_count": 2386,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 380
+        },
+        "url": "",
+        "username": "woodburninbox",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

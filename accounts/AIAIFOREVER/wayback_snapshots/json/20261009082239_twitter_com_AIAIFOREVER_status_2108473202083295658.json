@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108473202083295658",
+    "created_at": "2026-10-09T08:22:39.000Z",
+    "display_text_range": [
+      0,
+      93
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-09T09:22:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108473202083295658"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1625442369771540483",
+          "start": 3,
+          "username": "ybmm10101"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108473202083295658",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 12
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108186487384904181",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ybmm10101: そもそもあれだけキャストが「🌈ヶ咲はまだ終わらない！」と言ってくれてるのに、終わる終わると騒いでたオタクは先生とか親の言うことを聞かないで育ってきたタイプ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108473202083295658",
+        "created_at": "2026-10-09T08:22:39.000Z",
+        "display_text_range": [
+          0,
+          93
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T09:22:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108473202083295658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1625442369771540483",
+              "start": 3,
+              "username": "ybmm10101"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108473202083295658",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 12
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108186487384904181",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ybmm10101: そもそもあれだけキャストが「🌈ヶ咲はまだ終わらない！」と言ってくれてるのに、終わる終わると騒いでたオタクは先生とか親の言うことを聞かないで育ってきたタイプ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1625442369771540483",
+        "conversation_id": "2108186487384904181",
+        "created_at": "2026-10-08T13:23:21.000Z",
+        "display_text_range": [
+          0,
+          78
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T14:23:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108186487384904181"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108186487384904181",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 12839,
+          "like_count": 93,
+          "quote_count": 5,
+          "reply_count": 3,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "そもそもあれだけキャストが「🌈ヶ咲はまだ終わらない！」と言ってくれてるのに、終わる終わると騒いでたオタクは先生とか親の言うことを聞かないで育ってきたタイプ？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108473202083295658",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 431,
+          "like_count": 10426,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2460
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-14T10:30:47.000Z",
+        "description": "ラブライブ！シリーズに生かされてるオタク| 少しP |\n @a_yabushima | @_mmiya_mm | ⚾️埼玉西武️️🦁 |\nNEXT⇒ラブライブ！フェス前夜祭",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 29,
+                "username": "a_yabushima"
+              },
+              {
+                "end": 54,
+                "start": 44,
+                "username": "_mmiya_mm"
+              }
+            ]
+          }
+        },
+        "id": "1625442369771540483",
+        "is_identity_verified": false,
+        "location": "国立音ノ木坂学院/ FF外通知切",
+        "most_recent_tweet_id": "2108452309718147257",
+        "name": "たこわさ🎃🐾",
+        "pinned_tweet_id": "2106708322015703226",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625442369771540483/1758097712",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042072668397301763/craE1q6I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6736,
+          "following_count": 4606,
+          "like_count": 214446,
+          "listed_count": 48,
+          "media_count": 9680,
+          "tweet_count": 53359
+        },
+        "url": "",
+        "username": "ybmm10101",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

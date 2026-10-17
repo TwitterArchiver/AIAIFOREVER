@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2104993063961575582",
+    "created_at": "2026-09-30T02:04:25.000Z",
+    "display_text_range": [
+      13,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T03:04:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105116523849462180"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1878142610805788672",
+          "start": 0,
+          "username": "yukinoo_123"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105116523849462180",
+    "in_reply_to_user_id": "1878142610805788672",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104993063961575582",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukinoo_123 好唐比啊砍死他"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2104993050061668352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTZwBruXgAAuxHQ.jpg",
+        "width": 1011
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2104993063961575582",
+        "created_at": "2026-09-30T02:04:25.000Z",
+        "display_text_range": [
+          13,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T03:04:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105116523849462180"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1878142610805788672",
+              "start": 0,
+              "username": "yukinoo_123"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105116523849462180",
+        "in_reply_to_user_id": "1878142610805788672",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104993063961575582",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukinoo_123 好唐比啊砍死他"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104993050061668352"
+          ]
+        },
+        "author_id": "1878142610805788672",
+        "conversation_id": "2104993063961575582",
+        "created_at": "2026-09-29T17:53:49.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T18:53:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104993063961575582"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3dZQBQTiQQ",
+              "end": 79,
+              "expanded_url": "https://x.com/yukinoo_123/status/2104993063961575582/photo/1",
+              "media_key": "3_2104993050061668352",
+              "start": 56,
+              "url": "https://t.co/3dZQBQTiQQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104993063961575582",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2104993050061668352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2602,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "土象男后续：我发了一条很负面情绪的朋友圈他来问我怎么了然后聊了几句。\n然后我看见这个你咋这么感性又萎了呵呵走开 https://t.co/3dZQBQTiQQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105116523849462180",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 426,
+          "like_count": 9160,
+          "listed_count": 1,
+          "media_count": 112,
+          "tweet_count": 2356
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-11T18:11:28.000Z",
+        "description": "纯绿 不看生殖器 不礼貌私信会公开骂\n不熟的异性不要用太亲密的称呼 看着难受\n把我内容发墙内的全家替我挡灾😇\n匿名提问🔗 https://t.co/pTsNSyYIuO",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/7hooi",
+                "end": 84,
+                "expanded_url": "https://ngl.link/7hooi",
+                "start": 61,
+                "url": "https://t.co/pTsNSyYIuO"
+              }
+            ]
+          }
+        },
+        "id": "1878142610805788672",
+        "is_identity_verified": false,
+        "location": "不与傻瓜论短长。问我约不约的你全家死完了",
+        "most_recent_tweet_id": "2105004508439044393",
+        "name": "分手后用烟头把前任烫成斑点狗",
+        "pinned_tweet_id": "2104194730712297866",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1878142610805788672/1790527643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2104151397868429312/CRp4zUTS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4829,
+          "following_count": 374,
+          "like_count": 3744,
+          "listed_count": 10,
+          "media_count": 277,
+          "tweet_count": 4407
+        },
+        "url": "",
+        "username": "yukinoo_123",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,374 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      }
+    ],
+    "conversation_id": "2104244277845082160",
+    "created_at": "2026-09-27T16:18:25.000Z",
+    "display_text_range": [
+      0,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T17:18:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2104244277845082160"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/ikahakuen/stat…",
+          "end": 59,
+          "expanded_url": "https://twitter.com/ikahakuen/status/2104150424748183830",
+          "start": 36,
+          "url": "https://t.co/QCtH0vNczv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104244277845082160",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104150424748183830",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "第一次在推上刷到爱酱的cos😭😭😭Miyashita Ai 最高，，， https://t.co/QCtH0vNczv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4032,
+        "media_key": "3_2104150413532631040",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNxpyCakAAIZcy.jpg",
+        "width": 3026
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2104244277845082160",
+        "created_at": "2026-09-27T16:18:25.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T17:18:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104244277845082160"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/ikahakuen/stat…",
+              "end": 59,
+              "expanded_url": "https://twitter.com/ikahakuen/status/2104150424748183830",
+              "start": 36,
+              "url": "https://t.co/QCtH0vNczv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104244277845082160",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104150424748183830",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "第一次在推上刷到爱酱的cos😭😭😭Miyashita Ai 最高，，， https://t.co/QCtH0vNczv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104150413532631040"
+          ]
+        },
+        "author_id": "1503755490006036485",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          }
+        ],
+        "conversation_id": "2104150424748183830",
+        "created_at": "2026-09-27T10:05:29.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T11:05:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104150424748183830"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 32,
+              "start": 28,
+              "tag": "鴨コス"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/POwBIIsFUY",
+              "end": 56,
+              "expanded_url": "https://x.com/ikahakuen/status/2104150424748183830/photo/1",
+              "media_key": "3_2104150413532631040",
+              "start": 33,
+              "url": "https://t.co/POwBIIsFUY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104150424748183830",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104150413532631040"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 102,
+          "impression_count": 9553,
+          "like_count": 702,
+          "quote_count": 10,
+          "reply_count": 10,
+          "retweet_count": 83
+        },
+        "reply_settings": "everyone",
+        "text": "宮下愛さんのコスプレ〜\n初出し意外と上手く行けた⁉️\n\n#鴨コス https://t.co/POwBIIsFUY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104244277845082160",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 455,
+          "following_count": 425,
+          "like_count": 8900,
+          "listed_count": 1,
+          "media_count": 111,
+          "tweet_count": 2328
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-15T15:30:33.000Z",
+        "description": "Cosplayer/166cm/ラブライブ！多めです。/メイン＠piimanmokuen",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "piimanmokuen"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ikahakuen.booth.pm",
+                "end": 23,
+                "expanded_url": "https://ikahakuen.booth.pm",
+                "start": 0,
+                "url": "https://t.co/bJtsNffw25"
+              }
+            ]
+          }
+        },
+        "id": "1503755490006036485",
+        "is_identity_verified": false,
+        "location": "関西",
+        "most_recent_tweet_id": "2104195997421445428",
+        "name": "イカは食えん",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503755490006036485/1766472674",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102408628385005568/WE3GCkO0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5298,
+          "following_count": 536,
+          "like_count": 19650,
+          "listed_count": 33,
+          "media_count": 1525,
+          "tweet_count": 12776
+        },
+        "url": "https://t.co/bJtsNffw25",
+        "username": "ikahakuen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

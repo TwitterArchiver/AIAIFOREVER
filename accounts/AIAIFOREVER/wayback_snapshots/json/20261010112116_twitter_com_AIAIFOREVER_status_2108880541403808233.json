@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2108880513239044096",
+        "3_2108880513239068672"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108880541403808233",
+    "created_at": "2026-10-10T11:21:16.000Z",
+    "display_text_range": [
+      0,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T12:21:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108880541403808233"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/A7B0W3NvBi",
+          "end": 35,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2108880541403808233/photo/1",
+          "media_key": "3_2108880513239044096",
+          "start": 12,
+          "url": "https://t.co/A7B0W3NvBi"
+        },
+        {
+          "display_url": "pic.x.com/A7B0W3NvBi",
+          "end": 35,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2108880541403808233/photo/1",
+          "media_key": "3_2108880513239068672",
+          "start": 12,
+          "url": "https://t.co/A7B0W3NvBi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108880541403808233",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2108880513239044096"
+      },
+      {
+        "media_key": "3_2108880513239068672"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "和candle出门挂壁 https://t.co/A7B0W3NvBi"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2108880513239044096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUQ_p0lbUAAbqQj.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2108880513239068672",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUQ_p0lbsAAhjD7.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2108880513239044096",
+            "3_2108880513239068672"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108880541403808233",
+        "created_at": "2026-10-10T11:21:16.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:21:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108880541403808233"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/A7B0W3NvBi",
+              "end": 35,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2108880541403808233/photo/1",
+              "media_key": "3_2108880513239044096",
+              "start": 12,
+              "url": "https://t.co/A7B0W3NvBi"
+            },
+            {
+              "display_url": "pic.x.com/A7B0W3NvBi",
+              "end": 35,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2108880541403808233/photo/1",
+              "media_key": "3_2108880513239068672",
+              "start": 12,
+              "url": "https://t.co/A7B0W3NvBi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108880541403808233",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2108880513239044096"
+          },
+          {
+            "media_key": "3_2108880513239068672"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "和candle出门挂壁 https://t.co/A7B0W3NvBi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108880541403808233",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 463,
+          "following_count": 433,
+          "like_count": 10494,
+          "listed_count": 0,
+          "media_count": 123,
+          "tweet_count": 2464
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

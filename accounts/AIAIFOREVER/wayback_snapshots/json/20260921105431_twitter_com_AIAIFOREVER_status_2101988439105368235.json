@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2101928246157967581",
+    "created_at": "2026-09-21T10:54:31.000Z",
+    "display_text_range": [
+      11,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T11:54:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101988439105368235"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1865350100069076992",
+          "start": 0,
+          "username": "Reiaki114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101988439105368235",
+    "in_reply_to_user_id": "1865350100069076992",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101983737349374253",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Reiaki114 好呀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2101928246157967581",
+        "created_at": "2026-09-21T10:54:31.000Z",
+        "display_text_range": [
+          11,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:54:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101988439105368235"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1865350100069076992",
+              "start": 0,
+              "username": "Reiaki114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101988439105368235",
+        "in_reply_to_user_id": "1865350100069076992",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101983737349374253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Reiaki114 好呀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1865350100069076992",
+        "conversation_id": "2101928246157967581",
+        "created_at": "2026-09-21T10:35:50.000Z",
+        "display_text_range": [
+          13,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T11:35:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101983737349374253"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2071924874163912704",
+              "start": 0,
+              "username": "AIAIFOREVER"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101983737349374253",
+        "in_reply_to_user_id": "2071924874163912704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101928246157967581",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AIAIFOREVER 来我要和你玩"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101988439105368235",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 461,
+          "following_count": 443,
+          "like_count": 7490,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 2233
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-07T10:58:23.000Z",
+        "description": "locating in🇯🇵 ip东京\n地下アイドル❤️舞台派最棒了💗温良爱好者💕ヲタ芸一年め/Utage！MAGMAZ❤️/中国語 English 日本語 可/believer’s baptism✝️\n好闺蜜：@kanono167\n精神病 看成分互fo可 友跨🏳️‍⚧️19才",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 105,
+                "username": "kanono167"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/reiaki114_",
+                "end": 23,
+                "expanded_url": "https://ngl.link/reiaki114_",
+                "start": 0,
+                "url": "https://t.co/gIV55HPwIQ"
+              }
+            ]
+          }
+        },
+        "id": "1865350100069076992",
+        "is_identity_verified": false,
+        "location": "歌舞伎町",
+        "most_recent_tweet_id": "2101983737349374253",
+        "name": "𡧃佐美リャキ",
+        "pinned_tweet_id": "2069032855783772197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1865350100069076992/1758536396",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056979654725283840/-M_pi1dm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404,
+          "following_count": 721,
+          "like_count": 2518,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1016
+        },
+        "url": "https://t.co/gIV55HPwIQ",
+        "username": "Reiaki114",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

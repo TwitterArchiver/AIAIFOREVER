@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2071924874163912704",
+    "conversation_id": "2108022935135178983",
+    "created_at": "2026-10-08T02:33:27.000Z",
+    "display_text_range": [
+      0,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-08T03:33:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2108022935135178983"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/Liuran_yanagi/…",
+          "end": 39,
+          "expanded_url": "https://twitter.com/Liuran_yanagi/status/2107952932562072010",
+          "start": 16,
+          "url": "https://t.co/yFgLxwWd1O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108022935135178983",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107952932562072010",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "羡慕哭了，我是说话有0逻辑之人 https://t.co/yFgLxwWd1O"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2071924874163912704",
+        "conversation_id": "2108022935135178983",
+        "created_at": "2026-10-08T02:33:27.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-08T03:33:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108022935135178983"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Liuran_yanagi/…",
+              "end": 39,
+              "expanded_url": "https://twitter.com/Liuran_yanagi/status/2107952932562072010",
+              "start": 16,
+              "url": "https://t.co/yFgLxwWd1O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108022935135178983",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107952932562072010",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "羡慕哭了，我是说话有0逻辑之人 https://t.co/yFgLxwWd1O"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1344604726650920960",
+        "conversation_id": "2107952932562072010",
+        "created_at": "2026-10-07T21:55:17.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T22:55:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107952932562072010"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/alanshao111/st…",
+              "end": 164,
+              "expanded_url": "https://twitter.com/alanshao111/status/2107805891080671504",
+              "start": 141,
+              "url": "https://t.co/Ob7wJRfO01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107952932562072010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 34,
+          "impression_count": 42426,
+          "like_count": 523,
+          "quote_count": 4,
+          "reply_count": 20,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107805891080671504",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "初中有人用投影放电影被班主任知道了。放学全班留下来没人检举就不准走。折腾半天也没人愿意揭发，于是她出了个昏招每人实名写张纸揭发。当时我脑子一热写了个“无义务揭发”，她看完直接发大火打电话叫家长了。本来要教训我，没想到在办公室我火力全开把这个刚毕业的老师骂哭了 我妈怎么都拦不住（） https://t.co/Ob7wJRfO01"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n品客死远点，健全比死远点\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2108022935135178983",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 464,
+          "following_count": 431,
+          "like_count": 10220,
+          "listed_count": 0,
+          "media_count": 122,
+          "tweet_count": 2441
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-12-31T11:23:01.000Z",
+        "description": "我与我周旋久，宁做我。",
+        "id": "1344604726650920960",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107965921117843936",
+        "name": "柳染/Yanagi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1344604726650920960/1766954149",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107948463447285760/IYGMdalA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2116,
+          "following_count": 3498,
+          "like_count": 3476,
+          "listed_count": 17,
+          "media_count": 447,
+          "tweet_count": 1440
+        },
+        "url": "",
+        "username": "Liuran_yanagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

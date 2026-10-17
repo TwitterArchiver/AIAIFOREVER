@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2103669822823530497"
+      ]
+    },
+    "author_id": "2071924874163912704",
+    "conversation_id": "2103669880839114974",
+    "created_at": "2026-09-26T02:15:58.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T03:15:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2103669880839114974"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/boICkBhu2H",
+          "end": 42,
+          "expanded_url": "https://x.com/AIAIFOREVER/status/2103669880839114974/photo/1",
+          "media_key": "3_2103669822823530497",
+          "start": 19,
+          "url": "https://t.co/boICkBhu2H"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103669880839114974",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2103669822823530497"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "这个妆半个小时化完的是不是有点伟大了 https://t.co/boICkBhu2H"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2103669822823530497",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTG8juIbAAEVy01.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103669822823530497"
+          ]
+        },
+        "author_id": "2071924874163912704",
+        "conversation_id": "2103669880839114974",
+        "created_at": "2026-09-26T02:15:58.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T03:15:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103669880839114974"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/boICkBhu2H",
+              "end": 42,
+              "expanded_url": "https://x.com/AIAIFOREVER/status/2103669880839114974/photo/1",
+              "media_key": "3_2103669822823530497",
+              "start": 19,
+              "url": "https://t.co/boICkBhu2H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103669880839114974",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103669822823530497"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个妆半个小时化完的是不是有点伟大了 https://t.co/boICkBhu2H"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2026-06-30T11:53:36.000Z",
+        "description": "叫我小艾就好\n我是女聲優癡\n我是女地偶癡\n我喜歡長發男\n餐券嗑藥负能碎碎念tv \n\n🚪52/128",
+        "id": "2071924874163912704",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103669880839114974",
+        "name": "8964‖霸王龍愛吃三角龍",
+        "pinned_tweet_id": "2094709137456472271",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2071924874163912704/1785820576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097650057344700416/vM_Yamtj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 451,
+          "following_count": 426,
+          "like_count": 8847,
+          "listed_count": 1,
+          "media_count": 109,
+          "tweet_count": 2310
+        },
+        "url": "",
+        "username": "AIAIFOREVER",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
